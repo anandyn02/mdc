@@ -92,8 +92,14 @@
       "title": "Corrected QT Interval (QTc)",
       "desc": "The Corrected QT Interval (QTc) adjusts the QT interval correctly for heart rate extremes.",
       "updated": "2023-12-14T02:33:59.865Z",
-      "fileName": "",
-      "type": []
+      "fileName": "1_4g3_uz9VN1LKIXaukk_uKRXCUIWFrD-",
+      "type": ["Cardiology",
+        "Emergency Medicine",
+        "Family Practice",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Primary Care",
+        "Toxicology"]
     },
     {
       "id": "50",
