@@ -6,7 +6,13 @@
       "desc": "The Absolute Neutrophil Count (ANC) is frequently used to assess neutropenic fever in chemotherapy patients.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1HQLWKjQHMISiLJGpj_4yhMzvmWo2g2b6",
-      "type": []
+      "type": ["Critical Care",
+			"Emergency Medicine",
+			"Family Practice",
+			"Hematology and Oncology",
+			"Infectious Disease",
+			"Internal Medicine",
+			"Palliative Care/Hospice"]
     },
     {
       "id": "23",
