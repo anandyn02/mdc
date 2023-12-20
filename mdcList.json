@@ -6,6 +6,7 @@
       "desc": "The Absolute Neutrophil Count (ANC) is frequently used to assess neutropenic fever in chemotherapy patients.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1oor8uBOa0V_S5WtooEsdtmuiulW86AuX",
+	    "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": ["Critical Care",
 			"Emergency Medicine",
 			"Family Practice",
@@ -20,6 +21,7 @@
       "desc": "The APGAR Score assesses neonates vitality at 1 and 5 minutes after birth.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	    "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -28,6 +30,7 @@
       "desc": "The Basal Energy Expenditure calculates daily energy expenditure.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -37,6 +40,7 @@
       "canonicalUrl": "/calc/27/bicarbonate-deficit.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -45,6 +49,7 @@
       "desc": "The BMI and BSA calculators estimate the Body Mass Index and Body Surface Area.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -53,6 +58,7 @@
       "desc": "The Calcium Correction for Hypoalbuminemia calculates a corrected calcium level for patients with hypoalbuminemia.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -61,6 +67,7 @@
       "desc": "The PSI/PORT Score: Pneumonia Severity Index for Adult CAP estimates mortality for adult patients with community-acquired pneumonia.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -69,6 +76,7 @@
       "desc": "The Framingham Coronary Heart Disease Risk Score estimates risk of heart attack in 10 years.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -77,6 +85,7 @@
       "desc": "The CHADS2 score estimates stroke risk in patients with atrial fibrillation.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -85,6 +94,7 @@
       "desc": "The Creatinine Clearance (Cockcroft-Gault Equation) predicts Creatinine Clearance from serum Creatinine.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": []
     },
     {
@@ -93,6 +103,7 @@
       "desc": "The Corrected QT Interval (QTc) adjusts the QT interval correctly for heart rate extremes.",
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1xjQ-_tgE416cJU_AozCtPeVZTBAXPIps",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": ["Cardiology",
         "Emergency Medicine",
         "Family Practice",
@@ -106,6 +117,7 @@
       "title": "Sodium Correction for Hyperglycemia",
       "desc": "The Sodium Correction for Hyperglycemia Calculates the actual sodium level in patients with hyperglycemia.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -114,6 +126,7 @@
       "title": "Maddrey's Discriminant Function for Alcoholic Hepatitis",
       "desc": "The Maddrey’s Discriminant Function suggests which patients with alcoholic hepatitis may have a poor prognosis and benefit from steroid administration.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -122,6 +135,7 @@
       "title": "Pediatric Endotracheal Tube (ETT) Size",
       "desc": "The Pediatric Endotracheal Tube (ETT) Size estimates ET tube size based on age.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -130,6 +144,7 @@
       "title": "Fractional Excretion of Sodium (FENa)",
       "desc": "The Fractional Excretion of Sodium (FENa) determines if renal failure is due to pre-renal, intrinsic, or post-renal pathology.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -138,6 +153,7 @@
       "title": "Fractional Excretion of Urea (FEUrea)",
       "desc": "The Fractional Excretion of Urea (FEUrea) determines the cause of renal failure. Similar to the FENa, but can be used on patients on diuretics.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -146,6 +162,7 @@
       "title": "Glasgow Coma Scale/Score (GCS)",
       "desc": "The Glasgow Coma Scale/Score (GCS) estimates coma severity based on Eye (4), Verbal (5), and Motor (6) criteria.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -154,6 +171,7 @@
       "title": "Ideal Body Weight and Adjusted Body Weight",
       "desc": "The Ideal Body Weight calculator calculates ideal body weight by the Devine formula.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -162,6 +180,7 @@
       "title": "LDL Calculated",
       "desc": "The LDL Calculated calculates LDL based on total and HDL cholesterol and triglycerides.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -170,6 +189,7 @@
       "title": "Maintenance Fluids Calculations",
       "desc": "The Maintenance Fluids Calculator calculates maintenance fluid requirements by weight.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -178,6 +198,7 @@
       "title": "Mean Arterial Pressure (MAP)",
       "desc": "The Mean Arterial Pressure (MAP) calculates mean arterial pressure from measured systolic and diastolic blood pressure values.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -186,6 +207,7 @@
       "title": "MDRD GFR Equation",
       "desc": "The MDRD GFR Equation estimates glomerular filtration rate based on creatinine and patient characteristics.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -194,6 +216,7 @@
       "title": "MELD Na (UNOS/OPTN)",
       "desc": "The MELD Score (Model For End-Stage Liver Disease) (12 and older) quantifies end-stage liver disease for transplant planning.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -202,6 +225,7 @@
       "title": "Oxygenation Index",
       "desc": "The Oxygenation Index Predicts outcomes, especially in pediatric patients by helping to determine need for ECMO.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -210,6 +234,7 @@
       "title": "Parkland Formula for Burns",
       "desc": "Calculates fluid requirements for burn patients in a 24-hour period.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -218,6 +243,7 @@
       "title": "Pediatric Ins and Outs",
       "desc": "The Pediatric Ins and Outs (per kg and per hour) calculates fluid status in volume per weight & volume per weight per time, for pediatrics.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -226,6 +252,7 @@
       "title": "PELD Score (Pediatric End-Stage Liver Disease) (younger than 12)",
       "desc": "The PELD Score (Pediatric End-Stage Liver Disease) calculates the pediatric version of the MELD score for liver cirrhosis severity and transplant planning",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -234,6 +261,7 @@
       "title": "Ranson's Criteria for Pancreatitis Mortality",
       "desc": "The Ranson's Criteria for Pancreatitis Mortality Estimates mortality of patients with pancreatitis, based on initial and 48-hour lab values.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -242,6 +270,7 @@
       "title": "Serum Osmolality/Osmolarity",
       "desc": "The Serum Osmolality/Osmolarity calculates expected serum osmolarity, for comparison to measured osmolarity to detect unmeasured compounds in the serum.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -250,6 +279,7 @@
       "title": "San Francisco Syncope Rule",
       "desc": "The San Francisco Syncope Rule predicts risk for serious outcomes at 7 days in patients presenting with syncope or near-syncope.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -258,6 +288,7 @@
       "title": "Sodium Deficit in Hyponatremia",
       "desc": "The Sodium Deficit in Hyponatremia Calculates sodium quantity missing in hyponatremia.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -266,6 +297,7 @@
       "title": "TIMI Risk Score for STEMI",
       "desc": "The TIMI Risk Score for STEMI estimates 30-day mortality in patients with STEMI.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -274,6 +306,7 @@
       "title": "Osmolar/Osmotic Gap",
       "desc": "The Stool Osmolar/Osmotic Gap determines if chronic diarrhea is osmotic or secretory in nature.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -282,6 +315,7 @@
       "title": "Centor Score (Modified/McIsaac) for Strep Pharyngitis",
       "desc": "The Centor Score (Modified) for Strep Pharyngitis Estimates probability that pharyngitis is streptococcal, and suggests management course.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -290,6 +324,7 @@
       "title": "TIMI Risk Score for UA/NSTEMI",
       "desc": "The TIMI Risk Score for UA/NSTEMI estimates mortality for patients with unstable angina and non-ST elevation myocardial infarction (MI).",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -298,6 +333,7 @@
       "title": "Free Water Deficit in Hypernatremia",
       "desc": "The Free Water Deficit in Hypernatremia calculates free water deficit by estimated total body water.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -306,6 +342,7 @@
       "title": "Wells' Criteria for Pulmonary Embolism",
       "desc": "The Wells’ Criteria for Pulmonary Embolism objectifies risk of pulmonary embolism (PE).",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -314,6 +351,7 @@
       "title": "Winters' Formula for Metabolic Acidosis Compensation",
       "desc": "The Winters’ Formula for Metabolic Acidosis Compensation Calculates the expected pCO2 compensation in a purely metabolic acidosis",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -322,6 +360,7 @@
       "title": "A-a O2 Gradient",
       "desc": "The A-a O2 Gradient assesses for degree of shunting and V/Q mismatch.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -330,6 +369,7 @@
       "title": "ASAS Criteria for Axial Spondyloarthritis (SpA)",
       "desc": "The ASAS Criteria for Axial Spondyloarthritis (SpA) diagnoses axial spondyloarthritis according to Assessment of Spondyloarthritis International Society (ASAS) criteria.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -338,6 +378,7 @@
       "title": "CURB-65 Score for Pneumonia Severity",
       "desc": "The CURB-65 Severity Score estimates mortality of community-acquired pneumonia to help determine inpatient vs. outpatient treatment.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -346,6 +387,7 @@
       "title": "Phenytoin (Dilantin) Correction for Albumin/Renal Failure",
       "desc": "The Phenytoin (Dilantin) Correction for Albumin / Renal Failure corrects serum phenytoin level for renal failure and/or hypoalbuminemia.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -354,6 +396,7 @@
       "title": "Child-Pugh Score for Cirrhosis Mortality",
       "desc": "The Child-Pugh Score for Cirrhosis Mortality estimates cirrhosis severity.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -362,6 +405,7 @@
       "title": "PERC Rule for Pulmonary Embolism",
       "desc": "The PERC Rule for Pulmonary Embolism Rules out PE if no criteria are present and pre-test probability is ≤15%.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -370,6 +414,7 @@
       "title": "ABCD2 Score for TIA",
       "desc": "The ABCD2 Score for TIA estimates risk of stroke (CVA) after a transient ischemic attack (TIA), according to patient risk factors.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -378,6 +423,7 @@
       "title": "Wells' Criteria for DVT",
       "desc": "The Wells’ Criteria for DVT Objectifies risk of deep vein thrombosis (DVT) based on clinical findings.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -386,6 +432,7 @@
       "title": "Ottawa Knee Rule",
       "desc": "The Ottawa Knee Rule describes criteria for minor knee trauma patients that are so low risk as not to warrant knee imaging.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -394,6 +441,7 @@
       "title": "Intracerebral Hemorrhage (ICH) Score",
       "desc": "The Intracerebral Hemorrhage (ICH) Score estimates mortality based on age and CT findings.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -402,6 +450,7 @@
       "title": "Hunt & Hess Classification of Subarachnoid Hemorrhage",
       "desc": "The Hunt & Hess Classification of Subarachnoid Hemorrhage Classifies severity of subarachnoid hemorrhage to predict mortality.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -410,6 +459,7 @@
       "title": "Pregnancy Due Dates Calculator",
       "desc": "The Pregnancy Due Dates Calculator Calculates pregnancy dates, forward from last period or backward from due date.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -418,6 +468,7 @@
       "title": "Sodium Correction Rate in Hyponatremia and Hypernatremia",
       "desc": "The Sodium Correction Rate for Hyponatremia Calculates recommended fluid type, rate and volume to correct hyponatremia slowly (or more rapidly if seizing).",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -426,6 +477,7 @@
       "title": "Glasgow-Blatchford Bleeding Score (GBS)",
       "desc": "The Glasgow-Blatchford Bleeding Score (GBS) stratifies upper GI bleeding patients who are 'low-risk' and candidates for outpatient management.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -434,6 +486,7 @@
       "title": "King's College Criteria for Acetaminophen Toxicity",
       "desc": "The Kings College Criteria for Acetaminophen Overdose evaluates the need for translpantation in liver failure secondary to acetaminophen overdose.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -442,6 +495,7 @@
       "title": "Mangled Extremity Severity Score (MESS)",
       "desc": "The Mangled Extremity Severity Score (MESS) estimates viability of an extremity after trauma to determine need for salvage versus empiric amputation.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -450,6 +504,7 @@
       "title": "Acetaminophen Overdose and NAC Dosing",
       "desc": "The Acetaminophen Overdose and NAC dosing Calculates PO or IV dosing of N-acetylcysteine (NAC) for acetaminophen overdose.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -458,6 +513,7 @@
       "title": "PECARN Pediatric Head Injury/Trauma Algorithm",
       "desc": "The PECARN Pediatric Head Injury/Trauma Algorithm provides the PECARN algorithm for evaluating pediatric head injury.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -466,6 +522,7 @@
       "title": "New Orleans/Charity Head Trauma/Injury Rule",
       "desc": "The New Orleans/Charity Head Trauma/Injury Rule Offers criteria for which patients are unlikely to require imaging after head trauma.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -474,6 +531,7 @@
       "title": "Canadian CT Head Injury/Trauma Rule",
       "desc": "The Canadian CT Head Injury/Trauma Rule clears head injury without imaging.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -482,6 +540,7 @@
       "title": "Alvarado Score for Acute Appendicitis",
       "desc": "The Alvarado Score for Acute Appendicitis predicts likelihood of appendicitis diagnosis.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -490,6 +549,7 @@
       "title": "TIMI Risk Index",
       "desc": "The TIMI Risk Index provides mortality estimate in patients with ACS using only blood pressure, heart rate, and age.",
       "updated": "2023-12-14T02:33:59.865Z",
+	     "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     },
@@ -498,6 +558,7 @@
       "title": "Hepatic Encephalopathy Grades/Stages",
       "desc": "The Hepatic Encephalopathy Grades/Stages defines criteria for the stages of hepatic encephalopathy based on west Haven Criteria",
       "updated": "2023-12-14T02:33:59.865Z",
+	      "topicId":"1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
       "type": []
     }
