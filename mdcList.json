@@ -125,7 +125,14 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "16BWGFSP4HqGFlMfxF7NsHkASRJZ8k_NP",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": ["Critical Care",
+        "Emergency Medicine",
+        "Family Practice",
+        "Hospitalist Medicine",
+        "Infectious Disease",
+        "Internal Medicine",
+        "Primary Care",
+        "Pulmonology"]
     },
     {
       "id": "38",
@@ -134,7 +141,17 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1btJcpAvZvJYrRCxmu7L2lmFFWO8L771s",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+        "Cardiology",
+        "Critical Care",
+        "Emergency Medicine",
+        "Endocrinology",
+        "Family Practice",
+        "Geriatrics",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Primary Care"
+      ]
     },
     {
       "id": "40",
@@ -143,7 +160,15 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1IrDxCr8Dn1Y-IHrz72wkuksk9eabCEXc",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [  "Cardiology",
+        "Critical Care",
+        "Emergency Medicine",
+        "Family Practice",
+        "Geriatrics",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Neurology",
+        "Primary Care"]
     },
     {
       "id": "43",
@@ -152,7 +177,24 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1lRuurgmNHDB3wJ6Xi7OPnFNSthRQlzBY",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": ["Cardiology",
+                "Critical Care",
+                "Emergency Medicine",
+                "Family Practice",
+                "Gastroenterology",
+                "Geriatrics",
+                "Hematology and Oncology",
+                "Hospitalist Medicine",
+                "Internal Medicine",
+                "Nephrology",
+                "Pharmacy",
+                "Primary Care",
+                "Radiation Oncology",
+                "Radiology",
+                "Rehabilitation Medicine",
+                "Surgery (General)",
+                "Surgery (Trauma)",
+                "Toxicology"]
     },
     {
       "id": "48",
