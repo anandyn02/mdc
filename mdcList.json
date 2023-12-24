@@ -24,7 +24,13 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1Spv-IwLPo3xcqIAs4Fg9Uzk__YdpIcmZ",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+        "Critical Care",
+        "Critical Care (Neonatal)",
+        "Emergency Medicine",
+        "OB-Gyn",
+        "Pediatrics"
+      ]
     },
     {
       "id": "25",
@@ -33,7 +39,18 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1v7BoGrBPwqdkbqG1_lLp0DBSDrAfBV8L",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+        "Clinical Nutrition",
+        "Critical Care",
+        "Endocrinology",
+        "Hematology and Oncology",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "OB-Gyn",
+        "Pediatrics",
+        "Pharmacy",
+        "Rehabilitation Medicine",
+        "Sports Medicine"]
     },
     {
       "id": "27",
@@ -43,7 +60,17 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1V_coexVsLlgKCXhcA1uTr_pgxlSNsJRz",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+         "Critical Care",
+        "Emergency Medicine",
+        "Endocrinology",
+        "Gastroenterology",
+        "Geriatrics",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Nephrology",
+        "Surgery (Trauma)"
+      ]
     },
     {
       "id": "29",
@@ -52,7 +79,22 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1xuBSG-64MWS7UWto7NrO1HbGjrpxnwkk",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+         "Critical Care",
+        "Emergency Medicine",
+        "Endocrinology",
+        "Family Practice",
+        "Geriatrics",
+        "Hematology and Oncology",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "OB-Gyn",
+        "Pediatrics",
+        "Pharmacy",
+        "Primary Care",
+        "Radiation Oncology",
+        "Rehabilitation Medicine"
+      ]
     },
     {
       "id": "31",
@@ -61,7 +103,20 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1twu32bU6TQFdmVITD9rguqO2rL8K6vUe",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": []
+      "type": [
+        "Cardiology",
+                "Critical Care",
+                "Emergency Medicine",
+                "Endocrinology",
+                "Family Practice",
+                "Geriatrics",
+                "Hematology and Oncology",
+                "Hepatology",
+                "Hospitalist Medicine",
+                "Internal Medicine",
+                "Pediatrics",
+                "Primary Care"
+      ]
     },
     {
       "id": "33",
