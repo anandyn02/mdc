@@ -15,7 +15,8 @@
         "Infectious Disease",
         "Internal Medicine",
         "Palliative Care/Hospice"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "23",
@@ -30,7 +31,8 @@
         "Emergency Medicine",
         "OB-Gyn",
         "Pediatrics"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "25",
@@ -50,7 +52,9 @@
         "Pediatrics",
         "Pharmacy",
         "Rehabilitation Medicine",
-        "Sports Medicine"]
+        "Sports Medicine"
+      ],
+      "isAvail": 1
     },
     {
       "id": "27",
@@ -61,7 +65,7 @@
       "fileName": "1V_coexVsLlgKCXhcA1uTr_pgxlSNsJRz",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": [
-         "Critical Care",
+        "Critical Care",
         "Emergency Medicine",
         "Endocrinology",
         "Gastroenterology",
@@ -70,7 +74,8 @@
         "Internal Medicine",
         "Nephrology",
         "Surgery (Trauma)"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "29",
@@ -80,7 +85,7 @@
       "fileName": "1xuBSG-64MWS7UWto7NrO1HbGjrpxnwkk",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": [
-         "Critical Care",
+        "Critical Care",
         "Emergency Medicine",
         "Endocrinology",
         "Family Practice",
@@ -94,7 +99,8 @@
         "Primary Care",
         "Radiation Oncology",
         "Rehabilitation Medicine"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "31",
@@ -105,18 +111,19 @@
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "type": [
         "Cardiology",
-                "Critical Care",
-                "Emergency Medicine",
-                "Endocrinology",
-                "Family Practice",
-                "Geriatrics",
-                "Hematology and Oncology",
-                "Hepatology",
-                "Hospitalist Medicine",
-                "Internal Medicine",
-                "Pediatrics",
-                "Primary Care"
-      ]
+        "Critical Care",
+        "Emergency Medicine",
+        "Endocrinology",
+        "Family Practice",
+        "Geriatrics",
+        "Hematology and Oncology",
+        "Hepatology",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Pediatrics",
+        "Primary Care"
+      ],
+      "isAvail": 1
     },
     {
       "id": "33",
@@ -125,14 +132,17 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "16BWGFSP4HqGFlMfxF7NsHkASRJZ8k_NP",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": ["Critical Care",
+      "type": [
+        "Critical Care",
         "Emergency Medicine",
         "Family Practice",
         "Hospitalist Medicine",
         "Infectious Disease",
         "Internal Medicine",
         "Primary Care",
-        "Pulmonology"]
+        "Pulmonology"
+      ],
+      "isAvail": 1
     },
     {
       "id": "38",
@@ -151,7 +161,8 @@
         "Hospitalist Medicine",
         "Internal Medicine",
         "Primary Care"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "40",
@@ -160,7 +171,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1IrDxCr8Dn1Y-IHrz72wkuksk9eabCEXc",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": [  "Cardiology",
+      "type": [
+        "Cardiology",
         "Critical Care",
         "Emergency Medicine",
         "Family Practice",
@@ -168,7 +180,9 @@
         "Hospitalist Medicine",
         "Internal Medicine",
         "Neurology",
-        "Primary Care"]
+        "Primary Care"
+      ],
+      "isAvail": 1
     },
     {
       "id": "43",
@@ -177,24 +191,27 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "fileName": "1lRuurgmNHDB3wJ6Xi7OPnFNSthRQlzBY",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "type": ["Cardiology",
-                "Critical Care",
-                "Emergency Medicine",
-                "Family Practice",
-                "Gastroenterology",
-                "Geriatrics",
-                "Hematology and Oncology",
-                "Hospitalist Medicine",
-                "Internal Medicine",
-                "Nephrology",
-                "Pharmacy",
-                "Primary Care",
-                "Radiation Oncology",
-                "Radiology",
-                "Rehabilitation Medicine",
-                "Surgery (General)",
-                "Surgery (Trauma)",
-                "Toxicology"]
+      "type": [
+        "Cardiology",
+        "Critical Care",
+        "Emergency Medicine",
+        "Family Practice",
+        "Gastroenterology",
+        "Geriatrics",
+        "Hematology and Oncology",
+        "Hospitalist Medicine",
+        "Internal Medicine",
+        "Nephrology",
+        "Pharmacy",
+        "Primary Care",
+        "Radiation Oncology",
+        "Radiology",
+        "Rehabilitation Medicine",
+        "Surgery (General)",
+        "Surgery (Trauma)",
+        "Toxicology"
+      ],
+      "isAvail": 1
     },
     {
       "id": "48",
@@ -211,7 +228,8 @@
         "Internal Medicine",
         "Primary Care",
         "Toxicology"
-      ]
+      ],
+      "isAvail": 1
     },
     {
       "id": "50",
@@ -220,7 +238,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1p-c3gsTwM3XUnuKduR9yxQz0F3RVLbUK",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "56",
@@ -229,7 +248,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1Yp_s-RCWldtZmofvav9AyNTzVO71JAwB",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "58",
@@ -238,7 +258,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1rGXpsNraZXjO6VrXKSnms9EJvgcYgHKI",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "60",
@@ -247,7 +268,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1p21en6fv9zhGADoEVSeBYm4OpWDVXKMx",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "62",
@@ -256,7 +278,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "12ebHQQCgI8dy5xg4mZswommtTr11Odwh",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "64",
@@ -265,7 +288,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "11RNJRIOeUwmXO7ntDZnZe0ZQSBPEjCgD",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "68",
@@ -274,7 +298,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1FZTO0QD1bqcpA_hPLPkXV-hUJd5z4P7n",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "70",
@@ -283,7 +308,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1EUPrk-yPAlfFA14exdCmkJ0OTdDFa2c6",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "72",
@@ -292,7 +318,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1Nre8DoMrxXkHV3XnBRc_mBb-67BXkLh2",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "74",
@@ -301,7 +328,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1aVauQOI6amlV2c2lYep1CZp187avzoPX",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "76",
@@ -310,7 +338,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "78",
@@ -319,7 +348,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "1bgy1MmHo45CPpNodN5RsW7KW7Q-xTC08",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "80",
@@ -328,7 +358,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "83",
@@ -337,7 +368,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "85",
@@ -346,7 +378,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "87",
@@ -355,7 +388,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "89",
@@ -364,7 +398,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "91",
@@ -373,16 +408,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
-    },
-    {
-      "id": "93",
-      "title": "San Francisco Syncope Rule",
-      "desc": "The San Francisco Syncope Rule predicts risk for serious outcomes at 7 days in patients presenting with syncope or near-syncope.",
-      "updated": "2023-12-14T02:33:59.865Z",
-      "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "95",
@@ -391,7 +418,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "99",
@@ -400,7 +428,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "101",
@@ -409,7 +438,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "104",
@@ -418,7 +448,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "111",
@@ -427,7 +458,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "113",
@@ -436,7 +468,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "115",
@@ -445,7 +478,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "117",
@@ -454,7 +488,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "243",
@@ -463,7 +498,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "306",
@@ -472,7 +508,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "324",
@@ -481,7 +518,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "333",
@@ -490,7 +528,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "340",
@@ -499,7 +538,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "347",
@@ -508,7 +548,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "357",
@@ -517,7 +558,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "362",
@@ -526,7 +568,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "368",
@@ -535,7 +578,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "402",
@@ -544,7 +588,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "404",
@@ -553,7 +598,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "423",
@@ -562,7 +608,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "480",
@@ -571,7 +618,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "518",
@@ -580,16 +628,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
-    },
-    {
-      "id": "532",
-      "title": "King's College Criteria for Acetaminophen Toxicity",
-      "desc": "The Kings College Criteria for Acetaminophen Overdose evaluates the need for translpantation in liver failure secondary to acetaminophen overdose.",
-      "updated": "2023-12-14T02:33:59.865Z",
-      "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
-      "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "549",
@@ -598,7 +638,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "568",
@@ -607,7 +648,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "589",
@@ -616,7 +658,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "604",
@@ -625,7 +668,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "608",
@@ -634,7 +678,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "617",
@@ -643,7 +688,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "665",
@@ -652,7 +698,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     },
     {
       "id": "674",
@@ -661,7 +708,8 @@
       "updated": "2023-12-14T02:33:59.865Z",
       "topicId": "1Iho2QhfcL1gPkYJD-X9975BrFqVwN7rQ",
       "fileName": "",
-      "type": []
+      "type": [],
+      "isAvail": 1
     }
   ]
 }
