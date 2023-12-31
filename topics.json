@@ -1,0 +1,267 @@
+{
+  "list": [
+    {
+      "name": "Anatomy",
+      "topics": [
+        {
+          "name": "Gross anatomy",
+          "desc": [
+            "Introduction to Anatomy, nomenclature, anatomical position, planes, tissues and movements."
+          ],
+          "topics": [
+            {
+              "name": "Osteology",
+              "desc": [
+                "Names of the bones of the body and their position; classification of the bones with examples; general features of the bone and normal development; microscopic anatomy of bone; general pattern of blood supply; ossification of the bones of the limbs for age determination. X-rays of bones.",
+                "Process of repair of bone."
+              ]
+            },
+            {
+              "name": "Muscular System",
+              "desc": [
+                "Classification and identification of the muscles of the body: main attachments, nerve supply and action(s), microscopic anatomy of muscles and the nerve terminations.",
+                "Details of attachments of the muscles; ultra structural features of muscle; mechanism of the movement caused by the muscle/muscles and various forces exerted by them and their detailed action(s)."
+              ]
+            },
+            {
+              "name": "Arthrology",
+              "desc": [
+                "Definitionandclassificationofjoints,generalfeaturesofdifferenttypesofjoints;detailedstudyof major joints of the limbs and movements performed at various joints in the body.",
+                "Microscopic anatomy of articular cartilage; maintenance of articular cartilages; blood supply and nerve supply of the joints."
+              ]
+            },
+            {
+              "name": "Cardio Vascular System",
+              "desc": [
+                "Normal position, external features and parts of the heart; internal features of the chambers of heart, names of the blood vessels and venous drainage of the organs, structures and body as a whole, conducting system of heart, fibroskeleton of heart.",
+                "Variation(s),developmentalanomaliesofheartandbloodvessels,valvulardefectsandtheireffects in pathogenesis of the anomalies."
+              ]
+            },
+            {
+              "name": "Respiratory System",
+              "desc": [
+                "Position, parts, relations, blood supply of upper and lower respiratory tract. Pleura, its reflection, nerve supply, pleural recesses and their significance, bronchopulmonary segments, their importance.",
+                "Mechanism of respiration"
+              ]
+            },
+            {
+              "name": "Digestive System",
+              "desc": [
+                "Position, extent, parts, relations, blood supply, nerve supply, lymphatic drainage and sphincters of the gastrointestinal system.",
+                "Sphincteric action including functional implications."
+              ]
+            },
+            {
+              "name": "Genito-Urinary System",
+              "desc": [
+                "Parts, position, relations, blood supply, nerve supply and lymphatic drainage of uterus, cervix, vagina, ovary, ovarian duct, testes, epididymis, seminal vesicle, ductus deferens, prostate, kidney, ureter, urinary bladder and urethra",
+                "Innervation of urinary bladder in detail"
+              ]
+            },
+            {
+              "name": "Endocrine System and Individual Endocrine Glands",
+              "desc": [
+                "Variousendocrineglands,theirlocation,relations,bloodsupply,nervesupplyandlymphaticdrainage.",
+                "Clinical manifestations of common endocrine disorders."
+              ]
+            },
+            {
+              "name": "Nervous System and its components",
+              "desc": [
+                "Parts of nervous system, neuron meninges, nerve terminals, neuroglia, myelination, degeneration and regeneration, ventricles, CSF, spinal cord and its blood supply. Motor and sensory pathways, cranial nerves, thalamus, cerebellum, limbic and autonomic pathways. Functional cortical areas, motor and sensory cortex and their blood supply."
+              ]
+            },
+            {
+              "name": "Special Sensory Organs",
+              "desc": [
+                "Gross Anatomy of eye ball, extra ocular muscles their nerve supply and actions (s)",
+                "Gross Anatomy of ear",
+                "Gross Anatomy of nose",
+                "Gross Anatomy of tongue, its musculature blood supply and lymphatic drainage."
+              ]
+            },
+            {
+              "name": "Lymphatic System",
+              "desc": [
+                "Location of the major groups of the lymphnodes of the body and their drainage areas. Gross anatomy of the major lymphatics specially thoracic duct and its tributaries."
+              ]
+            },
+            {
+              "name": "Surface Anatomy",
+              "desc": [
+                "Surface features of the body and projection of the outline of heart, its borders, surfaces and valves, lungs, their borders, fissures and hila, pleura, liver, kidneys and various abdominal and pelvic organs and important vessels and nerves"
+              ]
+            },
+            {
+              "name": "Cross Sectional Anatomy",
+              "desc": [
+                "Cross sections of thorax, abdomen and pelvis to understand the interrelationship of organs and structures."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Micro anatomy",
+          "desc": [
+            "Microscope and basic principles of microscopy, commonly used stains, basophilic and acidophilic staining reactions and their significance. Commonly encountered artifacts. Brief principle of electron microscopy and interpretation of ultrastructural features."
+          ],
+          "topics": [
+            {
+              "name": "Epithelium",
+              "desc": [
+                "Microscopic characteristics, types, functions, distribution, basal lamina, cell junctions, specialization of the cell surface and their structural details and functions; metaplasia."
+              ]
+            },
+            {
+              "name": "Connective tissue",
+              "desc": [
+                "Cells, fibers and their structural features and functions. Intercellular substances, amorphous ground substance, types of connective tissue (loose areolar tissue, dense connective tissue) and their distribution. Specialized connective tissue : different types of cartilages and their functions and distribution. Bone : Cells, bone matrix, structural features of compact and cancellous bone, their distribution and functions, ossification, blood supply of a long bone."
+              ]
+            },
+            {
+              "name": "Muscle",
+              "desc": [
+                "General features, detailed structure of : skeletal muscle, and molecular mechanisms of contraction, innvervation of skeletal muscle, neuromuscular junction, morphological and histochemical basis of classification into type I and type II muscle fibers and their significance, structural and functional characteristics of cardiac and smooth muscle; innvervation of cardiac and smooth muscle."
+              ]
+            },
+            {
+              "name": "Nervous tissue",
+              "desc": [
+                "Structural characteristics of a neuron, axon and dendrties. Different types of neurons and their specific structural and functional features and distribution. Axonal transport, synapse, morphological and functional characteristics of different types of synapses. Neuroglia : types, structure and functions, blood brain barrier. Brief cytoarchitecture of the central nervous system, regeneration in CNS with particular emphasis on stem cells. Sensory and autonomic ganglia, peripheral nerves, myelin and myelination, degeneration and regeneration in peripheral nerves."
+              ]
+            },
+            {
+              "name": "Exocrine glands",
+              "desc": [
+                "Characteristics, simple and compound glands; types of secretions, modes of secretion, detailed structural features of a serous secreting cell and mucous secreting cell, serous and mucous acini, duct system, features of salivary glands, exocrine pancreas, sweat and sebaceous glands, mammary gland, bulbourethral gland etc."
+              ]
+            },
+            {
+              "name": "Circulatory system",
+              "desc": [
+                "Structural features of heart; conducting and distributing arteries and arterioles; types of capillaries, their structural features and distribution and microcirculation, detailed structure of endothelium; structural characteristics of large and small veins and venules arterio-venous shunts, lymphatics."
+              ]
+            },
+            {
+              "name": "Respiratory system",
+              "desc": [
+                "Structural features of nose, nasopharynx, larynx, trachea, principal brochi, lung including intrapulmonary bronchi, bronchioles, alveolar ducts, atria, alveoli, blood-air-barrier. Functions of different parts of respiratory system."
+              ]
+            },
+            {
+              "name": "Skin and nerve-end-organs",
+              "desc": [
+                "Thick, thin and hairy skin, cell renewal and pigmentation of skin, skin appendages, healing of skin wounds, sensory receptors of skin. Functions of skin."
+              ]
+            },
+            {
+              "name": "Immune system and lymphoid organs",
+              "desc": [
+                "Lymphocytes, their subtypes and functions. Humoral and cell mediated immunity. Thymus, lymph nodes, spleen, tonsils and other mucous associated lymphoid follicles."
+              ]
+            },
+            {
+              "name": "Digestive system (GIT)",
+              "desc": [
+                "General organization, oral cavity, lip, cheek, tongue, taste buds, associated salivary glands. Layers of tubular digestive tract, esophagus, stomach, small intestine, gastroesophageal junction, gastroduodenal junction, large intestine, anal canal and rectoanal junction. Liver, internal organization of liver, liver lobule, liver acinus, significance of zonation in liver acinus, liver sinusoids, detailed structure of hapatocyet, bile canaliculi, bile ducts, gall bladder, bile duct and pancreas."
+              ]
+            },
+            {
+              "name": "Endocrine glands",
+              "desc": [
+                "Thyroid, parathyroid, Islets of Langerhan’s gland, adrenal cortex and medulla, their structural details, functional mechanisms, hypophysis cerebri, cell types secretion and their functions, hypophyseal portal circulation, common endocrine disorders"
+              ]
+            },
+            {
+              "name": "Urinary system)",
+              "desc": [
+                "Detailed microscopic structure of kidney, cortex, medulla, pyramids, medullary rays, cortical columns, glomerulus, nephron, glomerular filtration juxtaglomerular apparatus, its structural features and functions, renal interstitium, collecting ducts, renal sinus, minor and major calyces, microcirculation of kidney, histophysiology of the kidney, renal pelvis and ureters, urinary bladder and urethra."
+              ]
+            },
+            {
+              "name": "Female reproductive system",
+              "desc": [
+                "Ovary, ovarian stroma, primary and secondary graafian follicles, functions of various constitutents and structural details of graafian follicles, atretic follicles, corpuluteum and its functions, corpus albicans. Oviducts, uterus, arterial supply of uterus, cyclic changes in uterine endometrium, fertilization, vagina, female external ganitalia and mammary glands."
+              ]
+            },
+            {
+              "name": "Male reproductive system",
+              "desc": [
+                "Testes, spermatogenesis, spermatozoon, cycle of seminiferous epithelium, sertoli cells, interstitial tissue Leydig cells, histophysiology of testes, epididymus, vas deferns, prostrate, seminal vesicles, penis."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Embryology & Genetics",
+          "desc": [],
+          "topics": [
+            {
+              "name": "General Embryology",
+              "desc": [
+                "Definition of embryology; gestation period: definition of gamete sperm, Ovum; gametogenesis, migration of primordial germ cells into gonadal ridge; spermatogenesis; structure of sperm, oogenesis; structure of ovum; growth of ovarian follicles, ovarian and uterine cycles.",
+                "Sperm in the male genital tract; sperm in the female genital tract, activation and capacitation of sperm in the female genital tract."
+              ]
+            },
+            {
+              "name": "First Week of Development",
+              "desc": [
+                "Definition and normal site and process of fertilisation, formation of zygote, cleavage division; formation of morula and blastocyst."
+              ]
+            },
+            {
+              "name": "Second Week of Development",
+              "desc": [
+                "Differentiation of embryoblast and trophoblast; changes in the embryoblast formation of bilainar germ disc; changes in the trophoblast; formation of cytotrophoblast, syncytiotrophoblast, amniotic membrane, yolk sac, extra embryonic mesoderm and extra embryonic coelom and connecting stalk; formation of chorion, amniotic cavity, primary yolk sac cavity appearance of prochordal plate.",
+                "Implantation; formation of decidua, types of implantation and abnormal sites of implantation"
+              ]
+            },
+            {
+              "name": "Third Week of Development",
+              "desc": [
+                "Appearance of primitive streak and primitive node; formation of intraembroynic mesoderm resulting in trilaminar germ disc; gastrulation formation of notochord, buccopharyngeal and cloacal membranes, paraxial, intermediate and lateral plate mesoderm, secondary yolk sac, intraembryonic coelom and allantoic diverticulum; derivatives of ectoderm, mesoderm and endoderm."
+              ]
+            },
+            {
+              "name": "Fourth To Eighth week of Development (Embryonic period)",
+              "desc": [
+                "Formation of somites, neural tube, cephalocaudal folding, lateral foldings, body form, stomodeum, proctodeum, gut and vitelline duct; subdivisions of gut into foregut, midgut and hindgut."
+              ]
+            },
+            {
+              "name": "Placenta",
+              "desc": [
+                "Formation of placenta and chorionic villi, decidua basalis; features and functions of placenta; placental circulation; abnormalities; placental barrier; placentome, types of placenta."
+              ]
+            },
+            {
+              "name": "Umbilical Cord",
+              "desc": [
+                "Formation of umbilical cord; features of umbilical cord."
+              ]
+            },
+            {
+              "name": "Amniotic Cavity",
+              "desc": [
+                "Amniotic cavity and membrane; amniotic fluid – functions, expansions of amniotic cavity and fusion with chorion; chorion laeve with decidua capsularis; decidua capsularis with parietalis; obliteration of chorionic and uterine cavities; function of fused foetal membranes to dilate cervical canal.",
+                "Abnormalities; obliteration of chorionic and uterine cavities; abnormalities of chorion.",
+                "Formation of twins and types of twins.",
+                "Arrangement of foetal membranes. Conjoined twins."
+              ]
+            },
+            {
+              "name": "Teratology",
+              "desc": [
+                "Genetical and environmental factors as causative factors for congenital malformations.",
+                "Mode of actions of teratogenes and critical periods."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Neuro anatomy"
+        }
+      ]
+    }
+  ]
+}
