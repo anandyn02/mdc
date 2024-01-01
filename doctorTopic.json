@@ -1,0 +1,196 @@
+[
+  {
+    "name": "nephrology",
+    "list": [
+      {
+        "name": "Chronic Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "Polycystic Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "APOL1-Mediated Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "Lupus nephritis",
+        "desc": ""
+      },
+      {
+        "name": "IgA nephropathy",
+        "desc": ""
+      },
+      {
+        "name": "Glomerulonephritis (Glomerular Disease)",
+        "desc": ""
+      },
+      {
+        "name": "Cystinosis",
+        "desc": ""
+      },
+      {
+        "name": "Complement 3 glomerulopathy (C3G)",
+        "desc": ""
+      },
+      {
+        "name": "aHUS (atypical Hemolytic Uremic Syndrome)",
+        "desc": ""
+      },
+      {
+        "name": "Focal segmental glomerulosclerosis (FSGS)",
+        "desc": ""
+      },
+      {
+        "name": "Interstitial nephritis",
+        "desc": ""
+      },
+      {
+        "name": "Fabry disease",
+        "desc": ""
+      },
+      {
+        "name": "Granulomatosis with polyangiitis (GPA)",
+        "desc": ""
+      },
+      {
+        "name": "Cardiovascular-kidney-metabolic (CKM) syndrome",
+        "desc": ""
+      },
+      {
+        "name": "Primary hyperoxaluria and oxalate",
+        "desc": ""
+      },
+      {
+        "name": "Interstitial nephritis",
+        "desc": ""
+      },
+      {
+        "name": "Minimal change disease",
+        "desc": ""
+      },
+      {
+        "name": "Acute Renal Failure",
+        "desc": ""
+      },
+      {
+        "name": "Hypertension",
+        "desc": ""
+      },
+      {
+        "name": "Anaemia",
+        "desc": ""
+      },
+      {
+        "name": "Proteinuria",
+        "desc": ""
+      },
+      {
+        "name": "Henoch-Schönlein Purpura (HSP)",
+        "desc": ""
+      },
+      {
+        "name": "Haematuria",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "name": "Cardiology",
+    "list": [
+      {
+        "name": "Chronic Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "Polycystic Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "APOL1-Mediated Kidney Disease",
+        "desc": ""
+      },
+      {
+        "name": "Lupus nephritis",
+        "desc": ""
+      },
+      {
+        "name": "IgA nephropathy",
+        "desc": ""
+      },
+      {
+        "name": "Glomerulonephritis (Glomerular Disease)",
+        "desc": ""
+      },
+      {
+        "name": "Cystinosis",
+        "desc": ""
+      },
+      {
+        "name": "Complement 3 glomerulopathy (C3G)",
+        "desc": ""
+      },
+      {
+        "name": "aHUS (atypical Hemolytic Uremic Syndrome)",
+        "desc": ""
+      },
+      {
+        "name": "Focal segmental glomerulosclerosis (FSGS)",
+        "desc": ""
+      },
+      {
+        "name": "Interstitial nephritis",
+        "desc": ""
+      },
+      {
+        "name": "Fabry disease",
+        "desc": ""
+      },
+      {
+        "name": "Granulomatosis with polyangiitis (GPA)",
+        "desc": ""
+      },
+      {
+        "name": "Cardiovascular-kidney-metabolic (CKM) syndrome",
+        "desc": ""
+      },
+      {
+        "name": "Primary hyperoxaluria and oxalate",
+        "desc": ""
+      },
+      {
+        "name": "Interstitial nephritis",
+        "desc": ""
+      },
+      {
+        "name": "Minimal change disease",
+        "desc": ""
+      },
+      {
+        "name": "Acute Renal Failure",
+        "desc": ""
+      },
+      {
+        "name": "Hypertension",
+        "desc": ""
+      },
+      {
+        "name": "Anaemia",
+        "desc": ""
+      },
+      {
+        "name": "Proteinuria",
+        "desc": ""
+      },
+      {
+        "name": "Henoch-Schönlein Purpura (HSP)",
+        "desc": ""
+      },
+      {
+        "name": "Haematuria",
+        "desc": ""
+      }
+    ]
+  }
+]
