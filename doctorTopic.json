@@ -1,6 +1,6 @@
 [
   {
-    "name": "Nephrology",
+    "name": "nephrology",
     "list": [
       {
         "name": "Chronic Kidney Disease",
@@ -100,95 +100,188 @@
     "name": "Cardiology",
     "list": [
       {
-        "name": "Chronic Kidney Disease",
+        "name": "Arrhythmia",
         "desc": ""
       },
       {
-        "name": "Polycystic Kidney Disease",
+        "name": "Atrial Fibrillation",
         "desc": ""
       },
       {
-        "name": "APOL1-Mediated Kidney Disease",
+        "name": "Angina",
         "desc": ""
       },
       {
-        "name": "Lupus nephritis",
+        "name": "Aorta disease and Marfan syndrome",
         "desc": ""
       },
       {
-        "name": "IgA nephropathy",
+        "name": "Coronary artery disease",
         "desc": ""
       },
       {
-        "name": "Glomerulonephritis (Glomerular Disease)",
+        "name": "Peripheral arterial disease",
         "desc": ""
       },
       {
-        "name": "Cystinosis",
+        "name": "Cardiac ischemia",
         "desc": ""
       },
       {
-        "name": "Complement 3 glomerulopathy (C3G)",
+        "name": "Cerebrovascular disease",
         "desc": ""
       },
       {
-        "name": "aHUS (atypical Hemolytic Uremic Syndrome)",
+        "name": "Rheumatic fever",
         "desc": ""
       },
       {
-        "name": "Focal segmental glomerulosclerosis (FSGS)",
+        "name": "Heart failure",
         "desc": ""
       },
       {
-        "name": "Interstitial nephritis",
+        "name": "Heart attack",
         "desc": ""
       },
       {
-        "name": "Fabry disease",
+        "name": "Aortic disease",
         "desc": ""
       },
       {
-        "name": "Granulomatosis with polyangiitis (GPA)",
+        "name": "Pulmonary hypertension",
         "desc": ""
       },
       {
-        "name": "Cardiovascular-kidney-metabolic (CKM) syndrome",
+        "name": "High cholesterol",
         "desc": ""
       },
       {
-        "name": "Primary hyperoxaluria and oxalate",
+        "name": "Deep vein thrombosis and pulmonary embolism",
         "desc": ""
       },
       {
-        "name": "Interstitial nephritis",
+        "name": "Heart valve disease",
         "desc": ""
       },
       {
-        "name": "Minimal change disease",
+        "name": "Congenital heart disease",
         "desc": ""
       },
       {
-        "name": "Acute Renal Failure",
+        "name": "Atherosclerosis",
         "desc": ""
       },
       {
-        "name": "Hypertension",
+        "name": "Pericarditis",
         "desc": ""
       },
       {
-        "name": "Anaemia",
+        "name": "Cardiomyopathy",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "name": "Neurology",
+    "list": [
+      {
+        "name": "Acute Spinal Cord Injury",
         "desc": ""
       },
       {
-        "name": "Proteinuria",
+        "name": "Alzheimer's Disease",
         "desc": ""
       },
       {
-        "name": "Henoch-Schönlein Purpura (HSP)",
+        "name": "ALS (Amyotrophic Lateral Sclerosis)",
         "desc": ""
       },
       {
-        "name": "Haematuria",
+        "name": "Ataxia",
+        "desc": ""
+      },
+      {
+        "name": "Bell's Palsy",
+        "desc": ""
+      },
+      {
+        "name": "Brain Tumors",
+        "desc": ""
+      },
+      {
+        "name": "Cerebral Aneurysm",
+        "desc": ""
+      },
+      {
+        "name": "Epilepsy and Seizures",
+        "desc": ""
+      },
+      {
+        "name": "Guillain-Barré Syndrome",
+        "desc": ""
+      },
+      {
+        "name": "Headache",
+        "desc": ""
+      },
+      {
+        "name": "Head Injury",
+        "desc": ""
+      },
+      {
+        "name": "Hydrocephalus",
+        "desc": ""
+      },
+      {
+        "name": "Lumbar Disk Disease (Herniated Disk)",
+        "desc": ""
+      },
+      {
+        "name": "Meningitis",
+        "desc": ""
+      },
+      {
+        "name": "Multiple Sclerosis",
+        "desc": ""
+      },
+      {
+        "name": "Muscular Dystrophy",
+        "desc": ""
+      },
+      {
+        "name": "Neurocutaneous Syndromes",
+        "desc": ""
+      },
+      {
+        "name": "Parkinson's Disease",
+        "desc": ""
+      },
+      {
+        "name": "Stroke (Brain Attack)",
+        "desc": ""
+      },
+      {
+        "name": "Cluster Headaches",
+        "desc": ""
+      },
+      {
+        "name": "Tension Headaches",
+        "desc": ""
+      },
+      {
+        "name": "Migraine Headaches",
+        "desc": ""
+      },
+      {
+        "name": "Encephalitis",
+        "desc": ""
+      },
+      {
+        "name": "Septicemia",
+        "desc": ""
+      },
+      {
+        "name": "Myasthenia Gravis",
         "desc": ""
       }
     ]
