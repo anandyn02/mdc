@@ -1,289 +1,7846 @@
 [
   {
-    "name": "nephrology",
-    "list": [
-      {
-        "name": "Chronic Kidney Disease",
-        "desc": ""
-      },
-      {
-        "name": "Polycystic Kidney Disease",
-        "desc": ""
-      },
-      {
-        "name": "APOL1-Mediated Kidney Disease",
-        "desc": ""
-      },
-      {
-        "name": "Lupus nephritis",
-        "desc": ""
-      },
-      {
-        "name": "IgA nephropathy",
-        "desc": ""
-      },
-      {
-        "name": "Glomerulonephritis (Glomerular Disease)",
-        "desc": ""
-      },
-      {
-        "name": "Cystinosis",
-        "desc": ""
-      },
-      {
-        "name": "Complement 3 glomerulopathy (C3G)",
-        "desc": ""
-      },
-      {
-        "name": "aHUS (atypical Hemolytic Uremic Syndrome)",
-        "desc": ""
-      },
-      {
-        "name": "Focal segmental glomerulosclerosis (FSGS)",
-        "desc": ""
-      },
-      {
-        "name": "Interstitial nephritis",
-        "desc": ""
-      },
-      {
-        "name": "Fabry disease",
-        "desc": ""
-      },
-      {
-        "name": "Granulomatosis with polyangiitis (GPA)",
-        "desc": ""
-      },
-      {
-        "name": "Cardiovascular-kidney-metabolic (CKM) syndrome",
-        "desc": ""
-      },
-      {
-        "name": "Primary hyperoxaluria and oxalate",
-        "desc": ""
-      },
-      {
-        "name": "Interstitial nephritis",
-        "desc": ""
-      },
-      {
-        "name": "Minimal change disease",
-        "desc": ""
-      },
-      {
-        "name": "Acute Renal Failure",
-        "desc": ""
-      },
-      {
-        "name": "Hypertension",
-        "desc": ""
-      },
-      {
-        "name": "Anaemia",
-        "desc": ""
-      },
-      {
-        "name": "Proteinuria",
-        "desc": ""
-      },
-      {
-        "name": "Henoch-Schönlein Purpura (HSP)",
-        "desc": ""
-      },
-      {
-        "name": "Haematuria",
-        "desc": ""
-      }
-    ]
+    "name": "Abdominal aortic aneurysm",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
   },
   {
-    "name": "Cardiology",
-    "list": [
-      {
-        "name": "Arrhythmia",
-        "desc": ""
-      },
-      {
-        "name": "Atrial Fibrillation",
-        "desc": ""
-      },
-      {
-        "name": "Angina",
-        "desc": ""
-      },
-      {
-        "name": "Aorta disease and Marfan syndrome",
-        "desc": ""
-      },
-      {
-        "name": "Coronary artery disease",
-        "desc": ""
-      },
-      {
-        "name": "Peripheral arterial disease",
-        "desc": ""
-      },
-      {
-        "name": "Cardiac ischemia",
-        "desc": ""
-      },
-      {
-        "name": "Cerebrovascular disease",
-        "desc": ""
-      },
-      {
-        "name": "Rheumatic fever",
-        "desc": ""
-      },
-      {
-        "name": "Heart failure",
-        "desc": ""
-      },
-      {
-        "name": "Heart attack",
-        "desc": ""
-      },
-      {
-        "name": "Aortic disease",
-        "desc": ""
-      },
-      {
-        "name": "Pulmonary hypertension",
-        "desc": ""
-      },
-      {
-        "name": "High cholesterol",
-        "desc": ""
-      },
-      {
-        "name": "Deep vein thrombosis and pulmonary embolism",
-        "desc": ""
-      },
-      {
-        "name": "Heart valve disease",
-        "desc": ""
-      },
-      {
-        "name": "Congenital heart disease",
-        "desc": ""
-      },
-      {
-        "name": "Atherosclerosis",
-        "desc": ""
-      },
-      {
-        "name": "Pericarditis",
-        "desc": ""
-      },
-      {
-        "name": "Cardiomyopathy",
-        "desc": ""
-      }
-    ]
+    "name": "Abdominal compartment syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
   },
   {
-    "name": "Neurology",
-    "list": [
-      {
-        "name": "Acute Spinal Cord Injury",
-        "desc": ""
-      },
-      {
-        "name": "Alzheimer's Disease",
-        "desc": ""
-      },
-      {
-        "name": "ALS (Amyotrophic Lateral Sclerosis)",
-        "desc": ""
-      },
-      {
-        "name": "Ataxia",
-        "desc": ""
-      },
-      {
-        "name": "Bell's Palsy",
-        "desc": ""
-      },
-      {
-        "name": "Brain Tumors",
-        "desc": ""
-      },
-      {
-        "name": "Cerebral Aneurysm",
-        "desc": ""
-      },
-      {
-        "name": "Epilepsy and Seizures",
-        "desc": ""
-      },
-      {
-        "name": "Guillain-Barré Syndrome",
-        "desc": ""
-      },
-      {
-        "name": "Headache",
-        "desc": ""
-      },
-      {
-        "name": "Head Injury",
-        "desc": ""
-      },
-      {
-        "name": "Hydrocephalus",
-        "desc": ""
-      },
-      {
-        "name": "Lumbar Disk Disease (Herniated Disk)",
-        "desc": ""
-      },
-      {
-        "name": "Meningitis",
-        "desc": ""
-      },
-      {
-        "name": "Multiple Sclerosis",
-        "desc": ""
-      },
-      {
-        "name": "Muscular Dystrophy",
-        "desc": ""
-      },
-      {
-        "name": "Neurocutaneous Syndromes",
-        "desc": ""
-      },
-      {
-        "name": "Parkinson's Disease",
-        "desc": ""
-      },
-      {
-        "name": "Stroke (Brain Attack)",
-        "desc": ""
-      },
-      {
-        "name": "Cluster Headaches",
-        "desc": ""
-      },
-      {
-        "name": "Tension Headaches",
-        "desc": ""
-      },
-      {
-        "name": "Migraine Headaches",
-        "desc": ""
-      },
-      {
-        "name": "Encephalitis",
-        "desc": ""
-      },
-      {
-        "name": "Septicemia",
-        "desc": ""
-      },
-      {
-        "name": "Myasthenia Gravis",
-        "desc": ""
-      }
-    ]
+    "name": "Abetalipoproteinaemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Abnormal uterine bleeding",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Absence seizures",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acanthosis nigricans",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Accidental hypothermia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Achalasia",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Achlorhydria",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acne vulgaris",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acquired torticollis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acromegaly",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Actinic keratosis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Actinomycosis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute appendicitis - Investigations | BMJ Best Practice",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute appendicitis - Symptoms, diagnosis and treatment | BMJ Best Practice",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute aspiration",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute asthma exacerbation in adults",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute bronchitis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute cervical spine trauma in adults",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute cholangitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute cholecystitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute conjunctivitis",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute cystitis",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute epididymitis",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute heart failure",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute intermittent porphyria",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute interstitial nephritis",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute kidney injury",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute liver failure",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute lymphoblastic leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute myeloid leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute otitis media",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute pancreatitis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute pharyngitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute prostatitis",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute pyelonephritis",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Infectious diseases",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute respiratory distress syndrome (ARDS)",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute respiratory failure",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute sinusitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Ear, nose, and throat",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute tubular necrosis",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Acute varicella-zoster",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Adenocarcinoma of unknown primary site",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Adhesive capsulitis",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Adolescent idiopathic scoliosis",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Adrenal suppression",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "African trypanosomiasis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Age-related macular degeneration",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alcohol withdrawal",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alcoholic liver disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Allergic bronchopulmonary aspergillosis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Allergic rhinitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alopecia areata",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alpha-1 antitrypsin deficiency",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alpha-thalassaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alport's syndrome",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Alzheimer's disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Amblyopia",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Amfetamine overdose",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Amoebiasis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Amyloidosis",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Amyotrophic lateral sclerosis",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anabolic steroid use disorder",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anaemia of chronic disease",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anal cancer",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anal fissure",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anaphylaxis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anatomical penile abnormalities",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Androgenetic alopecia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Angiodysplasia of the colon",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Angle-closure glaucoma",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Angular cheilitis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Animal bites",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ankle fractures",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ankylosing spondylitis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anorectal abscess",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anorexia nervosa",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anterior cruciate ligament injury",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Anthrax",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Antiphospholipid syndrome",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aortic coarctation",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aortic dissection",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aortic regurgitation",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aortic stenosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aplastic anaemia in adults",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ascariasis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aspergillosis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Aspiration pneumonia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of abdominal pain in children",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of abdominal pain in pregnancy",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of abdominal trauma in adults",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of abnormal uterine bleeding",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of acute abdomen",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of acute diarrhoea",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of acute headache in adults",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of acute headache in children",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of acute motor deficit",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of altered mental status",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of anaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of aphasia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of ascites",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of ataxia",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of back pain",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of balance disorders",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of breast mass",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of cardiomyopathy",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of chest pain",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of chronic abdominal pain",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of chronic cough",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of chronic diarrhoea",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of clubbing",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of coma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of cranial nerve mononeuropathy",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of cyanosis in the newborn",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of delirium",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dementia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dermatological disorders in HIV",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dizziness",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dysmenorrhoea",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dyspareunia",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dyspepsia",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dysphagia",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dyspnoea",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of dysuria",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of easy bruising",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of elevated creatinine",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of eosinophilia",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Haematology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of fatigue",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of fever in children",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of fever of unknown origin in adults",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of food allergies and sensitivities",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Gastroenterology and hepatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of gait disorders in children",
+    "desc": "",
+    "type": [
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of haemoptysis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hearing loss",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hirsutism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of HIV-related mental status changes",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hoarseness and dysphonia",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypercalcaemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hyperkalaemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypernatraemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hyperprolactinaemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypertension",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypocalcaemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypokalaemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hyponatraemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of hypotension",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of incidental adrenal mass",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of infantile dystonia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of inflamed joint",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of jaundice",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of knee injury",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of learning difficulty and cognitive delay",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of liver dysfunction",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of lower extremity mononeuropathy",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of lower gastrointestinal bleeding",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of lymphadenopathy",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of maculopapular rash",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of magnesium deficiency",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of mediastinal mass",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of memory deficit",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of metabolic acidosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of metabolic alkalosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of monoclonal gammopathies",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of nausea and vomiting in children",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of nausea and vomiting, adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of neck pain",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of nephrotic syndrome",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of neutropenia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of non-visible haematuria",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of olfactory loss",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of oral ulceration",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of palpitations",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of pancytopenia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of paraesthesias",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of pericardial effusion",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of peripheral oedema",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of pituitary mass",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of polyneuropathy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of postoperative fever",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of primary amenorrhoea",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of proctitis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of proteinuria",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of pruritus",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of ptosis",
+    "desc": "",
+    "type": [
+      "Ophthalmology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of pustular rash",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of rash in children",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of recurrent miscarriage",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of red eye",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of respiratory acidosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of respiratory alkalosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of secondary amenorrhoea",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of seronegative arthritis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of shock",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of short stature",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of splenomegaly",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of steatorrhoea",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of syncope",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of tachycardia",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of taste disorders",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Nutrition",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of thrombocytopenia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of thyroid mass",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of traumatic brain injury, acute",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of tremor",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of unintentional weight loss",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Haematology",
+      "Infectious diseases",
+      "Gastroenterology and hepatology",
+      "Oncology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of upper extremity mononeuropathy",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of upper gastrointestinal bleeding",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of urticaria",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of vaginal bleeding",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of vaginal discharge",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of vesicular-bullous rash",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of visible haematuria",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Assessment of vision loss",
+    "desc": "",
+    "type": [
+      "Ophthalmology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Asthma in adults",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Asthma in children",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Astigmatism",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Atrial flutter",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Atrial myxoma",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Atrioventricular block",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Atypical pneumonia (non-COVID-19)",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Autoimmune hepatitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Avian influenza A (H5N1) virus infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Avian influenza A(H7N9) virus infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Babesiosis",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bacterial meningitis in adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Infectious diseases",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bacterial meningitis in children",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Balanoposthitis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bariatric surgery sequelae",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Barrett's oesophagus",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bartholin's cyst",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bartonella infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Basal cell carcinoma",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bed bugs",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Behcet's syndrome",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bell's palsy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Benign paroxysmal positional vertigo",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Benign prostatic hyperplasia",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Benzodiazepine overdose",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Beta-thalassaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Biliary atresia",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bladder cancer",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Blast crisis",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Blastomycosis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Blepharitis",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Botulism",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Infectious diseases",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Brachial plexus birth injury",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Brachial plexus injury",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Brain abscess",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Breast cancer in situ",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Breech presentation",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bronchiolitis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Brucellosis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Brugada syndrome",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bruxism",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Budd-Chiari syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Buerger's disease",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bulimia nervosa",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bullous pemphigoid",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Bursitis",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Calcium pyrophosphate deposition",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Campylobacter infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Carbon monoxide poisoning",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Carcinoid syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cardiac arrest",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cardiac tamponade",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Carotid artery stenosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Carpal tunnel syndrome",
+    "desc": "",
+    "type": [
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cataracts",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cauda equina syndrome",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cavernous sinus thrombosis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Infectious diseases",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cellulitis and erysipelas",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Central airway obstruction",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Central hypothyroidism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Central sleep apnoea",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cerebral aneurysm",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cerebral arteriovenous malformation",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cerebral palsy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cerumen impaction",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cervical cancer",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cervical cancer screening",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cervicitis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chagas disease",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chancroid",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Charcot-Marie-Tooth disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chikungunya virus infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chlamydia pneumoniae infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cholangiocarcinoma",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cholelithiasis (gallstones)",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cholera",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cholesteatoma",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic atrial fibrillation",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic granulomatous disease",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic inflammatory demyelinating polyradiculoneuropathy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic kidney disease",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic lymphocytic leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic myeloid leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic pain syndromes",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic pancreatitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic pelvic pain in women",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic pyelonephritis",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Infectious diseases",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic sinusitis without nasal polyps",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic spinal cord injury",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Chronic venous insufficiency",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cirrhosis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Clavicle fracture",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cleft lip and palate",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Clostridioides difficile-associated disease",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cluster headache",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cocaine toxicity",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Coccidioidomycosis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Coccygodynia",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Coeliac disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Colorectal cancer",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Colorectal polyps",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Common cold",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Common cutaneous drug reactions",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Common toxic plant ingestions",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Common warts",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Community-acquired pneumonia (non COVID-19)",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Complement deficiencies",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Complex regional pain syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Congenital adrenal hyperplasia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Congenital heart disease",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Congenital torticollis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Constipation",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Constipation in children",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Contact dermatitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Contraception",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Coronavirus disease 2019 (COVID-19)",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Costochondritis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Coxiella burnetii infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Craniopharyngioma",
+    "desc": "",
+    "type": [
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Crimean-Congo haemorrhagic fever",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Crohn's disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cryoglobulinaemia",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cryptococcosis",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cryptorchidism",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cryptosporidiosis",
+    "desc": "",
+    "type": [
+      "Infectious diseases",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cushing syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cutaneous larva migrans",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cutaneous T-cell lymphoma",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Cytomegalovirus infection",
+    "desc": "",
+    "type": [
+      "Infectious diseases"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Deep vein thrombosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Degenerative cervical spine disease",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Delayed puberty",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dementia with Lewy bodies",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dermatomyositis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dermatophyte infections",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Developmental dysplasia of the hip",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetes insipidus",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic cardiovascular disease",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic foot complications",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Dermatology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic hypoglycaemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic ketoacidosis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic kidney disease",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic neuropathy",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diabetic retinopathy",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "DiGeorge syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Digoxin toxicity",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Discogenic low back pain",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Discoid lupus erythematosus",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Disorders of infant feeding",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Disseminated intravascular coagulation",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Diverticular disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Drowning",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dry eye disease",
+    "desc": "",
+    "type": [
+      "Ophthalmology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dubin-Johnson syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dupuytren's contracture",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dysbarism",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dyshidrotic dermatitis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dyssomnias in children",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Dystonias",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ectopic pregnancy",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Eczema",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Electrical injury",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Encephalitis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Endometrial cancer",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Endometriosis",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Enterovirus D-68",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Enuresis",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome)",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Eosinophilic oesophagitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Epicondylitis",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Epidermolysis bullosa",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Epiglottitis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Epistaxis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Equinovarus foot deformity",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Erectile dysfunction",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Erythema multiforme",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Erythema nodosum",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Essential hypertension",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Essential thrombocythaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Essential tremor",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Eustachian tube dysfunction",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Eye trauma",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Faecal incontinence in adults",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Faecal incontinence in children",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Faltering growth",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Familial adenomatous polyposis syndromes",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Familial Mediterranean fever",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Febrile neutropenia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Febrile seizure",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Felty's syndrome",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Fibrocystic breasts",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Fibromyalgia",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Fissured, hairy, and geographic tongue",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Focal atrial tachycardia",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Focal segmental glomerulosclerosis",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Focal seizures",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Folate deficiency",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Folliculitis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Food allergy",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Gastroenterology and hepatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Food poisoning",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Foodborne E coli infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Foreign body aspiration",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Foreign body ingestion",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Frontotemporal dementia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Fungal meningitis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ganglion cyst",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gastritis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gastro-oesophageal reflux disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gastroparesis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Generalised seizures in adults",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Generalised seizures in children",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Genital tract chlamydia infection",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Genital warts",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gestational diabetes mellitus",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gestational hypertension",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Giant cell arteritis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Giardiasis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gilbert syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gingivitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gliomas",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Oncology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Glomerulonephritis",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gonorrhoea infection",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Goodpasture's disease",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gout",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Graft-versus-host disease",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Granuloma annulare",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Granulomatosis with polyangiitis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Graves' disease",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Groin pain",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Growth hormone deficiency in children",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Guillain-Barre syndrome",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Gynaecomastia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Haemochromatosis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Haemolytic anaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Haemolytic uraemic syndrome",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Haemophilia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Haemorrhoids",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hairy cell leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Halitosis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hand-foot-and-mouth disease",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Heart failure with preserved ejection fraction",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Heart failure with reduced ejection fraction",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Heat stroke in adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "HELLP syndrome",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Gastroenterology and hepatology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Heparin-induced thrombocytopenia",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology",
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatic encephalopathy",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Gastroenterology and hepatology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatic steatosis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatitis A",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatitis C",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatitis D",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatocellular carcinoma",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hepatorenal syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Nephrology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hereditary spherocytosis",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Herpes simplex virus infection",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Herpes zoster infection",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hiatus hernia",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hiccups",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hidradenitis suppurativa",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hip fracture",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hirschsprung's disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "HIV infection in pregnancy",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hodgkin's lymphoma",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hospital-acquired pneumonia (non COVID-19)",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Huntington's disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hydrocele",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypercalcaemia of malignancy",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypercholesterolaemia",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypercoagulable state",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hyperhidrosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hyperkalaemia in adults",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypernatraemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hyperosmolar hyperglycaemic state",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypersensitivity pneumonitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypertensive emergencies",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypertriglyceridaemia",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypertrophic cardiomyopathy",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypogammaglobulinaemia",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypogonadism in men",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hyponatraemia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypoparathyroidism",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Hypopituitarism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ichthyosis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Idiopathic inflammatory myopathies",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Idiopathic intracranial hypertension",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Ophthalmology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Idiopathic pulmonary arterial hypertension",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "IgA nephropathy",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "IgA vasculitis (Henoch-Schonlein purpura)",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Nephrology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ileus",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Iliotibial band syndrome",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Immune thrombocytopenia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Impetigo",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Infantile spasms syndrome",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Infective endocarditis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Infertility in women",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Inguinal hernia in adults",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Inhalation injury",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Inpatient glycaemic management",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Insect bites and stings",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Insomnia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Interatrial communications (atrial septal defects)",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Interstitial cystitis (bladder pain syndrome)",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Intestinal malrotation",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Intra-abdominal abscess",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Intrahepatic cholestasis of pregnancy",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Iron deficiency anaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Irritable bowel syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ischaemic bowel disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ischaemic stroke",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Jet lag and sleep phase disorders",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Joint dislocation",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Joint dislocation-2",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Juvenile idiopathic arthritis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Kaposi's sarcoma",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Kawasaki disease",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Keloid",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Keratitis",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Kwashiorkor",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Labyrinthitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lactase deficiency",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lambert-Eaton myasthenic syndrome",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Langerhans cell histiocytosis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Large bowel obstruction",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Laryngeal cancer",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Laryngitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Laryngomalacia",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lead toxicity",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Legg-Calvé-Perthes' disease",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Leishmaniasis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Leprosy",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lesch-Nyhan disease",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lichen planus",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lichen simplex chronicus",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Limited cutaneous systemic sclerosis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lipoma",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Listeriosis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Liver abscess",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Long bone fracture",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Long QT syndrome",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lyme disease",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lymphoedema",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Lymphogranuloma venereum",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Male factor infertility",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Malignant hyperthermia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Malignant spinal cord compression",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mallory-Weiss tear",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "MALT lymphoma",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Marfan syndrome",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Marine toxins (saxitoxin, tetrodotoxin, conotoxin)",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mast cell activation syndrome",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mastitis and breast abscess",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Measles infection",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meckel's diverticulum",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meconium aspiration syndrome",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Medial collateral ligament injury",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Medullary sponge kidney",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Medulloblastoma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Oncology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Melanoma",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Melasma",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Membranous nephropathy",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meniere's disease",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meningioma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meningococcal disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Meniscal tear",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Menopause",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mesothelioma",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Metabolic syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Metastatic breast cancer",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Microscopic colitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Migraine headache in adults",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Migraine headache in children",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mild traumatic brain injury",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Miliaria",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Minimal change disease",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Miscarriage",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mitral regurgitation",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mitral stenosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mitral valve prolapse",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Molar pregnancies",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Molluscum contagiosum",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Monoclonal gammopathy of undetermined significance",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mononeuritis multiplex",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Motion sickness",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mucormycosis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Multiple endocrine neoplasia syndromes",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Multiple myeloma",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Multiple sclerosis",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mumps",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Muscle cramps",
+    "desc": "",
+    "type": [
+      "Neurology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Muscular dystrophies",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Musculoskeletal lower back pain",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Musculoskeletal sprains and strains",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Myalgic encephalomyelitis (Chronic fatigue syndrome)",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Myasthenia gravis",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Mycoplasma pneumoniae infection",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Myelodysplastic syndrome",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Myelofibrosis",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Myocarditis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Nappy rash",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Narcolepsy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Nasal polyps",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Nausea and vomiting in pregnancy",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Nephrolithiasis",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Neurally mediated reflex syncope",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Neuroblastoma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Neuroleptic malignant syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Nevi",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "New-onset atrial fibrillation",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Night blindness",
+    "desc": "",
+    "type": [
+      "Nutrition",
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-allergic rhinitis",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-diabetic hypoglycaemia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-Hodgkin's lymphoma",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-small cell lung cancer",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-ST-elevation myocardial infarction",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Non-sustained ventricular tachycardias",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Normal pressure hydrocephalus",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Obesity in adults",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Obesity in children",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Obstructive sleep apnoea in adults",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Obstructive uropathy",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Occupational asthma",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oesophageal atresia and tracheo-oesophageal fistula",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oesophageal cancer",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oesophageal varices",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Omphalocele and gastroschisis",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Open-angle glaucoma",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Opioid overdose",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Optic neuritis",
+    "desc": "",
+    "type": [
+      "Ophthalmology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oral candidiasis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oral leukoplakia",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oral mucositis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Orbital fractures",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurosurgery",
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Organising pneumonia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Organophosphate poisoning",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Oropharyngeal cancer",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Orthostatic hypotension",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osgood-Schlatter's disease",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteoarthritis",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteochondritis dissecans",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteomalacia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteomyelitis",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteoporosis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteoporotic spinal compression fractures",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Osteosarcoma",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Otitis externa",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Otitis media with effusion",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ovarian cancer",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ovarian cysts",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ovarian torsion",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overlap syndromes",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of acid-base and electrolyte disorders",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of acute coronary syndrome",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of brain tumours",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Oncology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of dermatitis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of diabetes",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of dysrhythmias (cardiac)",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of leukaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of meningitis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of musculoskeletal pain",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of pregnancy complications",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of seizure disorder",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of sexually transmitted infections",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of skin cancer",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of sport-related injuries",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of stroke",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of substance use disorders and overdose",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of thyroid dysfunction",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of vertigo",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Overview of work-related musculoskeletal disorders",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paediatric acute-onset neuropsychiatric syndrome",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Neurology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paget's disease of bone",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Painless lymphocytic thyroiditis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pancreatic cancer",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paracetamol overdose in adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paradoxical vocal fold motion",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paraphimosis",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Parasomnias in adults",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Parasomnias in children",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Parkinson's disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paronychia",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Paroxysmal nocturnal haemoglobinuria",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Patellofemoral pain syndrome",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Patent ductus arteriosus",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Patent foramen ovale",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pediculosis capitis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pelvic inflammatory disease",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pemphigus",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Peptic ulcer disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Peri-orbital and orbital cellulitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pericarditis",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Periodic limb movement disorder",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Peripheral arterial disease",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Peutz-Jeghers syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Phaeochromocytoma",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pituitary adenoma",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pityriasis lichenoides",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pityriasis rosea",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pityriasis versicolor",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Placenta praevia",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Placental abruption",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Plantar fasciitis",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pleural effusion",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pneumocystis jirovecii pneumonia",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pneumothorax",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Poliovirus infection",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polyarteritis nodosa",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polycystic kidney disease",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polycystic ovary syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polycythaemia vera",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polymorphous light eruption",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Polymyalgia rheumatica",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Popliteal cyst",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Porphyria cutanea tarda",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Postnatal depression",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Postural orthostatic tachycardia syndrome",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pre-eclampsia",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Precocious puberty",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Premature labour",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Premature ovarian failure",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Premenstrual syndrome and dysphoric disorder",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Preoperative cardiac risk assessment",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Priapism",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary adrenal insufficiency",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary aldosteronism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary biliary cholangitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary hyperparathyroidism",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary hypothyroidism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary invasive breast cancer",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary prostate pain syndrome",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Primary sclerosing cholangitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Prion disease",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Prolactinoma",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Prostate cancer",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pseudohypoparathyroidism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Psoriasis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Psoriatic arthritis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Psychogenic polydipsia",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pterygium",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pulmonary embolism",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pulmonary regurgitation",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pulmonary stenosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Pyloric stenosis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rabies",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ramsay Hunt syndrome",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Raynaud's phenomenon",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Reactive arthritis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Recurrent aphthous stomatitis (episodic mouth ulcers)",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Renal artery stenosis",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Renal cell carcinoma",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Oncology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Renal tubular acidosis",
+    "desc": "",
+    "type": [
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Restless legs syndrome",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Retinal detachment",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Retinal vein occlusion",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Retinitis pigmentosa",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Retinoblastoma",
+    "desc": "",
+    "type": [
+      "Ophthalmology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Retropharyngeal abscess",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rh incompatibility",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rhabdomyolysis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rheumatic fever",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rheumatoid arthritis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rickets",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rocky Mountain spotted fever",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rosacea",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Roseola",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rotator cuff injury",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rotor's syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Routine antenatal care",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Rubella",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Salicylate poisoning",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Salmonellosis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sarcoidosis",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sarcopenia",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Scabies",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Scarlet fever",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Seborrhoeic dermatitis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Seborrhoeic keratosis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Secondary hyperparathyroidism",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nephrology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sepsis in adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sepsis in children",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Septic arthritis",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Serotonin syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Severe combined immunodeficiency",
+    "desc": "",
+    "type": [
+      "Allergy and immunology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sexual dysfunction in women",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Shigella infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Short bowel syndrome",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sialadenitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sickle cell anaemia",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sjogren syndrome",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Skull fractures",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Slipped capital femoral epiphysis",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Small bowel obstruction",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Small cell lung cancer",
+    "desc": "",
+    "type": [
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Snoring",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Soft-tissue sarcoma",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Spina bifida and neural tube defects",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Spinal epidural abscess",
+    "desc": "",
+    "type": [
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Spinal stenosis",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Spontaneous bacterial peritonitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sporotrichosis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Squamous cell carcinoma of the skin",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "ST-elevation myocardial infarction",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Stable ischaemic heart disease",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Status epilepticus",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Stevens-Johnson syndrome and toxic epidermal necrolysis",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Stomach cancer",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Strabismus",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Stroke due to spontaneous intracerebral haemorrhage",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Strongyloides infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Stye and chalazion",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Subacute thyroiditis",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Subarachnoid haemorrhage",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Subdural haematoma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sunburn",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Superior vena cava syndrome",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Sustained ventricular tachycardias",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Syndrome of inappropriate antidiuretic hormone",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Endocrinology and metabolic disorders",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Systemic lupus erythematosus",
+    "desc": "",
+    "type": [
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Systemic sclerosis (scleroderma)",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Systemic vasculitis",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Nephrology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Takayasu's arteritis",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tapeworm infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tardive dyskinesia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Temporomandibular disorders",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tendinopathy",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tenosynovitis of the hand and wrist",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tension-type headache",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Testicular cancer",
+    "desc": "",
+    "type": [
+      "Oncology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Testicular torsion",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tetanus",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tetralogy of Fallot",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thoracic outlet syndrome",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thoracolumbar spine trauma",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thrombotic thrombocytopenic purpura",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thymic tumour",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thyroid cancer",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Thyroid function testing",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tic disorders",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tinnitus",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tonsillitis",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Torsion of the lower limb in children",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tourette's syndrome",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Toxic colitis and toxic megacolon",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Toxic ingestions in children",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Toxic multinodular goitre",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Toxic shock syndrome",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Toxic thyroid adenoma",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Trachoma",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Transfusion reaction",
+    "desc": "",
+    "type": [
+      "Anaesthesiology",
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Transient ischaemic attack",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Transient synovitis of the hip",
+    "desc": "",
+    "type": [
+      "Orthopaedics",
+      "Rheumatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Transverse myelitis",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Traveller's diarrhoea",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tricuspid regurgitation",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tricuspid stenosis",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tricyclic antidepressant overdose",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Trigeminal neuralgia",
+    "desc": "",
+    "type": [
+      "Neurosurgery",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tropical sprue",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tuberous sclerosis complex",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Tumour lysis syndrome",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Type 1 diabetes",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Type 1 neurofibromatosis",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Type 2 diabetes in adults",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Type 2 diabetes in children",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Typhoid infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ulcerative colitis",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Unstable angina",
+    "desc": "",
+    "type": [
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Upper airway cough syndrome",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urethritis",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urinary incontinence in women",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urinary tract infections in children",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urinary tract infections in men",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urinary tract infections in women",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Urticaria and angio-oedema",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Uterine fibroids",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Uterine prolapse",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Uveitis",
+    "desc": "",
+    "type": [
+      "Ophthalmology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vaginitis",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Varicocele",
+    "desc": "",
+    "type": [
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vascular dementia",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Ventricular septal defects",
+    "desc": "",
+    "type": [
+      "Cardiothoracic surgery",
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vestibular schwannoma",
+    "desc": "",
+    "type": [
+      "Ear, nose, and throat",
+      "Neurosurgery"
+    ],
+    "id": ""
+  },
+  {
+    "name": "VIPoma",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Viral gastroenteritis in adults",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Viral gastroenteritis in children",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Viral meningitis",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitamin B1 deficiency",
+    "desc": "",
+    "type": [
+      "Nutrition",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitamin B12 deficiency",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitamin B3 deficiency",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Nutrition",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitamin C deficiency",
+    "desc": "",
+    "type": [
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitamin D deficiency",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Nutrition",
+      "Obstetrics and gynaecology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Vitiligo",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Volume depletion in adults",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Volume depletion in children",
+    "desc": "",
+    "type": [
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Von Willebrand disease",
+    "desc": "",
+    "type": [
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Waldenström's macroglobulinaemia",
+    "desc": "",
+    "type": [
+      "Haematology",
+      "Oncology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wernicke's encephalopathy",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "West Nile virus",
+    "desc": "",
+    "type": [
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Whipple's disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wilms' tumour",
+    "desc": "",
+    "type": [
+      "Nephrology",
+      "Oncology",
+      "Urology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wilson's disease",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wiskott-Aldrich syndrome",
+    "desc": "",
+    "type": [
+      "Allergy and immunology",
+      "Haematology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wolff-Parkinson-White syndrome",
+    "desc": "",
+    "type": [
+      "Cardiology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wrinkles",
+    "desc": "",
+    "type": [
+      "Dermatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Wrist fractures",
+    "desc": "",
+    "type": [
+      "Orthopaedics"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Xeroderma pigmentosum",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Ophthalmology",
+      "Oncology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Yersinia infection",
+    "desc": "",
+    "type": [
+      "Gastroenterology and hepatology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Zika virus infection",
+    "desc": "",
+    "type": [
+      "Obstetrics and gynaecology",
+      "Neurology"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Zinc deficiency",
+    "desc": "",
+    "type": [
+      "Dermatology",
+      "Nutrition"
+    ],
+    "id": ""
+  },
+  {
+    "name": "Zollinger-Ellison syndrome",
+    "desc": "",
+    "type": [
+      "Endocrinology and metabolic disorders",
+      "Gastroenterology and hepatology",
+      "Oncology"
+    ],
+    "id": ""
   }
 ]
