@@ -1,7 +1,7 @@
 [
   {
     "name": "Abdominal aortic aneurysm",
-    "desc": "",
+    "desc": "Refer to swelling in the aorta, the artery that carries blood from the heart to the tummy (abdomen). Most aneurysms do not cause any problems, but they can be serious because there's a risk they could burst (rupture).",
     "type": [
       "Cardiothoracic surgery",
       "Cardiology",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Abdominal compartment syndrome",
-    "desc": "",
+    "desc": "Refers to organ dysfunction caused by intra-abdominal hypertension. It may be underrecognized because it primarily affects patients who are already quite ill and whose organ dysfunction may be incorrectly ascribed to progression of the primary illness.",
     "type": [
       "Anaesthesiology"
     ],
@@ -19,15 +19,15 @@
   },
   {
     "name": "Abetalipoproteinaemia",
-    "desc": "",
+    "desc": "A rare inherited disorder affecting fat absorption by the intestine and mobilization by the liver. Inability to absorb fat results in deficiencies of lipids and various essential vitamins.",
     "type": [
       "Endocrinology and metabolic disorders"
     ],
     "id": ""
   },
   {
-    "name": "Abnormal uterine bleeding",
-    "desc": "",
+    "name": "Abnormal uterine bleeding (AUB)",
+    "desc": "AUB is bleeding from the uterus that is longer than usual or that occurs at an irregular time. Bleeding may be heavier or lighter than usual and occur often or randomly.",
     "type": [
       "Obstetrics and gynaecology"
     ],
@@ -35,7 +35,7 @@
   },
   {
     "name": "Absence seizures",
-    "desc": "",
+    "desc": "The seizures are triggered by flashing lights or when the person breathes faster and more deeply than usual (hyperventilates)",
     "type": [
       "Neurology"
     ],
@@ -43,7 +43,7 @@
   },
   {
     "name": "Acanthosis nigricans",
-    "desc": "",
+    "desc": "Acanthosis nigricans is a skin condition that causes a dark discoloration in body folds and creases.",
     "type": [
       "Endocrinology and metabolic disorders",
       "Dermatology",
@@ -53,7 +53,7 @@
   },
   {
     "name": "Accidental hypothermia",
-    "desc": "",
+    "desc": "Accidental hypothermia is defined as an unintentional fall in core body temperature to less than 35° C.",
     "type": [
       "Anaesthesiology"
     ],
@@ -61,7 +61,7 @@
   },
   {
     "name": "Achalasia",
-    "desc": "",
+    "desc": "Achalasia is a rare swallowing disorder that affects the esophagus (the tube between the throat and the stomach).",
     "type": [
       "Cardiothoracic surgery",
       "Gastroenterology and hepatology"
@@ -70,7 +70,7 @@
   },
   {
     "name": "Achlorhydria",
-    "desc": "",
+    "desc": "Achlorhydria is a condition in which the stomach does not produce hydrochloric acid, one of the components of gastric acid.",
     "type": [
       "Gastroenterology and hepatology"
     ],
@@ -78,7 +78,7 @@
   },
   {
     "name": "Acne vulgaris",
-    "desc": "",
+    "desc": "Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.",
     "type": [
       "Dermatology"
     ],
@@ -86,7 +86,7 @@
   },
   {
     "name": "Acquired torticollis",
-    "desc": "",
+    "desc": "Torticollis is a condition of the neck muscles that causes the head to tilt down. The term comes from two Latin words: tortus, which means twisted, and collum, which means neck. Sometimes it’s called “wryneck” or “loxia.",
     "type": [
       "Ear, nose, and throat",
       "Neurology"
@@ -95,7 +95,7 @@
   },
   {
     "name": "Acromegaly",
-    "desc": "",
+    "desc": "Acromegaly is a rare condition where the body produces too much growth hormone, causing body tissues and bones to grow more quickly",
     "type": [
       "Endocrinology and metabolic disorders",
       "Neurosurgery"
@@ -104,7 +104,7 @@
   },
   {
     "name": "Actinic keratosis",
-    "desc": "",
+    "desc": "A rough, scaly patch on the skin that develops from years of sun exposure.",
     "type": [
       "Dermatology"
     ],
@@ -112,7 +112,7 @@
   },
   {
     "name": "Actinomycosis",
-    "desc": "",
+    "desc": "Actinomycosis is a rare subacute to chronic infection caused by the gram-positive filamentous non-acid fast anaerobic to microaerophilic bacteria, Actinomyces.",
     "type": [
       "Ear, nose, and throat",
       "Infectious diseases"
