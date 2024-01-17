@@ -9,6 +9,25 @@
     ],
     "id": ""
   },
+   {
+    "name": "Abdominal Aortic Aneurysm (AAA) Open Repair",
+    "desc": "A large incision is made in the abdomen to directly visualize the abdominal aorta and repair the aneurysm.\nA cylinder-like tube called a graft may be used to repair the aneurysm. Grafts are made of various materials such as:\nDacron (textile polyester synthetic graft)\nPolytetrafluoroethylene (PTFE, non-textile synthetic graft)\nThis graft is sewn to the aorta, connecting one end of the aorta at the site of the aneurysm to the other end. The open repair is considered the surgical standard for an abdominal aortic aneurysm repair.",
+     "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
+   {
+    "name": "Endovascular Aneurysm Repair (EVAR)",
+    "desc": "An endovascular aneurysm repair (EVAR) requires only small incisions in the groin along with the use of X-ray guidance and specially-designed instruments to repair the aneurysm.\nWith the use of special endovascular instruments and X-ray images for guidance, a stent-graft is inserted via the femoral artery and advanced up into the aorta to the site of the aneurysm.",  "type": [
+      "Cardiothoracic surgery",
+      "Cardiology",
+      "Anaesthesiology"
+    ],
+    "id": ""
+  },
   {
     "name": "Abdominal compartment syndrome",
     "desc": "Refers to organ dysfunction caused by intra-abdominal hypertension. It may be underrecognized because it primarily affects patients who are already quite ill and whose organ dysfunction may be incorrectly ascribed to progression of the primary illness.",
