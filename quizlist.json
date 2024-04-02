@@ -1,0 +1,8262 @@
+[
+    {
+        "title": "Abdominal Aortic Aneurysms (AAA)",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "title": "Ablation for Cardiac Arrhythmia",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "title": "Acalculous Biliary pain",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "title": "Achalasia",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "title": "Achilles Tendon Tears",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "title": "Acid-Base Disorders",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "title": "Acinetobacter Infections",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "title": "Acne Vulgaris",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "title": "Actinomycosis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 10
+    },
+    {
+        "title": "Acute Abdominal Pain",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 11
+    },
+    {
+        "title": "Acute Bronchitis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 12
+    },
+    {
+        "title": "Acute Cholecystitis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "title": "Acute Hypoxemic Respiratory Failure (AHRF, ARDS)",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 14
+    },
+    {
+        "title": "Acute Infectious Arthritis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 15
+    },
+    {
+        "title": "Acute Kidney Injury (AKI)",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 16
+    },
+    {
+        "title": "Acute Liver Failure",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 17
+    },
+    {
+        "title": "Acute Lymphoblastic Leukemia (ALL)",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 18
+    },
+    {
+        "title": "Acute Mesenteric Ischemia",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 19
+    },
+    {
+        "title": "Acute Pancreatitis",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 20
+    },
+    {
+        "title": "Acute Porphyrias",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 21
+    },
+    {
+        "title": "Acute Stress Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 22
+    },
+    {
+        "title": "Acute Tubular Necrosis (ATN)",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 23
+    },
+    {
+        "title": "Acute Viral Hepatitis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 24
+    },
+    {
+        "title": "Acute Vision Loss",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 25
+    },
+    {
+        "title": "Addison Disease",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 26
+    },
+    {
+        "title": "Adherence to a Drug Regimen",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 27
+    },
+    {
+        "title": "Adrenal Virilism",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 28
+    },
+    {
+        "title": "Advance Directives",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 29
+    },
+    {
+        "title": "Adverse Drug Reactions (ADR)",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 30
+    },
+    {
+        "title": "Age-Related Macular Degeneration (AMD, ARMD)",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 31
+    },
+    {
+        "title": "Agitation, Confusion, and Neuromuscular Blockade in Critically Ill Patients",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 32
+    },
+    {
+        "title": "Agnosia",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 33
+    },
+    {
+        "title": "AIDS Cholangiopathy",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 34
+    },
+    {
+        "title": "Air Travel",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 35
+    },
+    {
+        "title": "Airflow, Lung Volumes, and Flow-Volume Loop",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 36
+    },
+    {
+        "title": "Airway and Respiratory Devices",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 37
+    },
+    {
+        "title": "Airway Establishment and Control",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 38
+    },
+    {
+        "title": "Alcohol Toxicity and Withdrawal",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 39
+    },
+    {
+        "title": "Alcohol-Related Liver Disease",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 40
+    },
+    {
+        "title": "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 41
+    },
+    {
+        "title": "Allergic Rhinitis",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 42
+    },
+    {
+        "title": "Alopecia",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 43
+    },
+    {
+        "title": "Altitude Illness",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 44
+    },
+    {
+        "title": "Amyloidosis",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 45
+    },
+    {
+        "title": "Anabolic Steroids",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 46
+    },
+    {
+        "title": "Anaphylaxis",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 47
+    },
+    {
+        "title": "Anemia of Chronic Disease",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 48
+    },
+    {
+        "title": "Angina Pectoris",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 49
+    },
+    {
+        "title": "Angioedema",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 50
+    },
+    {
+        "title": "Angiostrongyliasis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 51
+    },
+    {
+        "title": "Anisocoria",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 52
+    },
+    {
+        "title": "Ankylosing Spondylitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 53
+    },
+    {
+        "title": "Ankylosis of the Temporomandibular Joint (TMJ)",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 54
+    },
+    {
+        "title": "Anorectal Fistula",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 55
+    },
+    {
+        "title": "Anorexia Nervosa",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 56
+    },
+    {
+        "title": "Anosmia",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 57
+    },
+    {
+        "title": "Antifungal Drugs",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 58
+    },
+    {
+        "title": "Antisocial Personality Disorder (ASPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 59
+    },
+    {
+        "title": "Aortic Stenosis",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 60
+    },
+    {
+        "title": "Aplastic Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 61
+    },
+    {
+        "title": "Appendicitis",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 62
+    },
+    {
+        "title": "Approach to Parasitic Infections",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 63
+    },
+    {
+        "title": "Approach to the Neurologic Patient",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 64
+    },
+    {
+        "title": "Approach to the Patient With a Sleep or Wakefulness Disorder",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 65
+    },
+    {
+        "title": "Approach to the Patient With a Suspected Inherited Disorder of Metabolism",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 66
+    },
+    {
+        "title": "Approach to the Patient with Suspected Immunodeficiency",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 67
+    },
+    {
+        "title": "Approach to the Trauma Patient",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 68
+    },
+    {
+        "title": "Arginine Vasopressin Deficiency (Central Diabetes Insipidus)",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 69
+    },
+    {
+        "title": "Arthritis of the Temporomandibular Joint (TMJ)",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 70
+    },
+    {
+        "title": "Asbestosis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 71
+    },
+    {
+        "title": "Ascites",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 72
+    },
+    {
+        "title": "Asthma",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 73
+    },
+    {
+        "title": "Asthma and Related Disorders",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 74
+    },
+    {
+        "title": "Ataxia-Telangiectasia",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 75
+    },
+    {
+        "title": "Atelectasis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 76
+    },
+    {
+        "title": "Athlete’s Heart",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 77
+    },
+    {
+        "title": "Atopic Dermatitis (Eczema)",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 78
+    },
+    {
+        "title": "Atrial Fibrillation",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 79
+    },
+    {
+        "title": "Autoimmune Disorders",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 80
+    },
+    {
+        "title": "Autoimmune Disorders in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 81
+    },
+    {
+        "title": "Autoimmune Hemolytic Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 82
+    },
+    {
+        "title": "Autoimmune Myositis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 83
+    },
+    {
+        "title": "Avoidant Personality Disorder (AVPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 84
+    },
+    {
+        "title": "Avoidant/Restrictive Food Intake Disorder (ARFID)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 85
+    },
+    {
+        "title": "Bacterial Urinary Tract Infections",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 86
+    },
+    {
+        "title": "Bacterial Vaginosis (BV)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 87
+    },
+    {
+        "title": "Bariatric Surgery",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 88
+    },
+    {
+        "title": "Basal Cell Carcinoma",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 89
+    },
+    {
+        "title": "Basic Calcium Phosphate Crystal Deposition Disease and Calcium Oxalate Crystal Deposition Disease",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 90
+    },
+    {
+        "title": "Behavioral Emergencies",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 91
+    },
+    {
+        "title": "Benign Bone Tumors and Cysts",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 92
+    },
+    {
+        "title": "Benign Liver Tumors",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 93
+    },
+    {
+        "title": "Benign Ovarian Masses",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 94
+    },
+    {
+        "title": "Benign Paroxysmal Positional Vertigo",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 95
+    },
+    {
+        "title": "Benign Prostatic Hyperplasia (BPH)",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 96
+    },
+    {
+        "title": "Binge Eating Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 97
+    },
+    {
+        "title": "Biological Agents as Weapons",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 98
+    },
+    {
+        "title": "Bipolar Disorders",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 99
+    },
+    {
+        "title": "Bladder Cancer",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 100
+    },
+    {
+        "title": "Blepharitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 101
+    },
+    {
+        "title": "Blurred Vision",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 102
+    },
+    {
+        "title": "Body Dysmorphic Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 103
+    },
+    {
+        "title": "Body Packing and Body Stuffing",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 104
+    },
+    {
+        "title": "Borderline Personality Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 105
+    },
+    {
+        "title": "Botulism",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 106
+    },
+    {
+        "title": "Breast Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 107
+    },
+    {
+        "title": "Breast Masses (Breast Lumps)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 108
+    },
+    {
+        "title": "Bronchiectasis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 109
+    },
+    {
+        "title": "Bronchoscopy",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 110
+    },
+    {
+        "title": "Bruxism",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 111
+    },
+    {
+        "title": "Budd-Chiari Syndrome",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 112
+    },
+    {
+        "title": "Bulimia Nervosa",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 113
+    },
+    {
+        "title": "Bullous Pemphigoid",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 114
+    },
+    {
+        "title": "Bunion",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 115
+    },
+    {
+        "title": "Burning Mouth Syndrome",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 116
+    },
+    {
+        "title": "Burns",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 117
+    },
+    {
+        "title": "Bursitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 118
+    },
+    {
+        "title": "Calluses and Corns",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 119
+    },
+    {
+        "title": "Cancer in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 120
+    },
+    {
+        "title": "Candidiasis (Mucocutaneous)",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 121
+    },
+    {
+        "title": "Capacity (Competence) and Incapacity",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 122
+    },
+    {
+        "title": "Carbohydrate Intolerance",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 123
+    },
+    {
+        "title": "Carbon Monoxide Poisoning",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 124
+    },
+    {
+        "title": "Carcinoid Syndrome",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 125
+    },
+    {
+        "title": "Cardiac Arrest",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 126
+    },
+    {
+        "title": "Cardiac Auscultation",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 127
+    },
+    {
+        "title": "Cardiac Catherization",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 128
+    },
+    {
+        "title": "Cardiac Tumors",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 129
+    },
+    {
+        "title": "Cardiopulmonary Resuscitation  (CPR) in Infants and Children",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 130
+    },
+    {
+        "title": "Cardiopulmonary Resuscitation (CPR) in Adults",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 131
+    },
+    {
+        "title": "Caries",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 132
+    },
+    {
+        "title": "Carnitine Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 133
+    },
+    {
+        "title": "Carpal Tunnel Syndrome",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 134
+    },
+    {
+        "title": "Cataract",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 135
+    },
+    {
+        "title": "Cauda Equina Syndrome",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 136
+    },
+    {
+        "title": "Cavernous Sinus Thrombosis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 137
+    },
+    {
+        "title": "Celiac Disease",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 138
+    },
+    {
+        "title": "Cellular Components of the Immune System",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 139
+    },
+    {
+        "title": "Cellulitis",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 140
+    },
+    {
+        "title": "Cerebral Palsy (CP) Syndromes",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 141
+    },
+    {
+        "title": "Cervical Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 142
+    },
+    {
+        "title": "Cervicitis",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 143
+    },
+    {
+        "title": "Chalazion and Hordeolum (Stye)",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 144
+    },
+    {
+        "title": "Chédiak-Higashi Syndrome",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 145
+    },
+    {
+        "title": "Chest Imaging",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 146
+    },
+    {
+        "title": "Chest Wall Tumors",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 147
+    },
+    {
+        "title": "Chickenpox",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 148
+    },
+    {
+        "title": "Childhood Development",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 149
+    },
+    {
+        "title": "Chiropractic",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 150
+    },
+    {
+        "title": "Chlamydia",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 151
+    },
+    {
+        "title": "Cholelithiasis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 152
+    },
+    {
+        "title": "Chronic Abdominal and Recurrent Abdominal Pain",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 153
+    },
+    {
+        "title": "Chronic Fatigue Syndrome",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 154
+    },
+    {
+        "title": "Chronic Granulomatous Disease (CGD)",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 155
+    },
+    {
+        "title": "Chronic Kidney Disease",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 156
+    },
+    {
+        "title": "Chronic Mucocutaneous Candidiasis",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 157
+    },
+    {
+        "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 158
+    },
+    {
+        "title": "Chronic Pancreatitis",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 159
+    },
+    {
+        "title": "Cirrhosis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 160
+    },
+    {
+        "title": "Cluster Headache",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 161
+    },
+    {
+        "title": "Coal Workers' Pneumoconiosis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 162
+    },
+    {
+        "title": "Cogan Syndrome",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 163
+    },
+    {
+        "title": "Cognitive Errors in Clinical Decision Making",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 164
+    },
+    {
+        "title": "Common Cold",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 165
+    },
+    {
+        "title": "Community-Acquired Pneumonia",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 166
+    },
+    {
+        "title": "Complement System",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 167
+    },
+    {
+        "title": "Complex Regional Pain Syndrome",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 168
+    },
+    {
+        "title": "Complications of Transfusion",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 169
+    },
+    {
+        "title": "Computed Tomography",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 170
+    },
+    {
+        "title": "Confidentiality and HIPAA",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 171
+    },
+    {
+        "title": "Congenital Limb Abnormalities",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 172
+    },
+    {
+        "title": "Congenital Rubella",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 173
+    },
+    {
+        "title": "Constipation",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 174
+    },
+    {
+        "title": "Constipation in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 175
+    },
+    {
+        "title": "Copper",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 176
+    },
+    {
+        "title": "Cor Pulmonale",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 177
+    },
+    {
+        "title": "Corneal Ulcer",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 178
+    },
+    {
+        "title": "Coronary Artery Bypass Grafting (CABG)",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 179
+    },
+    {
+        "title": "Cough in Adults",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 180
+    },
+    {
+        "title": "COVID-19",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 181
+    },
+    {
+        "title": "COVID-Related Neuropsychiatric  Manifestations",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 182
+    },
+    {
+        "title": "Craniocervical Junction Abnormalities",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 183
+    },
+    {
+        "title": "Creutzfeldt-Jakob Disease (CJD)",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 184
+    },
+    {
+        "title": "Critical Care Scoring Systems",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 185
+    },
+    {
+        "title": "Crohn Disease",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 186
+    },
+    {
+        "title": "Crying",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 187
+    },
+    {
+        "title": "Cushing Syndrome",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 188
+    },
+    {
+        "title": "Cutaneous Abscess",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 189
+    },
+    {
+        "title": "Cutaneous Penile Lesions",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 190
+    },
+    {
+        "title": "Cutaneous Vasculitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 191
+    },
+    {
+        "title": "Cyclothymic Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 192
+    },
+    {
+        "title": "Cystic Fibrosis",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 193
+    },
+    {
+        "title": "Decompression Sickness",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 194
+    },
+    {
+        "title": "Deep Vein Thrombosis (DVT)",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 195
+    },
+    {
+        "title": "Dehydration in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 196
+    },
+    {
+        "title": "Delayed Puberty",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 197
+    },
+    {
+        "title": "Delusional Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 198
+    },
+    {
+        "title": "Dementia",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 199
+    },
+    {
+        "title": "Dental Anatomy and Development",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 200
+    },
+    {
+        "title": "Dental Appliances",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 201
+    },
+    {
+        "title": "Dependent Personality Disorder (DPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 202
+    },
+    {
+        "title": "Depersonalization/Derealization Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 203
+    },
+    {
+        "title": "Depressive Disorders",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 204
+    },
+    {
+        "title": "Depressive Disorders in Children and Adolescents",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 205
+    },
+    {
+        "title": "Dermatitis Herpetiformis",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 206
+    },
+    {
+        "title": "Description of Skin Lesions",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 207
+    },
+    {
+        "title": "Diabetes Mellitus (DM)",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 208
+    },
+    {
+        "title": "Diabetic Ketoacidosis (DKA)",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 209
+    },
+    {
+        "title": "Diabetic Nephropathy",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 210
+    },
+    {
+        "title": "Diabetic Retinopathy",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 211
+    },
+    {
+        "title": "Diagnostic Tests for Skin Disorders",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 212
+    },
+    {
+        "title": "Diffuse Esophageal Spasm",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 213
+    },
+    {
+        "title": "DiGeorge Syndrome",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 214
+    },
+    {
+        "title": "Dilated Cardiomyopathy",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 215
+    },
+    {
+        "title": "Diplopia",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 216
+    },
+    {
+        "title": "Disseminated Intravascular Coagulation (DIC)",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 217
+    },
+    {
+        "title": "Dissociative Amnesia",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 218
+    },
+    {
+        "title": "Dizziness and Vertigo",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 219
+    },
+    {
+        "title": "Domestic Violence",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 220
+    },
+    {
+        "title": "Dose-Response Relationships",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 221
+    },
+    {
+        "title": "Drowning",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 222
+    },
+    {
+        "title": "Drug Absorption",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 223
+    },
+    {
+        "title": "Drug Bioavailability",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 224
+    },
+    {
+        "title": "Drug Categories of Concern in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 225
+    },
+    {
+        "title": "Drug Development",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 226
+    },
+    {
+        "title": "Drug Distribution to Tissues",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 227
+    },
+    {
+        "title": "Drug Efficacy and Safety",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 228
+    },
+    {
+        "title": "Drug Errors",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 229
+    },
+    {
+        "title": "Drug Excretion",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 230
+    },
+    {
+        "title": "Drug Hypersensitivity",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 231
+    },
+    {
+        "title": "Drug Interactions",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 232
+    },
+    {
+        "title": "Drug Metabolism",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 233
+    },
+    {
+        "title": "Drug Treatment of Bipolar Disorders",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 234
+    },
+    {
+        "title": "Drug Treatment of Depression",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 235
+    },
+    {
+        "title": "Drug Treatment of Seizures",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 236
+    },
+    {
+        "title": "Drug-Related Problems in the Older Adult",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 237
+    },
+    {
+        "title": "Drugs for Hypertension",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 238
+    },
+    {
+        "title": "Drugs in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 239
+    },
+    {
+        "title": "Drugs to Aid Intubation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 240
+    },
+    {
+        "title": "Dyslipidemia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 241
+    },
+    {
+        "title": "Dysphagia",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 242
+    },
+    {
+        "title": "Dyspnea",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 243
+    },
+    {
+        "title": "Dystonias",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 244
+    },
+    {
+        "title": "Dysuria",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 245
+    },
+    {
+        "title": "Earache",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 246
+    },
+    {
+        "title": "Edema",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 247
+    },
+    {
+        "title": "Effects of Life Transitions on Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 248
+    },
+    {
+        "title": "Elder Abuse",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 249
+    },
+    {
+        "title": "Electrocardiography",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 250
+    },
+    {
+        "title": "Emergency Contraception",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 251
+    },
+    {
+        "title": "Encephalitis",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 252
+    },
+    {
+        "title": "Endocrine Disorders",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 253
+    },
+    {
+        "title": "Endometrial Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 254
+    },
+    {
+        "title": "Endometriosis",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 255
+    },
+    {
+        "title": "Eosinophilia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 256
+    },
+    {
+        "title": "Eosinophilic Esophagitis",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 257
+    },
+    {
+        "title": "Epididymitis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 258
+    },
+    {
+        "title": "Epiglottitis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 259
+    },
+    {
+        "title": "Epistaxis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 260
+    },
+    {
+        "title": "Erectile Dysfunction",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 261
+    },
+    {
+        "title": "Erythema Multiforme",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 262
+    },
+    {
+        "title": "Esophageal Foreign Bodies",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 263
+    },
+    {
+        "title": "Essential Fatty Acid Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 264
+    },
+    {
+        "title": "Essential Thrombocythemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 265
+    },
+    {
+        "title": "Evaluation of Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 266
+    },
+    {
+        "title": "Evaluation of Ear Disorders",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 267
+    },
+    {
+        "title": "Evaluation of Neck and Back Pain",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 268
+    },
+    {
+        "title": "Evaluation of the Dental Patient",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 269
+    },
+    {
+        "title": "Evaluation of the Gastrointestinal Patient",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 270
+    },
+    {
+        "title": "Evaluation of the Older Adult",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 271
+    },
+    {
+        "title": "Evaluation of the Ophthalmologic Patient",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 272
+    },
+    {
+        "title": "Evaluation of the Patient With a Liver Disorder",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 273
+    },
+    {
+        "title": "Evaluation of the Patient With Joint Symptoms",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 274
+    },
+    {
+        "title": "Evaluation of the Renal Patient",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 275
+    },
+    {
+        "title": "Evaluation of the Urologic Patient",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 276
+    },
+    {
+        "title": "Evidence-Based Medicine and Clinical Guidelines",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 277
+    },
+    {
+        "title": "Excessive Bleeding",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 278
+    },
+    {
+        "title": "Excoriation (Skin-Picking) Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 279
+    },
+    {
+        "title": "Exercise in Older Adults",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 280
+    },
+    {
+        "title": "Exercise Testing",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 281
+    },
+    {
+        "title": "External Ear Obstructions",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 282
+    },
+    {
+        "title": "External Otitis (Acute)",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 283
+    },
+    {
+        "title": "Eye Pain",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 284
+    },
+    {
+        "title": "Facial Nerve Palsy",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 285
+    },
+    {
+        "title": "Factitious Disorder Imposed on Self",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 286
+    },
+    {
+        "title": "Falls in Older People",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 287
+    },
+    {
+        "title": "Family Caregiving for Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 288
+    },
+    {
+        "title": "Fanconi Syndrome",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 289
+    },
+    {
+        "title": "Fatigue",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 290
+    },
+    {
+        "title": "Female Pelvic Mass",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 291
+    },
+    {
+        "title": "Female Pelvic Pain",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 292
+    },
+    {
+        "title": "Fever of Unknown Origin (FUO)",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 293
+    },
+    {
+        "title": "Fibromyalgia",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 294
+    },
+    {
+        "title": "Floaters",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 295
+    },
+    {
+        "title": "Folate Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 296
+    },
+    {
+        "title": "Food Allergy",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 297
+    },
+    {
+        "title": "Foreign Travel",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 298
+    },
+    {
+        "title": "Fractured and Avulsed Teeth",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 299
+    },
+    {
+        "title": "Fractures of the Mandible and Midface",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 300
+    },
+    {
+        "title": "Functional Neurologic Symptom Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 301
+    },
+    {
+        "title": "Fungal Urinary Tract Infections",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 302
+    },
+    {
+        "title": "Gait Disorders in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 303
+    },
+    {
+        "title": "Gastric and Intestinal Foreign Bodies",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 304
+    },
+    {
+        "title": "Gastroesophageal Reflux Disease (GERD)",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 305
+    },
+    {
+        "title": "Gastroesophageal Reflux in Infants",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 306
+    },
+    {
+        "title": "Gender Dysphoria",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 307
+    },
+    {
+        "title": "Generalized Anxiety Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 308
+    },
+    {
+        "title": "Generalized Hypopituitarism",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 309
+    },
+    {
+        "title": "Genital Trauma",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 310
+    },
+    {
+        "title": "Giant Cell Arteritis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 311
+    },
+    {
+        "title": "Gigantism and Acromegaly",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 312
+    },
+    {
+        "title": "Gingivitis",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 313
+    },
+    {
+        "title": "Glaucoma",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 314
+    },
+    {
+        "title": "Growth Hormone Deficiency in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 315
+    },
+    {
+        "title": "Guillain-Barré Syndrome (GBS)",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 316
+    },
+    {
+        "title": "Gynecomastia",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 317
+    },
+    {
+        "title": "Halitosis",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 318
+    },
+    {
+        "title": "Health Supervision of the Well Child",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 319
+    },
+    {
+        "title": "Hearing Impairment in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 320
+    },
+    {
+        "title": "Hearing Loss",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 321
+    },
+    {
+        "title": "Heart Disorders in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 322
+    },
+    {
+        "title": "Heart Failure (HF)",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 323
+    },
+    {
+        "title": "Heart Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 324
+    },
+    {
+        "title": "Heatstroke",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 325
+    },
+    {
+        "title": "Helicobacter pylori Infection",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 326
+    },
+    {
+        "title": "Hematopoietic Stem Cell Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 327
+    },
+    {
+        "title": "Hematospermia",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 328
+    },
+    {
+        "title": "Hemodialysis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 329
+    },
+    {
+        "title": "Hemophilia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 330
+    },
+    {
+        "title": "Hemoptysis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 331
+    },
+    {
+        "title": "Hemorrhoids",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 332
+    },
+    {
+        "title": "Hepatic Cysts",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 333
+    },
+    {
+        "title": "Hepatic Fibrosis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 334
+    },
+    {
+        "title": "Hepatic Granulomas",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 335
+    },
+    {
+        "title": "Hepatic Injury",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 336
+    },
+    {
+        "title": "Hepatitis A",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 337
+    },
+    {
+        "title": "Hepatitis B, Acute",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 338
+    },
+    {
+        "title": "Hepatitis E",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 339
+    },
+    {
+        "title": "Hepatocellular Carcinoma",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 340
+    },
+    {
+        "title": "Hereditary and Acquired Angioedema",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 341
+    },
+    {
+        "title": "Hereditary Hemochromatosis",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 342
+    },
+    {
+        "title": "Hernias of the Abdominal Wall",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 343
+    },
+    {
+        "title": "Herniated Nucleus Pulposus",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 344
+    },
+    {
+        "title": "Herpes Simplex Keratitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 345
+    },
+    {
+        "title": "Herpes Zoster",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 346
+    },
+    {
+        "title": "Herpes Zoster Oticus",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 347
+    },
+    {
+        "title": "Hidradenitis Suppurativa",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 348
+    },
+    {
+        "title": "Hirschsprung Disease",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 349
+    },
+    {
+        "title": "Hirsutism and Hypertrichosis",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 350
+    },
+    {
+        "title": "History-Taking in the Older Adult",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 351
+    },
+    {
+        "title": "Histrionic Personality Disorder (HPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 352
+    },
+    {
+        "title": "Hodgkin Lymphoma",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 353
+    },
+    {
+        "title": "Homeopathy",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 354
+    },
+    {
+        "title": "Hospital Care and Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 355
+    },
+    {
+        "title": "Host Defense Mechanisms Against Infection",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 356
+    },
+    {
+        "title": "How To Do an Emergency Tooth Extraction",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 357
+    },
+    {
+        "title": "How To Do Bag-Valve-Mask (BVM) Ventilation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 358
+    },
+    {
+        "title": "How To Do Diagnostic Peritoneal Lavage (DPL)",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 359
+    },
+    {
+        "title": "How To Do E-FAST Examination",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 360
+    },
+    {
+        "title": "How To Do Femoral Artery Cannulation, Ultrasound-Guided",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 361
+    },
+    {
+        "title": "How to Do Head Tilt-Chin Lift and Jaw-Thrust Maneuvers",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 362
+    },
+    {
+        "title": "How to Do the Heimlich Maneuver in the Conscious Adult or Child",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 363
+    },
+    {
+        "title": "How to Do Thoracentesis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 364
+    },
+    {
+        "title": "How To Do Ultrasonography",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 365
+    },
+    {
+        "title": "How To Do Urethral Catheterization in a Male",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 366
+    },
+    {
+        "title": "How To Do Venous Blood Sampling",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 367
+    },
+    {
+        "title": "How to Insert a Laryngeal Mask Airway",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 368
+    },
+    {
+        "title": "How To Insert a Nasopharyngeal Airway",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 369
+    },
+    {
+        "title": "How to Insert an Oropharyngeal Airway",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 370
+    },
+    {
+        "title": "How to Reduce a Mandibular Dislocation",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 371
+    },
+    {
+        "title": "How to Remove a Foreign Body from the Eye",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 372
+    },
+    {
+        "title": "How To Repair a Laceration With Glue",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 373
+    },
+    {
+        "title": "How to Treat the Choking Conscious Infant",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 374
+    },
+    {
+        "title": "Human and Mammal Bites",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 375
+    },
+    {
+        "title": "Human Immunodeficiency Virus (HIV) Infection",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 376
+    },
+    {
+        "title": "Human Papillomavirus (HPV) Infection",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 377
+    },
+    {
+        "title": "Huntington Disease",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 378
+    },
+    {
+        "title": "Hydrocarbon Poisoning",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 379
+    },
+    {
+        "title": "Hypercalcemia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 380
+    },
+    {
+        "title": "Hyperhidrosis",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 381
+    },
+    {
+        "title": "Hyperkalemia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 382
+    },
+    {
+        "title": "Hypernatremia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 383
+    },
+    {
+        "title": "Hyperpigmentation",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 384
+    },
+    {
+        "title": "Hypertensive Emergencies",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 385
+    },
+    {
+        "title": "Hypertensive Retinopathy",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 386
+    },
+    {
+        "title": "Hyperthyroidism",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 387
+    },
+    {
+        "title": "Hypertrophic Pyloric Stenosis",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 388
+    },
+    {
+        "title": "Hypoglycemia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 389
+    },
+    {
+        "title": "Hypokalemia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 390
+    },
+    {
+        "title": "Hyponatremia",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 391
+    },
+    {
+        "title": "Hypothermia",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 392
+    },
+    {
+        "title": "Hypothyroidism",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 393
+    },
+    {
+        "title": "Idiopathic Pulmonary Fibrosis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 394
+    },
+    {
+        "title": "IgG4-Related Disease",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 395
+    },
+    {
+        "title": "Imaging Tests of the Liver and Gallbladder",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 396
+    },
+    {
+        "title": "Immunotherapeutics",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 397
+    },
+    {
+        "title": "Immunotherapy of Cancer",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 398
+    },
+    {
+        "title": "Infantile Hemangiomas",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 399
+    },
+    {
+        "title": "Infection by Escherichia coli O157:H7 and Other Enterohemorrhagic E. coli (EHEC)",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 400
+    },
+    {
+        "title": "Infectious Disease in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 401
+    },
+    {
+        "title": "Infectious Uveitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 402
+    },
+    {
+        "title": "Influenza",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 403
+    },
+    {
+        "title": "Insect Stings",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 404
+    },
+    {
+        "title": "Interdigital Neuroma",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 405
+    },
+    {
+        "title": "Internal Temporomandibular Joint (TMJ) Derangement",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 406
+    },
+    {
+        "title": "Interstitial Cystitis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 407
+    },
+    {
+        "title": "Interventions with the Older Driver",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 408
+    },
+    {
+        "title": "Intestinal Obstruction",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 409
+    },
+    {
+        "title": "Intimacy and Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 410
+    },
+    {
+        "title": "Intrauterine Device (IUDs; IUD)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 411
+    },
+    {
+        "title": "Intravenous Fluid Resuscitation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 412
+    },
+    {
+        "title": "Introduction to Geriatrics",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 413
+    },
+    {
+        "title": "Introduction to the Approach to the Dental Patient",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 414
+    },
+    {
+        "title": "Intussusception",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 415
+    },
+    {
+        "title": "Involuntary Weight Loss",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 416
+    },
+    {
+        "title": "Iodine",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 417
+    },
+    {
+        "title": "Iron Deficiency Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 418
+    },
+    {
+        "title": "Irritable Bowel Syndrome (IBS)",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 419
+    },
+    {
+        "title": "Ischemic Optic Neuropathy",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 420
+    },
+    {
+        "title": "Isolated Hematuria",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 421
+    },
+    {
+        "title": "Itching",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 422
+    },
+    {
+        "title": "Jaundice",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 423
+    },
+    {
+        "title": "Juvenile Idiopathic Arthritis",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 424
+    },
+    {
+        "title": "Keratoconjunctivitis Sicca",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 425
+    },
+    {
+        "title": "Kidney Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 426
+    },
+    {
+        "title": "Knee Sprains and Meniscal Injuries",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 427
+    },
+    {
+        "title": "Laboratory Tests of the Liver and Gallbladder",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 428
+    },
+    {
+        "title": "Langerhans Cell Histiocytosis",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 429
+    },
+    {
+        "title": "Laryngeal Cancer",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 430
+    },
+    {
+        "title": "Leukocyte Adhesion Deficiency",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 431
+    },
+    {
+        "title": "Liberation from Mechanical Ventilation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 432
+    },
+    {
+        "title": "Lichen Planus",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 433
+    },
+    {
+        "title": "Lightning Injuries",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 434
+    },
+    {
+        "title": "Limb Pain",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 435
+    },
+    {
+        "title": "Limb Prosthetics",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 436
+    },
+    {
+        "title": "Lip Swelling",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 437
+    },
+    {
+        "title": "Lips Ulcers and Inflammation",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 438
+    },
+    {
+        "title": "Listeriosis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 439
+    },
+    {
+        "title": "Liver Injury Caused by Drugs",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 440
+    },
+    {
+        "title": "Liver Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 441
+    },
+    {
+        "title": "Lumbar Spinal Stenosis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 442
+    },
+    {
+        "title": "Lump in Throat",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 443
+    },
+    {
+        "title": "Lung Abscess",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 444
+    },
+    {
+        "title": "Lung and Heart-Lung Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 445
+    },
+    {
+        "title": "Lung Carcinoma",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 446
+    },
+    {
+        "title": "Lyme Disease",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 447
+    },
+    {
+        "title": "Lymphadenopathy",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 448
+    },
+    {
+        "title": "Lymphocytopenia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 449
+    },
+    {
+        "title": "Malaria",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 450
+    },
+    {
+        "title": "Male Hypogonadism",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 451
+    },
+    {
+        "title": "Malignant External Otitis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 452
+    },
+    {
+        "title": "Malocclusion",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 453
+    },
+    {
+        "title": "Malrotation of the Bowel",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 454
+    },
+    {
+        "title": "Management of Adverse Effects of Cancer Therapy",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 455
+    },
+    {
+        "title": "Management of Normal Delivery",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 456
+    },
+    {
+        "title": "Mandibular Condylar Hyperplasia",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 457
+    },
+    {
+        "title": "Mandibular Dislocation",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 458
+    },
+    {
+        "title": "Marburg and Ebola Virus Infections",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 459
+    },
+    {
+        "title": "Mastocytosis and Mast Cell Activation Syndrome",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 460
+    },
+    {
+        "title": "Measles",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 461
+    },
+    {
+        "title": "Mediastinal Masses",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 462
+    },
+    {
+        "title": "Medical Aspects of Long-Term Renal Replacement Therapy",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 463
+    },
+    {
+        "title": "Medical Assessment of the Older Driver",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 464
+    },
+    {
+        "title": "Medical Assessment of the Patient with Mental Symptoms",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 465
+    },
+    {
+        "title": "Medication-Receptor Interactions",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 466
+    },
+    {
+        "title": "Megaloblastic Macrocytic Anemias",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 467
+    },
+    {
+        "title": "Memory Loss",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 468
+    },
+    {
+        "title": "Meniere Disease",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 469
+    },
+    {
+        "title": "Menopause",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 470
+    },
+    {
+        "title": "Metabolic Alkalosis",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 471
+    },
+    {
+        "title": "Metabolic Nephropathies",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 472
+    },
+    {
+        "title": "Metabolic Syndrome",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 473
+    },
+    {
+        "title": "Metastatic Bone Tumors",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 474
+    },
+    {
+        "title": "Metastatic Carcinoma of Unknown Primary Origin",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 475
+    },
+    {
+        "title": "Metastatic Liver Cancer",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 476
+    },
+    {
+        "title": "Microscopic Polyangiitis (MPA)",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 477
+    },
+    {
+        "title": "Migraine",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 478
+    },
+    {
+        "title": "Minimal Change Disease",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 479
+    },
+    {
+        "title": "Mitral Valve Prolapse (MVP)",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 480
+    },
+    {
+        "title": "Molecular Components of the Immune System",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 481
+    },
+    {
+        "title": "Moles",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 482
+    },
+    {
+        "title": "Monitoring and Testing the Critical Care Patient",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 483
+    },
+    {
+        "title": "Motion Sickness",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 484
+    },
+    {
+        "title": "Mpox (Monkeypox)",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 485
+    },
+    {
+        "title": "Multiple Endocrine Neoplasia, Type 1 (MEN 1)",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 486
+    },
+    {
+        "title": "Multiple Myeloma",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 487
+    },
+    {
+        "title": "Mumps",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 488
+    },
+    {
+        "title": "Myasthenia Gravis",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 489
+    },
+    {
+        "title": "Myelophthisic Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 490
+    },
+    {
+        "title": "Myocarditis",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 491
+    },
+    {
+        "title": "Nail Deformities and Dystrophies",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 492
+    },
+    {
+        "title": "Narcissistic Personality Disorder (NPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 493
+    },
+    {
+        "title": "Narcolepsy",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 494
+    },
+    {
+        "title": "Nasal Congestion and Rhinorrhea",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 495
+    },
+    {
+        "title": "Nasopharyngeal Cancer",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 496
+    },
+    {
+        "title": "Nausea and Vomiting",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 497
+    },
+    {
+        "title": "Neck Mass",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 498
+    },
+    {
+        "title": "Necrotizing Soft Tissue Infection",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 499
+    },
+    {
+        "title": "Neonatal Herpes Simplex Virus (HSV) Infection",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 500
+    },
+    {
+        "title": "Nephronophthisis and Autosomal Dominant Tubulointerstitial Kidney Disease (ADTKD)",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 501
+    },
+    {
+        "title": "Nerve Root Disorders",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 502
+    },
+    {
+        "title": "Neurogenic Bladder",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 503
+    },
+    {
+        "title": "Neutropenia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 504
+    },
+    {
+        "title": "Niacin Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 505
+    },
+    {
+        "title": "Non-Hodgkin Lymphomas",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 506
+    },
+    {
+        "title": "Nonalcoholic Fatty Liver Disease (NAFLD)",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 507
+    },
+    {
+        "title": "Nonfunctional Adrenal Masses",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 508
+    },
+    {
+        "title": "Nonsuicidal Self-Injury (NSSI)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 509
+    },
+    {
+        "title": "Numbness",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 510
+    },
+    {
+        "title": "Nutrient-Drug Interactions",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 511
+    },
+    {
+        "title": "Nutrition in Clinical Medicine",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 512
+    },
+    {
+        "title": "Nutritional Requirements",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 513
+    },
+    {
+        "title": "Nutritional Support for Dying or Severely Demented Patients",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 514
+    },
+    {
+        "title": "Obesity",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 515
+    },
+    {
+        "title": "Obesity in Adolescents",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 516
+    },
+    {
+        "title": "Obsessive-Compulsive Disorder (OCD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 517
+    },
+    {
+        "title": "Obsessive-Compulsive Disorder (OCD) and Related Disorders in Children and Adolescents",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 518
+    },
+    {
+        "title": "Obstructive Sleep Apnea (OSA)",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 519
+    },
+    {
+        "title": "Occupational Asthma",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 520
+    },
+    {
+        "title": "Occupational Therapy (OT)",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 521
+    },
+    {
+        "title": "Ocular Burns",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 522
+    },
+    {
+        "title": "Older Adults Living Alone",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 523
+    },
+    {
+        "title": "Oliguria",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 524
+    },
+    {
+        "title": "Operative Vaginal Delivery",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 525
+    },
+    {
+        "title": "Optic Neuritis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 526
+    },
+    {
+        "title": "Options for Limb Prostheses",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 527
+    },
+    {
+        "title": "Oral Growths",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 528
+    },
+    {
+        "title": "Oral Squamous Cell Carcinoma",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 529
+    },
+    {
+        "title": "Oropharyngeal Squamous Cell Carcinoma",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 530
+    },
+    {
+        "title": "Orthostatic Hypotension",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 531
+    },
+    {
+        "title": "Osteomyelitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 532
+    },
+    {
+        "title": "Osteonecrosis (ON)",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 533
+    },
+    {
+        "title": "Osteoporosis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 534
+    },
+    {
+        "title": "Other Neurologic Imaging Studies",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 535
+    },
+    {
+        "title": "Otic Barotrauma",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 536
+    },
+    {
+        "title": "Otorrhea",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 537
+    },
+    {
+        "title": "Ovarian, Fallopian Tube, and Peritoneal Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 538
+    },
+    {
+        "title": "Overview and Evaluation of Hand Disorders",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 539
+    },
+    {
+        "title": "Overview of Abdominal Trauma",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 540
+    },
+    {
+        "title": "Overview of Allergic and Atopic Disorders",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 541
+    },
+    {
+        "title": "Overview of Antibacterial Drugs",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 542
+    },
+    {
+        "title": "Overview of Bacterial Skin Infections",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 543
+    },
+    {
+        "title": "Overview of Bone and Joint Tumors",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 544
+    },
+    {
+        "title": "Overview of Cardiac Valvular Disorders",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 545
+    },
+    {
+        "title": "Overview of Cerebral Function",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 546
+    },
+    {
+        "title": "Overview of Chronic Hepatitis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 547
+    },
+    {
+        "title": "Overview of Coagulation Disorders",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 548
+    },
+    {
+        "title": "Overview of Congenital Cardiovascular Anomalies",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 549
+    },
+    {
+        "title": "Overview of Conjunctivitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 550
+    },
+    {
+        "title": "Overview of Demyelinating Disorders",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 551
+    },
+    {
+        "title": "Overview of Dental Emergencies",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 552
+    },
+    {
+        "title": "Overview of Dietary Supplements",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 553
+    },
+    {
+        "title": "Overview of Disorders of Calcium Concentration",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 554
+    },
+    {
+        "title": "Overview of Disorders of Fluid Volume",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 555
+    },
+    {
+        "title": "Overview of Exercise",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 556
+    },
+    {
+        "title": "Overview of Fractures",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 557
+    },
+    {
+        "title": "Overview of Gastrointestinal Bleeding",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 558
+    },
+    {
+        "title": "Overview of Geriatric Care",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 559
+    },
+    {
+        "title": "Overview of Head and Neck Tumors",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 560
+    },
+    {
+        "title": "Overview of Heat Illness",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 561
+    },
+    {
+        "title": "Overview of Hemolytic Anemia",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 562
+    },
+    {
+        "title": "Overview of Herpesvirus Infections",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 563
+    },
+    {
+        "title": "Overview of Immunodeficiency Disorders",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 564
+    },
+    {
+        "title": "Overview of Infertility",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 565
+    },
+    {
+        "title": "Overview of Inflammatory Bowel Disease",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 566
+    },
+    {
+        "title": "Overview of Integrative, Complementary, and Alternative Medicine",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 567
+    },
+    {
+        "title": "Overview of Mechanical Ventilation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 568
+    },
+    {
+        "title": "Overview of Meningitis",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 569
+    },
+    {
+        "title": "Overview of Minerals",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 570
+    },
+    {
+        "title": "Overview of Nutrition",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 571
+    },
+    {
+        "title": "Overview of Nutritional Support",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 572
+    },
+    {
+        "title": "Overview of Pain",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 573
+    },
+    {
+        "title": "Overview of Peripheral Nervous System Disorders",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 574
+    },
+    {
+        "title": "Overview of Pharmacodynamics",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 575
+    },
+    {
+        "title": "Overview of Pharmacokinetics",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 576
+    },
+    {
+        "title": "Overview of Platelet Disorders",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 577
+    },
+    {
+        "title": "Overview of Prevention in Older Aduts",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 578
+    },
+    {
+        "title": "Overview of Refractive Error",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 579
+    },
+    {
+        "title": "Overview of Rehabilitation",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 580
+    },
+    {
+        "title": "Overview of Respiratory Arrest",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 581
+    },
+    {
+        "title": "Overview of Smell and Taste Abnormalities",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 582
+    },
+    {
+        "title": "Overview of Sprains and Other Soft-Tissue Injuries",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 583
+    },
+    {
+        "title": "Overview of Stroke",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 584
+    },
+    {
+        "title": "Overview of Temporomandibular Disorders",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 585
+    },
+    {
+        "title": "Overview of the Autonomic Nervous System",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 586
+    },
+    {
+        "title": "Overview of the Endocrine System",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 587
+    },
+    {
+        "title": "Overview of the Immune System",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 588
+    },
+    {
+        "title": "Overview of the Older Driver",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 589
+    },
+    {
+        "title": "Overview of Thrombotic Disorders",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 590
+    },
+    {
+        "title": "Overview of Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 591
+    },
+    {
+        "title": "Overview of Undernutrition",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 592
+    },
+    {
+        "title": "Overview of Uveitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 593
+    },
+    {
+        "title": "Overview of Vasculitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 594
+    },
+    {
+        "title": "Overview of Vitamins",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 595
+    },
+    {
+        "title": "Oxygen Desaturation (Hypoxia)",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 596
+    },
+    {
+        "title": "Paget Disease of Bone",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 597
+    },
+    {
+        "title": "Pain in and Around a Single Joint",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 598
+    },
+    {
+        "title": "Pain in Multiple Joints",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 599
+    },
+    {
+        "title": "Palpitations",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 600
+    },
+    {
+        "title": "Pancreas Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 601
+    },
+    {
+        "title": "Panic Attacks and Panic Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 602
+    },
+    {
+        "title": "Paranoid Personality Disorder (PPD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 603
+    },
+    {
+        "title": "Parasomnias",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 604
+    },
+    {
+        "title": "Parkinson Disease (PD)",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 605
+    },
+    {
+        "title": "Pediatric Physeal (Growth Plate) Fractures",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 606
+    },
+    {
+        "title": "Pelvic Inflammatory Disease (PID)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 607
+    },
+    {
+        "title": "Pemphigus Vulgaris",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 608
+    },
+    {
+        "title": "Peptic Ulcer Disease",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 609
+    },
+    {
+        "title": "Pericarditis",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 610
+    },
+    {
+        "title": "Periodontitis",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 611
+    },
+    {
+        "title": "Peripheral Arterial Disease",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 612
+    },
+    {
+        "title": "Peritonsillar Abscess and Cellulitis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 613
+    },
+    {
+        "title": "Permanent Contraception",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 614
+    },
+    {
+        "title": "Personality Disorders",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 615
+    },
+    {
+        "title": "Pertussis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 616
+    },
+    {
+        "title": "Pharmacists and Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 617
+    },
+    {
+        "title": "Pharmacogenetics",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 618
+    },
+    {
+        "title": "Pharmacokinetics in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 619
+    },
+    {
+        "title": "Pharmacokinetics in the Older Adult",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 620
+    },
+    {
+        "title": "Pheochromocytoma",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 621
+    },
+    {
+        "title": "Physical Changes with Aging",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 622
+    },
+    {
+        "title": "Physical Therapy (PT)",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 623
+    },
+    {
+        "title": "Pinworm Infestation",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 624
+    },
+    {
+        "title": "Pityriasis Rosea",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 625
+    },
+    {
+        "title": "Placebos",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 626
+    },
+    {
+        "title": "Plantar Fasciosis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 627
+    },
+    {
+        "title": "Pleural Effusion",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 628
+    },
+    {
+        "title": "Pneumothorax",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 629
+    },
+    {
+        "title": "POEMS Syndrome",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 630
+    },
+    {
+        "title": "Poliomyelitis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 631
+    },
+    {
+        "title": "Polyarteritis Nodosa (PAN)",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 632
+    },
+    {
+        "title": "Polycystic Ovary Syndrome (PCOS)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 633
+    },
+    {
+        "title": "Polymyalgia Rheumatica",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 634
+    },
+    {
+        "title": "Polyps of the Colon and Rectum",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 635
+    },
+    {
+        "title": "Polyuria",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 636
+    },
+    {
+        "title": "Portal Hypertension",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 637
+    },
+    {
+        "title": "Portal Vein Thrombosis",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 638
+    },
+    {
+        "title": "Postcholecystectomy Syndrome",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 639
+    },
+    {
+        "title": "Postextraction Problems",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 640
+    },
+    {
+        "title": "Postinfectious Glomerulonephritis (PIGN)",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 641
+    },
+    {
+        "title": "Postoperative Care",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 642
+    },
+    {
+        "title": "Postoperative Liver Dysfunction",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 643
+    },
+    {
+        "title": "Postpartum Depression",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 644
+    },
+    {
+        "title": "Posttraumatic Stress Disorder (PTSD)",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 645
+    },
+    {
+        "title": "Premenstrual Syndrome (PMS)",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 646
+    },
+    {
+        "title": "Prenatal Genetic Counseling",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 647
+    },
+    {
+        "title": "Preseptal and Orbital Cellulitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 648
+    },
+    {
+        "title": "Pressure Injuries",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 649
+    },
+    {
+        "title": "Prevention of Disease in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 650
+    },
+    {
+        "title": "Prevention of Frailty",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 651
+    },
+    {
+        "title": "Prevention of Iatrogenic Complications in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 652
+    },
+    {
+        "title": "Prevention of Injuries in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 653
+    },
+    {
+        "title": "Primary Aldosteronism",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 654
+    },
+    {
+        "title": "Primary Biliary Cholangitis (PBC)",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 655
+    },
+    {
+        "title": "Primary Malignant Bone Tumors",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 656
+    },
+    {
+        "title": "Primary Sclerosing Cholangitis (PSC)",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 657
+    },
+    {
+        "title": "Principles of Topical Dermatologic Therapy",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 658
+    },
+    {
+        "title": "Prostatitis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 659
+    },
+    {
+        "title": "Prosthetic Joint Infectious Arthritis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 660
+    },
+    {
+        "title": "Protein-Energy Undernutrition",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 661
+    },
+    {
+        "title": "Psoriasis",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 662
+    },
+    {
+        "title": "Psoriatic Arthritis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 663
+    },
+    {
+        "title": "Pulmonary Embolism (PE)",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 664
+    },
+    {
+        "title": "Pulmonary-Renal Syndrome",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 665
+    },
+    {
+        "title": "Pyogenic Granulomas",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 666
+    },
+    {
+        "title": "Quality of Life in Older People",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 667
+    },
+    {
+        "title": "Rabies",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 668
+    },
+    {
+        "title": "Radiation Exposure and Contamination",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 669
+    },
+    {
+        "title": "Radiation Therapy for Cancer",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 670
+    },
+    {
+        "title": "Rat-Bite Fever",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 671
+    },
+    {
+        "title": "Raynaud Syndrome",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 672
+    },
+    {
+        "title": "Recurrent Aphthous Stomatitis",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 673
+    },
+    {
+        "title": "Red Eye",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 674
+    },
+    {
+        "title": "Refractive Surgery",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 675
+    },
+    {
+        "title": "Religion and Spirituality in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 676
+    },
+    {
+        "title": "Renal Cell Carcinoma",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 677
+    },
+    {
+        "title": "Renal Vein Thrombosis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 678
+    },
+    {
+        "title": "Renovascular Hypertension",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 679
+    },
+    {
+        "title": "Residential Care",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 680
+    },
+    {
+        "title": "Respiratory Alkalosis",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 681
+    },
+    {
+        "title": "Respiratory Syncytial Virus (RSV) and Human Metapneumovirus Infections",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 682
+    },
+    {
+        "title": "Retinitis Pigmentosa",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 683
+    },
+    {
+        "title": "Retropharyngeal Abscess",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 684
+    },
+    {
+        "title": "Rhabdomyosarcoma",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 685
+    },
+    {
+        "title": "Rheumatoid Arthritis (RA)",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 686
+    },
+    {
+        "title": "Riboflavin Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 687
+    },
+    {
+        "title": "Risks of Medical Radiation",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 688
+    },
+    {
+        "title": "Rosacea",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 689
+    },
+    {
+        "title": "Routine Psychiatric Assessment",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 690
+    },
+    {
+        "title": "Rubella",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 691
+    },
+    {
+        "title": "Salivary Gland Tumors",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 692
+    },
+    {
+        "title": "Salivary Stones",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 693
+    },
+    {
+        "title": "Sarcoidosis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 694
+    },
+    {
+        "title": "Schizophrenia",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 695
+    },
+    {
+        "title": "Sciatica",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 696
+    },
+    {
+        "title": "Secondary Adrenal Insufficiency",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 697
+    },
+    {
+        "title": "Secondary Iron Overload",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 698
+    },
+    {
+        "title": "Seizure Disorders",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 699
+    },
+    {
+        "title": "Selective IgA Deficiency",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 700
+    },
+    {
+        "title": "Selective Pituitary Hormone Deficiencies",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 701
+    },
+    {
+        "title": "Selenium Deficiency and Toxicity",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 702
+    },
+    {
+        "title": "Self-Neglect in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 703
+    },
+    {
+        "title": "Sepsis and Septic Shock",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 704
+    },
+    {
+        "title": "Severe Combined Immunodeficiency (SCID)",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 705
+    },
+    {
+        "title": "Shock",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 706
+    },
+    {
+        "title": "Short Bowel Syndrome",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 707
+    },
+    {
+        "title": "Sickle Cell Disease",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 708
+    },
+    {
+        "title": "Silicosis",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 709
+    },
+    {
+        "title": "Simple Nontoxic Goiter",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 710
+    },
+    {
+        "title": "Sinusitis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 711
+    },
+    {
+        "title": "Sinusoidal Obstruction Syndrome",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 712
+    },
+    {
+        "title": "Skilled Nursing Facilities",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 713
+    },
+    {
+        "title": "Skin Care of the Residual Limb",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 714
+    },
+    {
+        "title": "Skin Manifestations of Internal Disease",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 715
+    },
+    {
+        "title": "Sleep Problems in Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 716
+    },
+    {
+        "title": "Small Intestinal Bacterial Overgrowth (SIBO)",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 717
+    },
+    {
+        "title": "Small-Bowel Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 718
+    },
+    {
+        "title": "Smallpox",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 719
+    },
+    {
+        "title": "Snakebites",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 720
+    },
+    {
+        "title": "Snoring",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 721
+    },
+    {
+        "title": "Solitary Pulmonary Nodule",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 722
+    },
+    {
+        "title": "Somatic Symptom Disorder",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 723
+    },
+    {
+        "title": "Sore Throat",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 724
+    },
+    {
+        "title": "Specific Phobic Disorders",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 725
+    },
+    {
+        "title": "Spider Bites",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 726
+    },
+    {
+        "title": "Spinal Cord Compression",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 727
+    },
+    {
+        "title": "Spinal Cord Injury in Children",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 728
+    },
+    {
+        "title": "Spinal Epidural Abscess",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 729
+    },
+    {
+        "title": "Spinal Trauma",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 730
+    },
+    {
+        "title": "Splenic Injury",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 731
+    },
+    {
+        "title": "Splenomegaly",
+        "type": [
+            {
+                "Key": "v878838",
+                "Value": "Hematology and Oncology"
+            }
+        ],
+        "id": 732
+    },
+    {
+        "title": "Squamous Cell Carcinoma",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 733
+    },
+    {
+        "title": "Staphylococcal Infections",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 734
+    },
+    {
+        "title": "Staphylococcal Scalded Skin Syndrome",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 735
+    },
+    {
+        "title": "Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)",
+        "type": [
+            {
+                "Key": "v878837",
+                "Value": "Dermatologic Disorders"
+            }
+        ],
+        "id": 736
+    },
+    {
+        "title": "Stomatitis",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 737
+    },
+    {
+        "title": "Strabismus",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 738
+    },
+    {
+        "title": "Stress Fractures",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 739
+    },
+    {
+        "title": "Stress Testing",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 740
+    },
+    {
+        "title": "Stridor",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 741
+    },
+    {
+        "title": "Sudden Cardiac Death in Athletes",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 742
+    },
+    {
+        "title": "Sudden Hearing Loss",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 743
+    },
+    {
+        "title": "Suicidal Behavior",
+        "type": [
+            {
+                "Key": "v878842",
+                "Value": "Psychiatric Disorders"
+            }
+        ],
+        "id": 744
+    },
+    {
+        "title": "Surgical Airway",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 745
+    },
+    {
+        "title": "Syncope",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 746
+    },
+    {
+        "title": "Syndrome of Inappropriate ADH Secretion (SIADH)",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 747
+    },
+    {
+        "title": "Syphilis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 748
+    },
+    {
+        "title": "Systemic Abnormalities in Liver Disease",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 749
+    },
+    {
+        "title": "Systemic Disorders and the Mouth",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 750
+    },
+    {
+        "title": "Systemic Lupus Erythematosus (SLE)",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 751
+    },
+    {
+        "title": "Systemic Sclerosis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 752
+    },
+    {
+        "title": "Tearing",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 753
+    },
+    {
+        "title": "Temporomandibular Myofascial Pain Syndrome",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 754
+    },
+    {
+        "title": "Tendinitis and Tenosynovitis",
+        "type": [
+            {
+                "Key": "v878831",
+                "Value": "Musculoskeletal and Connective Tissue Disorders"
+            }
+        ],
+        "id": 755
+    },
+    {
+        "title": "Testicular Cancer",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 756
+    },
+    {
+        "title": "Testicular Torsion",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 757
+    },
+    {
+        "title": "Tests of Pulmonary Function",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 758
+    },
+    {
+        "title": "Tetanus",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 759
+    },
+    {
+        "title": "The Asymptomatic Patient With Abnormal Liver Test Results",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 760
+    },
+    {
+        "title": "The Dying Patient",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 761
+    },
+    {
+        "title": "Therapeutic Objectives in Older Adults",
+        "type": [
+            {
+                "Key": "v878850",
+                "Value": "Geriatrics"
+            }
+        ],
+        "id": 762
+    },
+    {
+        "title": "Thiamine Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 763
+    },
+    {
+        "title": "Thromboangiitis Obliterans",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 764
+    },
+    {
+        "title": "Thyroid Cancers",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 765
+    },
+    {
+        "title": "Thyroid Disorders in Pregnancy",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 766
+    },
+    {
+        "title": "Tinnitus",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 767
+    },
+    {
+        "title": "Tissue Transplantation",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 768
+    },
+    {
+        "title": "Tobacco",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 769
+    },
+    {
+        "title": "Tolerance and Resistance",
+        "type": [
+            {
+                "Key": "v878847",
+                "Value": "Clinical Pharmacology"
+            }
+        ],
+        "id": 770
+    },
+    {
+        "title": "Tongue Discoloration and Other Changes",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 771
+    },
+    {
+        "title": "Tongue Discomfort",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 772
+    },
+    {
+        "title": "Tongue Trauma",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 773
+    },
+    {
+        "title": "Toothache and Infection",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 774
+    },
+    {
+        "title": "Total Parenteral Nutrition (TPN)",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 775
+    },
+    {
+        "title": "Toxins as Mass-Casualty Weapons",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 776
+    },
+    {
+        "title": "Toxoplasmosis",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 777
+    },
+    {
+        "title": "Tracheal Intubation",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 778
+    },
+    {
+        "title": "Trachoma",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 779
+    },
+    {
+        "title": "Traditional Chinese Medicine",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 780
+    },
+    {
+        "title": "Traumatic Brain Injury (TBI)",
+        "type": [
+            {
+                "Key": "v878848",
+                "Value": "Injuries; Poisoning"
+            }
+        ],
+        "id": 781
+    },
+    {
+        "title": "Traumatic Perforation of the Tympanic Membrane",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 782
+    },
+    {
+        "title": "Traveler’s Diarrhea",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 783
+    },
+    {
+        "title": "Treatment of Stable COPD",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 784
+    },
+    {
+        "title": "Trigeminal Neuralgia",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 785
+    },
+    {
+        "title": "Trimethoprim and Sulfamethoxazole",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 786
+    },
+    {
+        "title": "Tubulointerstitial Nephritis",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 787
+    },
+    {
+        "title": "Tumors of the Gallbladder and Bile Ducts",
+        "type": [
+            {
+                "Key": "v878830",
+                "Value": "Hepatic and Biliary Disorders"
+            }
+        ],
+        "id": 788
+    },
+    {
+        "title": "Tumors of the Orbit",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 789
+    },
+    {
+        "title": "Types of Viral Disorders",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 790
+    },
+    {
+        "title": "Typhoid Fever",
+        "type": [
+            {
+                "Key": "v878841",
+                "Value": "Infectious Diseases"
+            }
+        ],
+        "id": 791
+    },
+    {
+        "title": "Ulcerative Colitis",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 792
+    },
+    {
+        "title": "Umbilical Cord Prolapse",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 793
+    },
+    {
+        "title": "Unstable Angina",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 794
+    },
+    {
+        "title": "Unusual Aspects of Inheritance",
+        "type": [
+            {
+                "Key": "v878849",
+                "Value": "Special Subjects"
+            }
+        ],
+        "id": 795
+    },
+    {
+        "title": "Urinary Calculi",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 796
+    },
+    {
+        "title": "Urinary Incontinence in Adults",
+        "type": [
+            {
+                "Key": "v878844",
+                "Value": "Genitourinary Disorders"
+            }
+        ],
+        "id": 797
+    },
+    {
+        "title": "Urinary Incontinence In Children",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 798
+    },
+    {
+        "title": "Urinary Tract Infection in Children (UTI)",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 799
+    },
+    {
+        "title": "Uterine and Apical Prolapse",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 800
+    },
+    {
+        "title": "Uterine Fibroids",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 801
+    },
+    {
+        "title": "Vaccine Hesitancy",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 802
+    },
+    {
+        "title": "Vaginal Bleeding",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 803
+    },
+    {
+        "title": "Vaginal Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 804
+    },
+    {
+        "title": "Vaginal Itching and Discharge",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 805
+    },
+    {
+        "title": "Varicose Veins",
+        "type": [
+            {
+                "Key": "v878834",
+                "Value": "Cardiovascular Disorders"
+            }
+        ],
+        "id": 806
+    },
+    {
+        "title": "Vascular Access",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 807
+    },
+    {
+        "title": "Vascular Cognitive Impairment and Dementia",
+        "type": [
+            {
+                "Key": "v878843",
+                "Value": "Neurologic Disorders"
+            }
+        ],
+        "id": 808
+    },
+    {
+        "title": "Ventilatory Failure",
+        "type": [
+            {
+                "Key": "v878833",
+                "Value": "Critical Care Medicine"
+            }
+        ],
+        "id": 809
+    },
+    {
+        "title": "Vestibular Schwannoma",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 810
+    },
+    {
+        "title": "Viral Conjunctivitis",
+        "type": [
+            {
+                "Key": "v878836",
+                "Value": "Eye Disorders"
+            }
+        ],
+        "id": 811
+    },
+    {
+        "title": "Vitamin A Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 812
+    },
+    {
+        "title": "Vitamin B12",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 813
+    },
+    {
+        "title": "Vitamin C Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 814
+    },
+    {
+        "title": "Vitamin D Toxicity",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 815
+    },
+    {
+        "title": "Vitamin K Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 816
+    },
+    {
+        "title": "Vocal Cord Paralysis",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 817
+    },
+    {
+        "title": "Vocal Cord Polyps, Nodules, and Granulomas",
+        "type": [
+            {
+                "Key": "v878835",
+                "Value": "Ear, Nose, and Throat Disorders"
+            }
+        ],
+        "id": 818
+    },
+    {
+        "title": "Volume Depletion",
+        "type": [
+            {
+                "Key": "v878839",
+                "Value": "Endocrine and Metabolic Disorders"
+            }
+        ],
+        "id": 819
+    },
+    {
+        "title": "Vulvar Cancer",
+        "type": [
+            {
+                "Key": "v878845",
+                "Value": "Gynecology and Obstetrics"
+            }
+        ],
+        "id": 820
+    },
+    {
+        "title": "Wheezing",
+        "type": [
+            {
+                "Key": "v878832",
+                "Value": "Pulmonary Disorders"
+            }
+        ],
+        "id": 821
+    },
+    {
+        "title": "Whipple Disease",
+        "type": [
+            {
+                "Key": "v878829",
+                "Value": "Gastrointestinal Disorders"
+            }
+        ],
+        "id": 822
+    },
+    {
+        "title": "Wilms Tumor",
+        "type": [
+            {
+                "Key": "v878846",
+                "Value": "Pediatrics"
+            }
+        ],
+        "id": 823
+    },
+    {
+        "title": "Wilson Disease",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 824
+    },
+    {
+        "title": "Xerostomia",
+        "type": [
+            {
+                "Key": "v1143585",
+                "Value": "Dental Disorders"
+            }
+        ],
+        "id": 825
+    },
+    {
+        "title": "ZAP-70 Deficiency",
+        "type": [
+            {
+                "Key": "v878840",
+                "Value": "Immunology; Allergic Disorders"
+            }
+        ],
+        "id": 826
+    },
+    {
+        "title": "Zinc Deficiency",
+        "type": [
+            {
+                "Key": "v878828",
+                "Value": "Nutritional Disorders"
+            }
+        ],
+        "id": 827
+    }
+]
