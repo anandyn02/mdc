@@ -1981,8 +1981,8 @@
     },
     {
         "title": "Congenital diaphragmatic hernia (CDH)",
-        "desc": "",
-        "type": [],
+        "desc": "A uncommon disorder called congenital diaphragmatic hernia (also known as CDH) affects babies before they are even born. The muscle that divides the chest from the abdomen, the diaphragm, fails to close properly in the early stages of pregnancy. The diaphragm has a hole as a result. A hernia is the term for the hole.",
+        "type": ["Cardiology"],
         "visible": true,
         "id": 188
     },
