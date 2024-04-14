@@ -19,7 +19,7 @@
         "type": [
             "Neurology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 2
     },
     {
@@ -30,7 +30,7 @@
             "Dermatology",
             "Oncology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 3
     },
     {
@@ -60,7 +60,7 @@
             "Cosmetic Center in Arizona",
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 6
     },
     {
@@ -84,7 +84,7 @@
             "Brain Tumor Program",
             "Endocrinology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 8
     },
     {
@@ -93,7 +93,7 @@
         "type": [
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 9
     },
     {
@@ -111,7 +111,7 @@
         "type": [
             "Neurology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 11
     },
     {
@@ -178,7 +178,7 @@
         "type": [
             "Endocrinology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 17
     },
     {
@@ -196,7 +196,7 @@
         "type": [
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 19
     },
     {
@@ -240,14 +240,14 @@
             "Physical Medicine and Rehabilitation",
             "Transplant Center"
         ],
-        "visible": true,
+        "visible": false,
         "id": 22
     },
     {
         "title": "Adult attention-deficit/hyperactivity disorder (ADHD)",
         "desc": "Adult attention-deficit/hyperactivity disorder (ADHD) is a mental health disorder that includes a combination of persistent problems, such as difficulty paying attention, hyperactivity and impulsive behavior. Adult ADHD can lead to unstable relationships, poor work or school performance, low self-esteem, and other problems.Though it's called adult ADHD, symptoms start in early childhood and continue into adulthood. In some cases, ADHD is not recognized or diagnosed until the person is an adult. Adult ADHD symptoms may not be as clear as ADHD symptoms in children. In adults, hyperactivity may decrease, but struggles with impulsiveness, restlessness and difficulty paying attention may continue.Treatment for adult ADHD is similar to treatment for childhood ADHD. Adult ADHD treatment includes medications, psychological counseling (psychotherapy) and treatment for any mental health conditions that occur along with ADHD.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 23
     },
     {
@@ -256,7 +256,7 @@
         "type": [
             "Dermatologist"
         ],
-        "visible": true,
+        "visible": false,
         "id": 24
     },
     {
@@ -265,28 +265,28 @@
         "type": [
             "Psychologist"
         ],
-        "visible": true,
+        "visible": false,
         "id": 25
     },
     {
         "title": "Albinism",
         "desc": "The term albinism usually refers to oculocutaneous (ok-u-low-ku-TAY-nee-us) albinism (OCA). OCA is a group of disorders passed down in families where the body makes little or none of a substance called melanin. The type and amount of melanin in your body determines the color of your skin, hair and eyes. Melanin also plays a role in the development and function of the eyes, so people with albinism have vision problems.Symptoms of albinism are usually seen in a person's skin, hair and eye color, but sometimes differences are slight. People with albinism are also sensitive to the effects of the sun, so they're at higher risk of getting skin cancer.Although there's no cure for albinism, people with the disorder can take steps to protect their skin and eyes and get proper eye and skin care.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 26
     },
     {
         "title": "Alcohol intolerance",
         "desc": "Alcohol intolerance can cause immediate, uncomfortable reactions after you drink alcohol. The most common signs and symptoms are stuffy nose and skin flushing.Alcohol intolerance is caused by a genetic condition in which the body can't break down alcohol efficiently. The only way to prevent these uncomfortable reactions is to avoid alcohol.Although not a true allergy, in some cases, what seems to be alcohol intolerance might be your reaction to something in an alcoholic beverage — such as chemicals, grains or preservatives. Combining alcohol with certain medications also can cause reactions.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 27
     },
     {
         "title": "Alcohol poisoning",
         "desc": "Alcohol poisoning is a serious — and sometimes deadly — result of drinking large amounts of alcohol in a short period of time. Drinking too much too quickly can affect breathing, heart rate, body temperature and gag reflex. In some cases, this can lead to a coma and death.Alcohol poisoning also can occur when adults or children accidentally or intentionally drink household products that contain alcohol.If you think that someone has alcohol poisoning, get medical attention right away.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 28
     },
     {
@@ -296,7 +296,7 @@
             "Addiction Services",
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 29
     },
     {
@@ -309,14 +309,14 @@
             "Medication Allergy Specialty Group",
             "Stinging Insect Allergies Specialty Group"
         ],
-        "visible": true,
+        "visible": false,
         "id": 30
     },
     {
         "title": "Alpha-gal syndrome",
         "desc": "Alpha-gal syndrome is a type of food allergy. It makes people allergic to red meat and other products made from mammals.In the United States, the condition usually begins with the bite of the Lone Star tick. The bite transfers a sugar molecule called alpha-gal into the body. In some people, this triggers a reaction from the body's defenses, also called the immune system. It causes mild to severe allergic reactions to red meat, such as beef, pork or lamb. It also can cause reactions to other foods that come from mammals, such as dairy products or gelatins.The Lone Star tick is found mainly in the southeastern United States. Most cases of alpha-gal syndrome are reported in the south, east and central United States. But the condition appears to be spreading farther north and west. Deer are carrying the Lone Star tick to new parts of the country. Other types of ticks carry alpha-gal molecules in different parts of the world. Alpha-gal syndrome has been diagnosed in parts of Europe, Australia, Asia, South Africa, and South and Central America.Some people may have alpha-gal syndrome and not know it. There are people who often have serious allergic reactions, also called anaphylactic reactions, for no clear reason. Tests also show that they don't have other food allergies. Researchers think that some of these people may be affected by alpha-gal syndrome.There's no treatment other than avoiding red meat and other products made from mammals. If you have a serious allergic reaction, you may need medicine called epinephrine and treatment at the emergency room.Avoid tick bites to prevent alpha-gal syndrome. Wear long pants and long-sleeved shirts when you're in wooded, grassy areas. Use bug spray too. Check your whole body for ticks after you spend time outside.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 31
     },
     {
@@ -325,7 +325,7 @@
         "type": [
             "Neurology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 32
     },
     {
@@ -339,7 +339,7 @@
             "Radiation Oncology",
             "Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 33
     },
     {
@@ -355,7 +355,7 @@
         "title": "Amnesia",
         "desc": "Amnesia refers to the loss of memories, including facts, information and experiences. Movies and television tend to depict amnesia as forgetting your identity, but that's not generally the case in real life.Instead, people with amnesia — also called amnestic syndrome — usually know who they are. But they may have trouble learning new information and forming new memories.Amnesia can be caused by damage to areas of the brain that are vital for memory processing. Unlike a temporary episode of memory loss, called transient global amnesia, amnesia can be permanent.There's no specific treatment for amnesia, but treatment can be directed at the underlying cause. Tips to help enhance memory and get support can help people with amnesia and their families cope.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 35
     },
     {
@@ -399,7 +399,7 @@
             "Neuromuscular Disease",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 38
     },
     {
@@ -435,7 +435,7 @@
             "Allergy and immunology",
             "Anaesthesiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 41
     },
     {
@@ -446,7 +446,7 @@
             "Hematology",
             "Laboratory Medicine and Pathology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 42
     },
     {
@@ -475,7 +475,7 @@
             "Physical Medicine and Rehabilitation",
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 44
     },
     {
@@ -506,7 +506,7 @@
         "type": [
             "Rheumatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 47
     },
     {
@@ -517,14 +517,14 @@
             "Pediatric and Adolescent Medicine",
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 48
     },
     {
         "title": "Anorgasmia in women",
         "desc": "Anorgasmia is delayed, infrequent or absent orgasms — or significantly less-intense orgasms — after sexual arousal and adequate sexual stimulation. Women who have problems with orgasms and who feel significant distress about those problems may be diagnosed with anorgasmia.Among all women, the frequency and intensity of orgasms vary. Also, for any individual, orgasms can be different from one time to the next. The type and amount of stimulation needed to have an orgasm also varies.Multiple factors may lead to anorgasmia. These include relationship or intimacy issues, cultural factors, physical or medical conditions, and medications. Treatments can include education about sexual stimulation, sexual enhancement devices, individual or couple therapy, and medications.Female orgasmic disorder is another term for the spectrum of problems with orgasms. The word \"anorgasmia\" specifically refers to not being able to have an orgasm, but it's also used as shorthand for female orgasmic disorders.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 49
     },
     {
@@ -548,7 +548,7 @@
         "title": "Antibiotic-associated diarrhea",
         "desc": "Antibiotic-associated diarrhea refers to passing loose, watery stools three or more times a day after taking medications used to treat bacterial infections (antibiotics).About 1 in 5 people who take antibiotics develop antibiotic-associated diarrhea. Most often, antibiotic-associated diarrhea is mild and requires no treatment. The diarrhea typically clears up within a few days after you stop taking the antibiotic. More-serious antibiotic-associated diarrhea requires stopping or sometimes switching antibiotics.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 52
     },
     {
@@ -565,7 +565,7 @@
         "title": "Anxiety disorders",
         "desc": "Experiencing occasional anxiety is a normal part of life. However, people with anxiety disorders frequently have intense, excessive and persistent worry and fear about everyday situations. Often, anxiety disorders involve repeated episodes of sudden feelings of intense anxiety and fear or terror that reach a peak within minutes (panic attacks).These feelings of anxiety and panic interfere with daily activities, are difficult to control, are out of proportion to the actual danger and can last a long time. You may avoid places or situations to prevent these feelings. Symptoms may start during childhood or the teen years and continue into adulthood.Examples of anxiety disorders include generalized anxiety disorder, social anxiety disorder (social phobia), specific phobias and separation anxiety disorder. You can have more than one anxiety disorder. Sometimes anxiety results from a medical condition that needs treatment.Whatever form of anxiety you have, treatment can help.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 54
     },
     {
@@ -614,7 +614,7 @@
         "title": "Aphasia",
         "desc": "Aphasia is a disorder that affects how you communicate. It can impact your speech, as well as the way you write and understand both spoken and written language.Aphasia usually happens suddenly after a stroke or a head injury. But it can also come on gradually from a slow-growing brain tumor or a disease that causes progressive, permanent damage (degenerative). The severity of aphasia depends on a number of things, including the cause and the extent of the brain damage.The main treatment for aphasia involves treating the condition that causes it, as well as speech and language therapy. The person with aphasia relearns and practices language skills and learns to use other ways to communicate. Family members often participate in the process, helping the person communicate.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 59
     },
     {
@@ -663,7 +663,7 @@
             "Vascular Anomalies Clinic",
             "Vascular centers"
         ],
-        "visible": true,
+        "visible": false,
         "id": 64
     },
     {
@@ -674,7 +674,7 @@
             "Pain Medicine",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 65
     },
     {
@@ -691,7 +691,7 @@
             "Infectious diseases",
             "Gastroenterology and hepatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 67
     },
     {
@@ -713,7 +713,7 @@
             "Extracorporeal Membrane Oxygenation (ECMO) Program",
             "Pulmonary Medicine"
         ],
-        "visible": true,
+        "visible": false,
         "id": 69
     },
     {
@@ -722,7 +722,7 @@
         "type": [
             "Asthma Clinic"
         ],
-        "visible": true,
+        "visible": false,
         "id": 70
     },
     {
@@ -736,8 +736,8 @@
     },
     {
         "title": "Astrocytoma",
-        "desc": "",
-        "type": [],
+        "desc": "Astrocytoma is a growth of cells that starts in the brain or spinal cord. The growth, called a tumor, starts in cells called astrocytes. Astrocytes support and connect nerve cells in the brain and spinal cord.",
+        "type": ["Nephrology"],
         "visible": true,
         "id": 72
     },
@@ -754,7 +754,7 @@
         "title": "Atopic dermatitis (eczema)",
         "desc": "Atopic dermatitis (eczema) is a condition that causes dry, itchy and inflamed skin. It's common in young children but can occur at any age. Atopic dermatitis is long lasting (chronic) and tends to flare sometimes. It can be irritating but it's not contagious.People with atopic dermatitis are at risk of developing food allergies, hay fever and asthma.Moisturizing regularly and following other skin care habits can relieve itching and prevent new outbreaks (flares). Treatment may also include medicated ointments or creams.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 74
     },
     {
@@ -773,14 +773,14 @@
     {
         "title": "Atrial septal defect (ASD)",
         "desc": "An atrial septal defect (ASD) is a heart condition that you're born with. That means it's a congenital heart defect. People with an ASD have a hole between the upper heart chambers. The hole increases the amount of blood going through the lungs.Small atrial septal defects might be found by chance and never cause a concern. Others might close during infancy or early childhood.A large, long-term atrial septal defect can damage the heart and lungs. Surgery may be needed to repair an atrial septal defect and to prevent complications.Types of atrial septal defects (ASDs) include:",
-        "type": [],
-        "visible": true,
+        "type": ["Cardiology"],
+        "visible": false,
         "id": 76
     },
     {
         "title": "Atrial tachycardia",
-        "desc": "",
-        "type": [],
+        "desc": "Atrial tachycardia is a fast heartbeat, called an arrhythmia. It's a type of supraventricular tachycardia (SVT). ",
+        "type": ["Cardiology"],
         "visible": true,
         "id": 77
     },
@@ -795,8 +795,8 @@
     },
     {
         "title": "Atrioventricular nodal reentry tachycardia (AVNRT)",
-        "desc": "",
-        "type": [],
+        "desc": "Atrioventricular nodal reentry tachycardia (AVNRT) is a type of irregular heartbeat, also called an arrhythmia. It is the most common type of supraventricular tachycardia.",
+        "type": ["Cardiology"],
         "visible": true,
         "id": 79
     },
@@ -804,13 +804,13 @@
         "title": "Attention-deficit/hyperactivity disorder (ADHD) in children",
         "desc": "Attention-deficit/hyperactivity disorder (ADHD) is a chronic condition that affects millions of children and often continues into adulthood. ADHD includes a combination of persistent problems, such as difficulty sustaining attention, hyperactivity and impulsive behavior.Children with ADHD may also struggle with low self-esteem, troubled relationships and poor performance in school. Symptoms sometimes lessen with age. However, some people never completely outgrow their ADHD symptoms. But they can learn strategies to be successful.While treatment won't cure ADHD, it can help a great deal with symptoms. Treatment typically involves medications and behavioral interventions. Early diagnosis and treatment can make a big difference in outcome.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 80
     },
     {
         "title": "Atypical hyperplasia of the breast",
         "desc": "Atypical hyperplasia is a precancerous condition that affects cells in the breast. Atypical hyperplasia describes an accumulation of abnormal cells in the milk ducts and lobules of the breast.Atypical hyperplasia isn't cancer, but it increases the risk of breast cancer. Over the course of your lifetime, if the atypical hyperplasia cells accumulate in the milk ducts or lobules and become more abnormal, this can transition into noninvasive breast cancer (carcinoma in situ) or invasive breast cancer.If you've been diagnosed with atypical hyperplasia, you have an increased risk of developing breast cancer in the future. For this reason, doctors often recommend intensive breast cancer screening and medications to reduce breast cancer risk.",
-        "type": [],
+        "type": ["Breast and Melanoma Surgical Oncology"],
         "visible": true,
         "id": 81
     },
@@ -820,7 +820,7 @@
         "type": [
             "Pediatrician"
         ],
-        "visible": true,
+        "visible": false,
         "id": 82
     },
     {
@@ -849,7 +849,7 @@
     {
         "title": "Avascular necrosis (osteonecrosis)",
         "desc": "Avascular necrosis is the death of bone tissue due to a lack of blood supply. Also called osteonecrosis, it can lead to tiny breaks in the bone and cause the bone to collapse. The process usually takes months to years.A broken bone or dislocated joint can stop the blood flow to a section of bone. Avascular necrosis is also associated with long-term use of high-dose steroid medications and too much alcohol.Anyone can be affected. But the condition is most common in people between the ages of 30 and 50.",
-        "type": [],
+        "type": ["Orthopedic Oncology"],
         "visible": true,
         "id": 85
     },
@@ -857,7 +857,7 @@
         "title": "Baby acne",
         "desc": "Baby acne is a condition that causes small bumps on a newborn's skin — often on the face and neck. Baby acne is common and temporary. There's little you can do to prevent it, and it often clears up on its own without scarring.Other names for this condition are infantile acne and neonatal acne.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 86
     },
     {
@@ -887,7 +887,7 @@
     {
         "title": "Barrett's esophagus",
         "desc": "Barrett's esophagus is a condition in which the flat pink lining of the swallowing tube that connects the mouth to the stomach (esophagus) becomes damaged by acid reflux, which causes the lining to thicken and become red.Between the esophagus and the stomach is a critically important valve, the lower esophageal sphincter (LES). Over time, the LES may begin to fail, leading to acid and chemical damage of the esophagus, a condition called gastroesophageal reflux disease (GERD). GERD is often accompanied by symptoms such as heartburn or regurgitation. In some people, this GERD may trigger a change in the cells lining the lower esophagus, causing Barrett's esophagus.Barrett's esophagus is associated with an increased risk of developing esophageal cancer. Although the risk of developing esophageal cancer is small, it's important to have regular checkups with careful imaging and extensive biopsies of the esophagus to check for precancerous cells (dysplasia). If precancerous cells are discovered, they can be treated to prevent esophageal cancer.",
-        "type": [],
+        "type": ["Gastroenterology and Hepatology"],
         "visible": true,
         "id": 89
     },
@@ -897,14 +897,14 @@
         "type": [
             "Oral and Maxillofacial Surgeon"
         ],
-        "visible": true,
+        "visible": false,
         "id": 90
     },
     {
         "title": "Bee sting",
         "desc": "Bee stings are a common outdoor nuisance. In most cases, bee stings are just annoying, and home treatment is all that's necessary to ease the pain. But if you're allergic to bee stings or you get stung numerous times, you may have a more-serious reaction that requires emergency treatment.You can take several steps to avoid bee stings — as well as hornet and wasp stings — and find out how to treat them if you do get stung.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 91
     },
     {
@@ -923,21 +923,21 @@
     {
         "title": "Benign paroxysmal positional vertigo (BPPV)",
         "desc": "Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning.BPPV causes brief episodes of mild to intense dizziness. It is usually triggered by specific changes in your head's position. This might occur when you tip your head up or down, when you lie down, or when you turn over or sit up in bed.Although BPPV can be bothersome, it's rarely serious except when it increases the chance of falls. You can receive effective treatment for BPPV during a doctor's office visit.",
-        "type": [],
+        "type": ["Audiology"],
         "visible": true,
         "id": 93
     },
     {
         "title": "Benign peripheral nerve tumor",
         "desc": "Your peripheral nerves link your brain and spinal cord to other parts of your body. These nerves control your muscles so that you can walk, blink, swallow, pick things up and do other activities.Several different types of tumors may form on the peripheral nerves. The cause of these tumors is usually unknown. Some have a genetic cause.Most of these types of tumors are not cancerous (benign). But they can lead to nerve damage and loss of muscle control. That's why it's important to see your health care provider when you have any unusual lump, pain, tingling or numbness, or muscle weakness.Peripheral nerve tumors affect nerves by growing within them or by pressing against them. Peripheral nerve tumors that grow within nerves are called intraneural tumors. The tumors that press against nerves are called extraneural tumors. Most are benign, meaning that they are not cancerous. Different types of benign peripheral nerve tumors include:",
-        "type": [],
+        "type": ["Neurology"],
         "visible": true,
         "id": 94
     },
     {
         "title": "Benign prostatic hyperplasia (BPH)",
         "desc": "Benign prostatic hyperplasia (BPH) is a health issue that becomes more common with age. It's also called an enlarged prostate. The prostate is a small gland that helps make semen. It's found just below the bladder. And it often gets bigger as you get older.An enlarged prostate can cause symptoms that may bother you, such as blocking the flow of urine out of the bladder. It also can cause bladder, urinary tract or kidney problems.Many treatments can help BPH. These include medicines, surgery and other procedures. Your health care provider can help you choose. The right option depends on things such as:",
-        "type": [],
+        "type": ["Urology"],
         "visible": true,
         "id": 95
     },
@@ -945,7 +945,7 @@
         "title": "Bile reflux",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 96
     },
     {
@@ -954,14 +954,14 @@
         "type": [
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 97
     },
     {
         "title": "Black hairy tongue",
         "desc": "Black hairy tongue is a condition of the tongue that gives it a dark, furry look. The look usually results from a buildup of dead skin cells on the many tiny, rounded bumps on the surface of the tongue. These bumps, called papillae, contain taste buds. When these bumps become longer than usual, they can easily trap and be stained by tobacco, food, drinks, bacteria or yeast, or other substances.Black hairy tongue may look alarming, but it's usually painless and doesn't cause any health problems. The condition usually goes away by dealing with the causes and by regular mouth and tongue cleaning.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 98
     },
     {
@@ -986,7 +986,7 @@
     },
     {
         "title": "Bladder stones",
-        "desc": "",
+        "desc": "Hard masses of minerals in your bladder are called bladder stones. They appear when concentrated urine's mineral content crystallizes and forms stones. This is frequently the case when you have difficulty emptying your bladder fully.",
         "type": [
             "Urologist"
         ],
@@ -995,7 +995,7 @@
     },
     {
         "title": "Blepharitis",
-        "desc": "",
+        "desc": "Tiny oil glands at the base of the lashes can clog and cause irritation and redness, which is a typical cause of blepharitis. Blepharitis is a result of numerous illnesses and ailments.",
         "type": [
             "Optometrist"
         ],
@@ -1005,7 +1005,7 @@
     {
         "title": "Blood in urine (hematuria)",
         "desc": "It can be scary to see blood in urine, also called hematuria. In many cases, the cause is harmless. But blood in urine also can be a sign of a serious illness.If you can see the blood, it's called gross hematuria. Blood that can't be seen with the naked eye is called microscopic hematuria. It's such a small amount that it can be seen only under a microscope when a lab tests the urine. Either way, it's important to figure out the reason for the bleeding.Treatment depends on the cause.",
-        "type": [],
+        "type": ["Urology"],
         "visible": true,
         "id": 103
     },
@@ -1013,14 +1013,14 @@
         "title": "Body dysmorphic disorder",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 104
     },
     {
         "title": "Body lice",
         "desc": "Body dysmorphic disorder is a mental health condition in which you can't stop thinking about one or more perceived defects or flaws in your appearance — a flaw that appears minor or can't be seen by others. But you may feel so embarrassed, ashamed and anxious that you may avoid many social situations.When you have body dysmorphic disorder, you intensely focus on your appearance and body image, repeatedly checking the mirror, grooming or seeking reassurance, sometimes for many hours each day. Your perceived flaw and the repetitive behaviors cause you significant distress and impact your ability to function in your daily life.You may seek out numerous cosmetic procedures to try to \"fix\" your perceived flaw. Afterward, you may feel temporary satisfaction or a reduction in your distress, but often the anxiety returns and you may resume searching for other ways to fix your perceived flaw.Treatment of body dysmorphic disorder may include cognitive behavioral therapy and medication.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 105
     },
     {
@@ -1046,7 +1046,7 @@
         "title": "Bone metastasis",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 107
     },
     {
@@ -1056,7 +1056,7 @@
             "Neurosurgery",
             "Neurology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 108
     },
     {
@@ -1068,14 +1068,14 @@
             "Electrophysiology Laboratory",
             "Pediatric Cardiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 109
     },
     {
         "title": "Brain AVM (arteriovenous malformation)",
         "desc": "Bradycardia (brad-e-KAHR-dee-uh) is a slow heart rate. The hearts of adults at rest usually beat between 60 and 100 times a minute. If you have bradycardia, your heart beats fewer than 60 times a minute.Bradycardia can be a serious problem if the heart rate is very slow and the heart can't pump enough oxygen-rich blood to the body. If this happens, you may feel dizzy, very tired or weak, and short of breath. Sometimes bradycardia doesn't cause symptoms or complications.A slow heart rate isn't always a concern. For example, a resting heart rate between 40 and 60 beats a minute is quite common during sleep and in some people, particularly healthy young adults and trained athletes.If bradycardia is severe, an implanted pacemaker may be needed to help the heart maintain an appropriate rate.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 110
     },
     {
@@ -1152,7 +1152,7 @@
         "type": [
             "Orthopedic Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 115
     },
     {
@@ -1162,7 +1162,7 @@
             "Orthopedic Surgery",
             "Shoulder and Elbow Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 116
     },
     {
@@ -1171,7 +1171,7 @@
         "type": [
             "Hand Surgeon"
         ],
-        "visible": true,
+        "visible": false,
         "id": 117
     },
     {
@@ -1181,7 +1181,7 @@
             "Cardiovascular Medicine",
             "Cardiovascular Medicine in Phoenix"
         ],
-        "visible": true,
+        "visible": false,
         "id": 118
     },
     {
@@ -1190,7 +1190,7 @@
         "type": [
             "Orthopedic Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 119
     },
     {
@@ -1199,14 +1199,14 @@
         "type": [
             "Infectious diseases"
         ],
-        "visible": true,
+        "visible": false,
         "id": 120
     },
     {
         "title": "Bronchitis",
         "desc": "Bronchitis is an inflammation of the lining of your bronchial tubes, which carry air to and from your lungs. People who have bronchitis often cough up thickened mucus, which can be discolored. Bronchitis may be either acute or chronic.Often developing from a cold or other respiratory infection, acute bronchitis is very common. Chronic bronchitis, a more serious condition, is a constant irritation or inflammation of the lining of the bronchial tubes, often due to smoking.Acute bronchitis, also called a chest cold, usually improves within a week to 10 days without lasting effects, although the cough may linger for weeks.However, if you have repeated bouts of bronchitis, you may have chronic bronchitis, which requires medical attention. Chronic bronchitis is one of the conditions included in chronic obstructive pulmonary disease (COPD).",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 121
     },
     {
@@ -1215,7 +1215,7 @@
         "type": [
             "Infectious diseases"
         ],
-        "visible": true,
+        "visible": false,
         "id": 122
     },
     {
@@ -1224,14 +1224,14 @@
         "type": [
             "Cardiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 123
     },
     {
         "title": "Bruxism (teeth grinding)",
         "desc": "Bruxism (BRUK-siz-um) is a condition in which you grind, gnash or clench your teeth. If you have bruxism, you may unconsciously clench your teeth when you're awake (awake bruxism) or clench or grind them during sleep (sleep bruxism).Sleep bruxism is considered a sleep-related movement disorder. People who clench or grind their teeth (brux) during sleep are more likely to have other sleep disorders, such as snoring and pauses in breathing (sleep apnea).Mild bruxism may not require treatment. However, in some people, bruxism can be frequent and severe enough to lead to jaw disorders, headaches, damaged teeth and other problems.Because you may have sleep bruxism and be unaware of it until complications develop, it's important to know the signs and symptoms of bruxism and to seek regular dental care.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 124
     },
     {
@@ -1240,7 +1240,7 @@
         "type": [
             "Nutrition"
         ],
-        "visible": true,
+        "visible": false,
         "id": 125
     },
     {
@@ -1250,14 +1250,14 @@
             "Blistering Diseases Clinic",
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 126
     },
     {
         "title": "Bundle branch block",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 127
     },
     {
@@ -1267,7 +1267,7 @@
             "Dermatology",
             "Otolaryngology (ENT)/Head and Neck Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 128
     },
     {
@@ -1277,7 +1277,7 @@
             "Plastic and Reconstructive Surgery",
             "Trauma, Critical Care and General Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 129
     },
     {
@@ -1288,7 +1288,7 @@
             "Physical Medicine and Rehabilitation",
             "Shoulder and Elbow Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 130
     },
     {
@@ -1301,7 +1301,7 @@
             "Physical Medicine and Rehabilitation",
             "Vascular centers"
         ],
-        "visible": true,
+        "visible": false,
         "id": 131
     },
     {
@@ -1415,7 +1415,7 @@
             "Urology",
             "Women's Health"
         ],
-        "visible": true,
+        "visible": false,
         "id": 132
     },
     {
@@ -1424,7 +1424,7 @@
         "type": [
             "Anaesthesiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 133
     },
     {
@@ -1433,7 +1433,7 @@
         "type": [
             "Oncologist"
         ],
-        "visible": true,
+        "visible": false,
         "id": 134
     },
     {
@@ -1449,9 +1449,8 @@
             "Oncology (Medical)",
             "Pulmonary Medicine",
             "Radiology",
-            "Surgery",
-            "Surgical Oncology and Endocrine Surgery in Arizona"
-        ],
+            "Surgery"
+                ],
         "visible": true,
         "id": 135
     },
@@ -1459,13 +1458,13 @@
         "title": "Carcinoma of unknown primary",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 136
     },
     {
         "title": "Cardiogenic shock",
         "desc": "Carcinoma of unknown primary is a diagnosis given when doctors aren't able to locate where a cancer began.Most often, cancer is diagnosed when doctors discover the spot where the cancer began (primary tumor). If the cancer has spread (metastasized), those sites might be discovered, too.In carcinoma of unknown primary, also known as occult primary cancer, doctors find the cancer cells that spread in the body, but they can't find the primary tumor.Doctors consider the location of the primary tumor when choosing the most appropriate treatments. So if carcinoma of unknown primary is found, doctors work to try to identify the primary tumor site. Your doctor might consider your risk factors, symptoms, and results from exams, imaging tests and pathology tests when trying to determine where your cancer began.",
-        "type": [],
+        "type": ["Cardiology"],
         "visible": true,
         "id": 137
     },
@@ -1491,8 +1490,7 @@
             "Neurosurgery",
             "Orthopedic Surgery",
             "Physical Medicine and Rehabilitation",
-            "Plastic and Reconstructive Surgery",
-            "Trauma, Critical Care and General Surgery in Rochester"
+            "Plastic and Reconstructive Surgery"
         ],
         "visible": true,
         "id": 139
@@ -1503,14 +1501,14 @@
         "type": [
             "Hematology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 140
     },
     {
         "title": "Cavities/tooth decay",
         "desc": "Cavities are areas in the hard surface of your teeth that are damaged. These areas of tooth decay become tiny openings or holes that can lead to a serious toothache, infection and tooth loss. There are several causes of cavities, including bacteria in your mouth, snacking a lot, sipping sugary drinks and not cleaning your teeth well.Cavities and tooth decay are among the world's most common health problems. They're especially common in children, teenagers and older adults. But anyone who has teeth can get cavities, including babies.If cavities aren't treated, they get larger and affect deeper layers of your teeth. Regular dental visits and good brushing and flossing habits are the best ways to protect your teeth from cavities.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 141
     },
     {
@@ -1528,14 +1526,14 @@
         "type": [
             "Center for Aesthetic Medicine & Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 143
     },
     {
         "title": "Cellulitis",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 144
     },
     {
@@ -1559,7 +1557,7 @@
             "Sleep Medicine",
             "Sleep Neurology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 146
     },
     {
@@ -1578,7 +1576,7 @@
             "Speech Pathology",
             "Urology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 147
     },
     {
@@ -1601,7 +1599,7 @@
             "Neurology",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 149
     },
     {
@@ -1610,7 +1608,7 @@
         "type": [
             "Neurosurgeon"
         ],
-        "visible": true,
+        "visible": false,
         "id": 150
     },
     {
@@ -1620,7 +1618,7 @@
             "Infectious diseases",
             "Obstetrics and gynaecology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 151
     },
     {
@@ -1629,7 +1627,7 @@
         "type": [
             "Infectious diseases"
         ],
-        "visible": true,
+        "visible": false,
         "id": 152
     },
     {
@@ -1643,14 +1641,14 @@
             "Neurosurgery",
             "Pediatric Neurosurgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 153
     },
     {
         "title": "Chickenpox",
         "desc": "Chickenpox is an illness caused by the varicella-zoster virus. It brings on an itchy rash with small, fluid-filled blisters. Chickenpox spreads very easily to people who haven't had the disease or haven't gotten the chickenpox vaccine. Chickenpox used to be a widespread problem, but today the vaccine protects children from it.The chickenpox vaccine is a safe way to prevent this illness and the other health problems that can happen during it.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 154
     },
     {
@@ -1662,14 +1660,14 @@
             "Pediatric and Adolescent Medicine",
             "Speech Pathology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 155
     },
     {
         "title": "Childhood asthma",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 156
     },
     {
@@ -1678,27 +1676,29 @@
         "type": [
             "Pediatric Endocrinology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 157
     },
     {
         "title": "Childhood schizophrenia",
         "desc": "Childhood schizophrenia is an uncommon but severe mental disorder in which children and teenagers interpret reality abnormally. Schizophrenia involves a range of problems with thinking (cognitive), behavior or emotions. It may result in some combination of hallucinations, delusions, and extremely disordered thinking and behavior that impairs your child's ability to function.Childhood schizophrenia is essentially the same as schizophrenia in adults, but it starts early in life — generally in the teenage years — and has a profound impact on a child's behavior and development. With childhood schizophrenia, the early age of onset presents special challenges for diagnosis, treatment, education, and emotional and social development.Schizophrenia is a chronic condition that requires lifelong treatment. Identifying and starting treatment for childhood schizophrenia as early as possible may significantly improve your child's long-term outcome.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 158
     },
     {
         "title": "Chlamydia trachomatis",
         "desc": "Chlamydia (kluh-MID-e-uh) is a common sexually transmitted infection (STI), also known as a sexually transmitted disease (STD). Chlamydia is caused by Chlamydia trachomatis (truh-KOH-muh-tis) bacteria. You might not know you have chlamydia because many people don't have symptoms, such as genital pain and discharge from the vagina or penis.Chlamydia trachomatis affects mostly young women, but it can occur in both men and women and in all age groups. It's not difficult to treat, but if left untreated it can lead to more-serious health problems.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 159
     },
     {
         "title": "Cholangiocarcinoma (bile duct cancer)",
         "desc": "Cholangiocarcinoma is a type of cancer that forms in the slender tubes (bile ducts) that carry the digestive fluid bile. Bile ducts connect your liver to your gallbladder and to your small intestine.Cholangiocarcinoma, also known as bile duct cancer, occurs mostly in people older than age 50, though it can occur at any age.Doctors divide cholangiocarcinoma into different types based on where the cancer occurs in the bile ducts:Cholangiocarcinoma is often diagnosed when it's advanced, making successful treatment difficult to achieve.",
-        "type": [],
+        "type": ["Hepatobiliary and Pancreas Surgery",
+                 "Radiology",
+                "Oncology"],
         "visible": true,
         "id": 160
     },
@@ -1709,7 +1709,7 @@
             "Infectious diseases",
             "Gastroenterology and hepatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 161
     },
     {
@@ -1719,7 +1719,7 @@
             "Gastroenterology and Hepatology",
             "Obstetrics and Gynecology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 162
     },
     {
@@ -1743,14 +1743,14 @@
         "title": "Chordoma",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 164
     },
     {
         "title": "Choroid plexus carcinoma",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 165
     },
     {
@@ -1761,7 +1761,7 @@
             "Neurology",
             "Pain Rehabilitation Center"
         ],
-        "visible": true,
+        "visible": false,
         "id": 166
     },
     {
@@ -1772,7 +1772,7 @@
             "Physical Medicine and Rehabilitation",
             "Sports Medicine"
         ],
-        "visible": true,
+        "visible": false,
         "id": 167
     },
     {
@@ -1786,7 +1786,7 @@
             "Primary Immunodeficiency Center in Minnesota",
             "Pulmonary Medicine"
         ],
-        "visible": true,
+        "visible": false,
         "id": 168
     },
     {
@@ -1796,7 +1796,7 @@
             "Angioedema and Urticaria Specialty Group",
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 169
     },
     {
@@ -1868,7 +1868,7 @@
     },
     {
         "title": "Claudication",
-        "desc": "",
+        "desc": "Pain from inadequate blood supply to the muscles during activity is known as claudication. Depending on how severe the illness is, this discomfort typically manifests in the legs after walking at a specific pace and for a specific length of time. Because the discomfort is typically sporadic, the disorder is also known as intermittent claudication. It starts when you exercise and stops when you relax. But as claudication becomes worse, you might have pain when you're at rest.",
         "type": [
             "Vascular Surgeon"
         ],
@@ -1882,21 +1882,21 @@
             "Orthopedic Surgery",
             "Pediatric Orthopedic Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 176
     },
     {
         "title": "Cold urticaria",
         "desc": "Cold urticaria (ur-tih-KAR-e-uh) is a skin reaction to cold that appears within minutes after cold exposure. Affected skin develops itchy welts (hives).People with cold urticaria experience widely different symptoms. Some have minor reactions to the cold, while others have severe reactions. For some people with this condition, swimming in cold water could lead to very low blood pressure, fainting or shock.Cold urticaria occurs most frequently in young adults. If you think you have this condition, consult your doctor. Treatment usually includes preventive steps such as taking antihistamines and avoiding cold air and water.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 177
     },
     {
         "title": "Colic",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 178
     },
     {
@@ -1926,14 +1926,14 @@
         "type": [
             "Ear, nose, and throat"
         ],
-        "visible": true,
+        "visible": false,
         "id": 182
     },
     {
         "title": "Common cold in babies",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 183
     },
     {
@@ -1942,14 +1942,14 @@
         "type": [
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 184
     },
     {
         "title": "Complicated grief",
         "desc": "Losing a loved one is one of the most distressing and, unfortunately, common experiences people face. Most people experiencing normal grief and bereavement have a period of sorrow, numbness, and even guilt and anger. Gradually these feelings ease, and it's possible to accept loss and move forward.For some people, feelings of loss are debilitating and don't improve even after time passes. This is known as complicated grief, sometimes called persistent complex bereavement disorder. In complicated grief, painful emotions are so long lasting and severe that you have trouble recovering from the loss and resuming your own life.Different people follow different paths through the grieving experience. The order and timing of these phases may vary from person to person:These differences are normal. But if you're unable to move through these stages more than a year after the death of a loved one, you may have complicated grief. If so, seek treatment. It can help you come to terms with your loss and reclaim a sense of acceptance and peace.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 185
     },
     {
@@ -1964,7 +1964,7 @@
             "Physical Medicine and Rehabilitation",
             "Sports Medicine"
         ],
-        "visible": true,
+        "visible": false,
         "id": 186
     },
     {
@@ -2003,7 +2003,7 @@
             "Pediatric and Adolescent Medicine",
             "Pediatric Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 190
     },
     {
@@ -2014,7 +2014,7 @@
             "Colon and Rectal Surgery",
             "Gastroenterology and Hepatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 191
     },
     {
@@ -2023,7 +2023,7 @@
         "type": [
             "Gastroenterology and Hepatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 192
     },
     {
@@ -2032,14 +2032,14 @@
         "type": [
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 193
     },
     {
         "title": "Corns and calluses",
         "desc": "Contact dermatitis is an itchy rash caused by direct contact with a substance or an allergic reaction to it. The rash isn't contagious, but it can be very uncomfortable.Many substances can cause this reaction, such as cosmetics, fragrances, jewelry and plants. The rash often shows up within days of exposure.To treat contact dermatitis successfully, you need to identify and avoid the cause of your reaction. If you avoid the substance causing the reaction, the rash often clears up in 2 to 4 weeks. You can try soothing your skin with a cool, wet cloth and other self-care steps.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 194
     },
     {
@@ -2053,13 +2053,13 @@
             "Pediatric Cardiology",
             "Transplant Center"
         ],
-        "visible": true,
+        "visible": false,
         "id": 195
     },
     {
         "title": "Corticobasal degeneration (corticobasal syndrome)",
         "desc": "Corticobasal degeneration, also called corticobasal syndrome, is a rare disease that causes areas of the brain to shrink. Over time, nerve cells break down and die.Corticobasal degeneration affects the area of the brain that processes information and brain structures that control movement. People with this disease have trouble with movement on one or both sides of the body. Trouble with movement gets worse over time.Symptoms also may include poor coordination, stiffness, trouble thinking, and trouble with speech or language.",
-        "type": [],
+        "type": ["Neurology"],
         "visible": true,
         "id": 196
     },
@@ -2071,26 +2071,26 @@
             "Pain Rehabilitation Center",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 197
     },
     {
         "title": "Cough headaches",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 198
     },
     {
         "title": "Cradle cap",
         "desc": "Cradle cap causes crusty or oily scaly patches on a baby's scalp. The condition isn't painful or itchy. But it can cause thick white or yellow scales that aren't easy to remove.Cradle cap usually clears up on its own in weeks or a few months. Home care measures include washing your baby's scalp daily with a mild shampoo. This can help you loosen and remove the scales. Don't scratch cradle cap.If cradle cap doesn't stop or seems serious, your baby's doctor or other health care professional may suggest a medicated shampoo, lotion or other treatment.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 199
     },
     {
         "title": "Craniopharyngioma",
-        "desc": "",
+        "desc": "Cells growing close to the pituitary gland in the brain is the precursor of a craniopharyngioma. Many bodily activities are regulated by hormones produced by the pituitary gland. A craniopharyngioma can impact the pituitary gland and other brain structures in the vicinity as it slowly grows.",
         "type": [
             "Neurosurgery"
         ],
@@ -2112,7 +2112,7 @@
             "Pediatric Rehabilitation",
             "Plastic and Reconstructive Surgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 201
     },
     {
@@ -2121,14 +2121,14 @@
         "type": [
             "Gastroenterology and hepatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 202
     },
     {
         "title": "Croup",
         "desc": "Crohn's disease is a type of inflammatory bowel disease (IBD). It causes swelling of the tissues (inflammation) in your digestive tract, which can lead to abdominal pain, severe diarrhea, fatigue, weight loss and malnutrition.Inflammation caused by Crohn's disease can involve different areas of the digestive tract in different people, most commonly the small intestine. This inflammation often spreads into the deeper layers of the bowel.Crohn's disease can be both painful and debilitating, and sometimes may lead to life-threatening complications.There's no known cure for Crohn's disease, but therapies can greatly reduce its signs and symptoms and even bring about long-term remission and healing of inflammation. With treatment, many people with Crohn's disease are able to function well.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 203
     },
     {
@@ -2139,7 +2139,7 @@
             "Nephrology and Hypertension",
             "Rheumatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 204
     },
     {
@@ -2155,14 +2155,14 @@
             "Radiation Oncology",
             "Radiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 205
     },
     {
         "title": "Cutaneous B-cell lymphoma",
         "desc": "Cushing syndrome happens when the body has too much of the hormone cortisol for a long time. This can result from the body making too much cortisol, or from taking medicines called glucocorticoids, which affect the body the same way as cortisol.Too much cortisol can cause some of the main symptoms of Cushing syndrome — a fatty hump between the shoulders, a rounded face, and pink or purple stretch marks on the skin. Cushing syndrome also can cause high blood pressure or bone loss. Sometimes, it can cause type 2 diabetes.Treatments for Cushing syndrome can lower the body's cortisol levels and improve symptoms. The sooner treatment starts, the better the chances for recovery.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 206
     },
     {
@@ -2172,21 +2172,21 @@
             "Dermatology",
             "Oncology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 207
     },
     {
         "title": "Cyclic vomiting syndrome",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 208
     },
     {
         "title": "Cyclothymia (cyclothymic disorder)",
         "desc": "Cyclothymia (sy-kloe-THIE-me-uh), also called cyclothymic disorder, is a rare mood disorder. Cyclothymia causes emotional ups and downs, but they're not as extreme as those in bipolar I or II disorder.With cyclothymia, you experience periods when your mood noticeably shifts up and down from your baseline. You may feel on top of the world for a time, followed by a low period when you feel somewhat down. Between these cyclothymic highs and lows, you may feel stable and fine.Although the highs and lows of cyclothymia are less extreme than those of bipolar disorder, it's critical to seek help managing these symptoms because they can interfere with your ability to function and increase your risk of bipolar I or II disorder.Treatment options for cyclothymia include talk therapy (psychotherapy), medications and close, ongoing follow-up with your doctor.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 209
     },
     {
@@ -2211,7 +2211,7 @@
         "title": "Cytomegalovirus (CMV) infection",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 211
     },
     {
@@ -2227,77 +2227,77 @@
         "title": "Deep vein thrombosis (DVT)",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 213
     },
     {
         "title": "Dehydration",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 214
     },
     {
         "title": "Delayed ejaculation",
         "desc": "Delayed ejaculation — sometimes called impaired ejaculation — is a condition in which it takes an extended period of sexual stimulation for men to reach sexual climax and release semen from the penis (ejaculate). Some men with delayed ejaculation are unable to ejaculate at all.Delayed ejaculation can be temporary or a lifelong problem. Possible causes of delayed ejaculation include certain chronic health conditions, surgeries and medications. Treatment for delayed ejaculation depends on the underlying cause.It's normal for men to have delayed ejaculation from time to time. Delayed ejaculation is only a problem if it's ongoing or causes stress for you or your partner.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 215
     },
     {
         "title": "Delirium",
         "desc": "Delirium is a serious change in mental abilities. It results in confused thinking and a lack of awareness of someone's surroundings. The disorder usually comes on fast — within hours or a few days.Delirium can often be traced to one or more factors. Factors may include a severe or long illness or an imbalance in the body, such as low sodium. The disorder also may be caused by certain medicines, infection, surgery, or alcohol or drug use or withdrawal.Symptoms of delirium are sometimes confused with symptoms of dementia. Health care providers may rely on input from a family member or caregiver to diagnose the disorder.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 216
     },
     {
         "title": "Dementia",
         "desc": "Dementia is a term used to describe a group of symptoms affecting memory, thinking and social abilities. In people who have dementia, the symptoms interfere with their daily lives. Dementia isn't one specific disease. Several diseases can cause dementia.Dementia generally involves memory loss. It's often one of the early symptoms of the condition. But having memory loss alone doesn't mean you have dementia. Memory loss can have different causes.Alzheimer's disease is the most common cause of dementia in older adults, but there are other causes of dementia. Depending on the cause, some dementia symptoms might be reversible.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 217
     },
     {
         "title": "Dengue fever",
         "desc": "Dengue (DENG-gey) fever is a mosquito-borne illness that occurs in tropical and subtropical areas of the world. Mild dengue fever causes a high fever and flu-like symptoms. The severe form of dengue fever, also called dengue hemorrhagic fever, can cause serious bleeding, a sudden drop in blood pressure (shock) and death.Millions of cases of dengue infection occur worldwide each year. Dengue fever is most common in Southeast Asia, the western Pacific islands, Latin America and Africa. But the disease has been spreading to new areas, including local outbreaks in Europe and southern parts of the United States.Researchers are working on dengue fever vaccines. For now, in areas where dengue fever is common, the best ways to prevent infection are to avoid being bitten by mosquitoes and to take steps to reduce the mosquito population.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 218
     },
     {
         "title": "Depersonalization-derealization disorder",
         "desc": "Depersonalization-derealization disorder occurs when you always or often feel that you're seeing yourself from outside your body or you sense that things around you are not real — or both. Feelings of depersonalization and derealization can be very disturbing. You may feel like you're living in a dream.Many people have a passing experience of depersonalization or derealization at some point. But when these feelings keep occurring or never fully go away, and they make it hard for you to function, it's likely depersonalization-derealization disorder. This condition is more common in people who experience trauma, such as violence, abuse or other kinds of extreme stress.Depersonalization-derealization disorder can be serious and may get in the way of your relationships and work. It also can disrupt other daily activities. The main treatment for depersonalization-derealization disorder is psychotherapy, also known as talk therapy. Sometimes medicines also are used.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 219
     },
     {
         "title": "Depression (major depressive disorder)",
         "desc": "Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems. You may have trouble doing normal day-to-day activities, and sometimes you may feel as if life isn't worth living.More than just a bout of the blues, depression isn't a weakness and you can't simply \"snap out\" of it. Depression may require long-term treatment. But don't get discouraged. Most people with depression feel better with medication, psychotherapy or both.Depression care at Major Clinics",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 220
     },
     {
         "title": "Dermatitis",
         "desc": "Dermatitis is a common condition that causes swelling and irritation of the skin. It has many causes and forms and often involves itchy, dry skin or a rash. Or it might cause the skin to blister, ooze, crust or flake. Three common types of this condition are atopic dermatitis, contact dermatitis and seborrheic dermatitis. Atopic dermatitis is also known as eczema.Dermatitis isn't contagious, but it can be very uncomfortable. Moisturizing regularly helps control the symptoms. Treatment also may include medicated ointments, creams and shampoos.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 221
     },
     {
         "title": "Dermatofibrosarcoma protuberans",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 222
     },
     {
         "title": "Dermatographia (Dermatographism)",
         "desc": "Dermatographia is a condition in which lightly scratching your skin causes raised, inflamed lines or welts. These marks tend to go away in less than 30 minutes. The condition is also known as dermatographism and skin writing.The cause of dermatographia is unknown, but it may be related to an infection, emotional upset or a medicine you're taking.Dermatographia is harmless. Most people who have this condition don't need treatment. If your symptoms bother you, talk with your health care provider, who might prescribe an allergy medicine.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 223
     },
     {
@@ -2307,7 +2307,7 @@
             "Dermatology",
             "Rheumatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 224
     },
     {
@@ -2322,7 +2322,6 @@
             "Proton Beam Therapy Program",
             "Radiation Oncology",
             "Radiology",
-            "Shoulder and Elbow Surgery in Rochester",
             "Surgery"
         ],
         "visible": true,
@@ -2332,21 +2331,21 @@
         "title": "Desmoplastic small round cell tumors",
         "desc": "Desmoplastic (des-moe-PLAS-tik) small round cell tumors (DSRCT) are a type of cancer that often begins in the abdomen. Sometimes this type of cancer can occur in other parts of the body.Desmoplastic small round cell tumors are rare cancers that begin as a growth of cells. The growths often form on the tissue that lines the inside of the abdomen and pelvis. This tissue lining is called the peritoneum. The cancer cells can quickly spread to other nearby organs. This might include the bladder, colon and liver.Desmoplastic small round cell tumors can happen to anyone, but they're more common in young men and boys.Treatment for desmoplastic small round cell tumors typically involves a combination of treatments. Options might include surgery, chemotherapy and radiation therapy.Desmoplastic small round cell tumors are a type of soft tissue sarcoma. Soft tissue sarcoma is a term used to describe a large group of cancers that all start in the tissues that connect, support and surround other body structures.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 226
     },
     {
         "title": "Deviated septum",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 227
     },
     {
         "title": "DiGeorge syndrome (22q11.2 deletion syndrome)",
         "desc": "DiGeorge syndrome, also known as 22q11.2 deletion syndrome, is a condition caused when a small part of chromosome 22 is missing. This deletion causes several body systems to develop poorly.The term 22q11.2 deletion syndrome covers terms once thought to be different conditions. These terms include DiGeorge syndrome, velocardiofacial (vel-oh-cahr-dee-oh-fay-shell) syndrome and other conditions caused by the same missing part of chromosome 22. But features may vary slightly.Medical problems commonly related to 22q11.2 deletion syndrome include heart problems, lowered immunity, a cleft palate, complications from low levels of calcium, various eye issues and autoimmune disorders. Complications also include hearing loss, skeletal differences, kidney and genital differences, and delayed development with behavioral and emotional problems.The number and severity of symptoms related to 22q11.2 deletion syndrome vary. But specialists in various fields need to treat almost everyone with this syndrome.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 228
     },
     {
@@ -2363,7 +2362,7 @@
             "Pediatric Diabetes Program in Minnesota",
             "Transplant Center"
         ],
-        "visible": true,
+        "visible": false,
         "id": 229
     },
     {
@@ -2374,7 +2373,7 @@
             "Nephrology",
             "Neurosurgery"
         ],
-        "visible": true,
+        "visible": false,
         "id": 230
     },
     {
@@ -2390,14 +2389,14 @@
         "title": "Dilated cardiomyopathy",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 232
     },
     {
         "title": "Diphtheria",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 233
     },
     {
@@ -2408,14 +2407,14 @@
             "Physical Medicine and Rehabilitation",
             "Shoulder and Elbow Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 234
     },
     {
         "title": "Dissociative disorders",
         "desc": "Dissociative disorders are mental health conditions that involve experiencing a loss of connection between thoughts, memories, feelings, surroundings, behavior and identity. These conditions include escape from reality in ways that are not wanted and not healthy. This causes problems in managing everyday life.Dissociative disorders usually arise as a reaction to shocking, distressing or painful events and help push away difficult memories. Symptoms depend in part on the type of dissociative disorder and can range from memory loss to disconnected identities. Times of stress can worsen symptoms for a while, making them easier to see.Treatment for dissociative disorders may include talk therapy, also called psychotherapy, and medicine. Treating dissociative disorders can be difficult, but many people learn new ways of coping and their lives get better.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 235
     },
     {
@@ -2428,7 +2427,7 @@
             "Radiology",
             "Trauma, Critical Care and General Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 236
     },
     {
@@ -2437,14 +2436,14 @@
         "type": [
             "Pediatric Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 237
     },
     {
         "title": "Drug addiction (substance use disorder)",
         "desc": "Drug addiction, also called substance use disorder, is a disease that affects a person's brain and behavior and leads to an inability to control the use of a legal or illegal drug or medicine. Substances such as alcohol, marijuana and nicotine also are considered drugs. When you're addicted, you may continue using the drug despite the harm it causes.Drug addiction can start with experimental use of a recreational drug in social situations, and, for some people, the drug use becomes more frequent. For others, particularly with opioids, drug addiction begins when they take prescribed medicines or receive them from others who have prescriptions.The risk of addiction and how fast you become addicted varies by drug. Some drugs, such as opioid painkillers, have a higher risk and cause addiction more quickly than others.As time passes, you may need larger doses of the drug to get high. Soon you may need the drug just to feel good. As your drug use increases, you may find that it's increasingly difficult to go without the drug. Attempts to stop drug use may cause intense cravings and make you feel physically ill. These are called withdrawal symptoms.Help from your health care provider, family, friends, support groups or an organized treatment program can help you overcome your drug addiction and stay drug-free.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 238
     },
     {
@@ -2453,7 +2452,7 @@
         "type": [
             "Optometrist"
         ],
-        "visible": true,
+        "visible": false,
         "id": 239
     },
     {
@@ -2472,20 +2471,20 @@
         "type": [
             "Center for Aesthetic Medicine & Surgery in Rochester"
         ],
-        "visible": true,
+        "visible": false,
         "id": 241
     },
     {
         "title": "Dry socket",
         "desc": "Dry skin makes the skin look and feel rough, itchy, flaky or scaly. The location where these dry patches form vary from person to person. It's a common condition that affects people of all ages.Dry skin, also known as xerosis or xeroderma, has many causes, including cold or dry weather, sun damage, harsh soaps, and overbathing.You can do a lot on your own to improve dry skin, including moisturizing and practicing sun protection year-round. Try various products and skin care routines to find an approach that works for you.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 242
     },
     {
         "title": "Ductal carcinoma in situ (DCIS)",
         "desc": "Ductal carcinoma in situ (DCIS) is the presence of abnormal cells inside a milk duct in the breast.DCIS is considered the earliest form of breast cancer. DCIS is noninvasive, meaning it hasn't spread out of the milk duct and has a low risk of becoming invasive.DCIS is usually found during a mammogram done as part of breast cancer screening or to investigate a breast lump.While DCIS isn't an emergency, it does require an evaluation and a consideration of treatment options. Treatment may include breast-conserving surgery combined with radiation or surgery to remove all of the breast tissue. A clinical trial studying active monitoring as an alternative to surgery may be another option.",
-        "type": [],
+        "type": ["Oncology"],
         "visible": true,
         "id": 243
     },
@@ -2493,14 +2492,14 @@
         "title": "Dumping syndrome",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 244
     },
     {
         "title": "Dupuytren contracture",
         "desc": "Dupuytren contracture is a condition that causes one or more fingers to bend toward the palm of the hand. The affected fingers can't straighten completely.Knots of tissue form under the skin. They eventually create a thick cord that can pull the fingers into a bent position. The condition gradually gets worse with time.Dupuytren contracture most often affects the two fingers farthest from the thumb. This can complicate everyday activities such as placing your hands in your pockets, putting on gloves or shaking hands.There's no cure for Dupuytren contracture. Treatments can relieve symptoms and slow how quickly the condition gets worse.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 245
     },
     {
@@ -2520,7 +2519,7 @@
         "title": "Dust mite allergy",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 247
     },
     {
@@ -2530,14 +2529,14 @@
             "Neurology",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 248
     },
     {
         "title": "Dyslexia",
         "desc": "Dyslexia is a learning disorder that involves difficulty reading due to problems identifying speech sounds and learning how they relate to letters and words (decoding). Also called a reading disability, dyslexia is a result of individual differences in areas of the brain that process language.Dyslexia is not due to problems with intelligence, hearing or vision. Most children with dyslexia can succeed in school with tutoring or a specialized education program. Emotional support also plays an important role.Though there's no cure for dyslexia, early assessment and intervention result in the best outcome. Sometimes dyslexia goes undiagnosed for years and isn't recognized until adulthood, but it's never too late to seek help.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 249
     },
     {
@@ -2549,14 +2548,14 @@
             "Pediatric Neurosurgery",
             "Physical Medicine and Rehabilitation"
         ],
-        "visible": true,
+        "visible": false,
         "id": 250
     },
     {
         "title": "Earwax blockage",
         "desc": "Dystonia is a movement disorder that causes the muscles to contract involuntarily. This can cause repetitive or twisting movements.The condition can affect one part of your body (focal dystonia), two or more adjacent parts (segmental dystonia), or all parts of your body (general dystonia). The muscle spasms can range from mild to severe. They may be painful, and they can interfere with your performance of daily tasks.There's no cure for dystonia, but medications and therapy can improve symptoms. Surgery is sometimes used to disable or regulate nerves or certain brain regions in people with severe dystonia.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 251
     },
     {
@@ -2567,7 +2566,7 @@
             "Pediatric and Adolescent Medicine",
             "Psychiatry and Psychology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 252
     },
     {
@@ -2576,20 +2575,20 @@
         "type": [
             "Obstetrics and gynaecology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 253
     },
     {
         "title": "Ectropion",
         "desc": "Ectropion (ek-TROH-pee-on) is a condition in which your eyelid turns outward. This leaves the inner eyelid surface exposed and prone to irritation.Ectropion is more common in older adults, and it generally affects only the lower eyelid. In severe ectropion, the entire length of the eyelid is turned out. In less severe ectropion, only one segment of the eyelid sags away from the eye.Artificial tears and lubricating ointments can help relieve symptoms of ectropion. But usually surgery is needed to fully correct the condition.",
-        "type": [],
+        "type": ["Otolaryngologist"],
         "visible": true,
         "id": 254
     },
     {
         "title": "Edema",
         "desc": "Edema is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet.Medicines and pregnancy can cause edema. It also can be the result of a disease, such as congestive heart failure, kidney disease, venous insufficiency or cirrhosis of the liver.Wearing compression garments and reducing salt in the diet often relieves edema. When a disease causes edema, the disease needs treatment, as well.",
-        "type": [],
+        "type": ["General Internal Medicine"],
         "visible": true,
         "id": 255
     },
@@ -2597,21 +2596,21 @@
         "title": "Egg allergy",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 256
     },
     {
         "title": "Ehlers-Danlos syndrome",
         "desc": "Ehlers-Danlos syndrome is a group of inherited disorders that affect your connective tissues — primarily your skin, joints and blood vessel walls. Connective tissue is a complex mixture of proteins and other substances that provide strength and elasticity to the underlying structures in your body.People who have Ehlers-Danlos syndrome usually have overly flexible joints and stretchy, fragile skin. This can become a problem if you have a wound that requires stitches, because the skin often isn't strong enough to hold them.A more severe form of the disorder, called vascular Ehlers-Danlos syndrome, can cause the walls of your blood vessels, intestines or uterus to rupture. Because vascular Ehlers-Danlos syndrome can have serious potential complications in pregnancy, you may want to talk to a genetic counselor before starting a family.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 257
     },
     {
         "title": "Ehrlichiosis and anaplasmosis",
         "desc": "Ehrlichiosis and anaplasmosis are similar tick-borne illnesses that cause flu-like symptoms, including fever, muscle aches and headache. Signs and symptoms of ehrlichiosis and anaplasmosis usually appear within 14 days after a tick bite.If treated quickly with appropriate antibiotics, you'll likely recover within a few days. Untreated ehrlichiosis and anaplasmosis can result in serious or life-threatening complications.The best way to prevent these infections is to avoid tick bites. Tick repellents, thorough body checks after being outside and proper removal of ticks are your best defenses against these tick-borne diseases.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 258
     },
     {
@@ -2624,13 +2623,13 @@
             "Pediatric Cardiac Surgery",
             "Pediatric Cardiology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 259
     },
     {
         "title": "Embryonal tumors",
         "desc": "Eisenmenger (I-sun-meng-ur) syndrome is a long-term complication of an unrepaired heart problem present at birth (congenital heart defect). Eisenmenger syndrome is life-threatening.In Eisenmenger syndrome, there is irregular blood flow in the heart and lungs. This causes the blood vessels in the lungs to become stiff and narrow. Blood pressure rises in the lungs' arteries (pulmonary arterial hypertension). Eisenmenger syndrome permanently damages the blood vessels in the lungs.Early diagnosis and repair of congenital heart defects usually prevents Eisenmenger syndrome. If it does develop, treatment involves regular medical visits and medications to improve symptoms.",
-        "type": [],
+        "type": ["Neurology"],
         "visible": true,
         "id": 260
     },
@@ -2658,7 +2657,7 @@
         "title": "Endocarditis",
         "desc": "",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 263
     },
     {
@@ -2691,7 +2690,7 @@
         "title": "Enlarged spleen (splenomegaly)",
         "desc": "Your spleen is an organ that sits just below your left rib cage. Many conditions — including infections, liver disease and some cancers — can cause an enlarged spleen. An enlarged spleen is also known as splenomegaly (spleh-no-MEG-uh-lee).An enlarged spleen usually doesn't cause symptoms. It's often discovered during a routine physical exam. A doctor usually can't feel the spleen in an adult unless it's enlarged. Imaging and blood tests can help identify the cause of an enlarged spleen.Treatment for an enlarged spleen depends on what's causing it. Surgery to remove an enlarged spleen usually isn't needed, but sometimes it's recommended.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 266
     },
     {
@@ -2700,7 +2699,7 @@
         "type": [
             "Ophthalmology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 267
     },
     {
@@ -2712,14 +2711,14 @@
             "Gastroenterology and Hepatology",
             "Pediatric and Adolescent Medicine"
         ],
-        "visible": true,
+        "visible": false,
         "id": 268
     },
     {
         "title": "Ependymoma",
         "desc": "Eosinophilic esophagitis (e-o-sin-o-FILL-ik uh-sof-uh-JIE-tis) is a chronic immune system disease. With this disease, a type of white blood cell, called an eosinophil, builds up in the lining of the tube that connects your mouth to your stomach. This tube is also called the esophagus. This buildup, which is a reaction to foods, allergens or acid reflux, can inflame or injure the esophageal tissue. Damaged esophageal tissue can lead to difficulty swallowing or cause food to get stuck when you swallow.Eosinophilic esophagitis has been identified only since the early '90s, but is now considered a major cause of digestive system illness. Research is ongoing and will likely lead to revisions in the diagnosis and treatment of eosinophilic esophagitis.",
         "type": [],
-        "visible": true,
+        "visible": false,
         "id": 269
     },
     {
@@ -2728,7 +2727,7 @@
         "type": [
             "Dermatologist"
         ],
-        "visible": true,
+        "visible": false,
         "id": 270
     },
     {
@@ -2737,13 +2736,13 @@
         "type": [
             "Dermatology"
         ],
-        "visible": true,
+        "visible": false,
         "id": 271
     },
     {
         "title": "Epididymitis",
         "desc": "Epididymitis (ep-ih-did-uh-MY-tis) is an inflammation of the coiled tube, called the epididymis, at the back of the testicle. The epididymis stores and carries sperm. Males of any age can get epididymitis.Epididymitis is most often caused by a bacterial infection, including sexually transmitted infections (STIs), such as gonorrhea or chlamydia. Sometimes, a testicle also becomes inflamed — a condition called epididymo-orchitis.Epididymitis is usually treated with antibiotics and measures to relieve discomfort.",
-        "type": [],
+        "type": ["Urologist"],
         "visible": true,
         "id": 272
     },
